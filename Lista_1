@@ -1,1 +1,328 @@
-asfascascasc
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="-= Portugal =-" tvg-logo="https://findicons.com/files/icons/1015/world_cup_flags/256/portugal.png",-= Portugal =-
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69124.m3u8
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="24 Kitchen HD PT" tvg-logo="",24 Kitchen HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69052.m3u8
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A Bola TV PT" tvg-logo="",A Bola TV PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69019.m3u8
+#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="Afro Music PT" tvg-logo="",Afro Music PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69091.m3u8
+#EXTINF:-1 tvg-id="amchd.pt" tvg-name="AMC FHD PT" tvg-logo="",AMC FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69077.m3u8
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMC PT" tvg-logo="",AMC PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC Break PT" tvg-logo="",AMC Break PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/249073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC Crime PT " tvg-logo="",AMC Crime PT 
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/249072.m3u8
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="ARTV PT" tvg-logo="",ARTV PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68984.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN HD PT" tvg-logo="",AXN HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69071.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN Movies HD PT" tvg-logo="",AXN Movies HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69073.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN Movies PT" tvg-logo="",AXN Movies PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69074.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN PT" tvg-logo="",AXN PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69072.m3u8
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN White HD PT" tvg-logo="",AXN White HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69075.m3u8
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN White PT" tvg-logo="",AXN White PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69076.m3u8
+#EXTINF:-1 tvg-id="babyfirsttv.pt" tvg-name="Baby TV PT" tvg-logo="",Baby TV PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69037.m3u8
+#EXTINF:-1 tvg-id="bbcntertainment.pt" tvg-name="BBC Entertainment PT" tvg-logo="",BBC Entertainment PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69095.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="BBC World News PT" tvg-logo="",BBC World News PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69096.m3u8
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV FHD PT" tvg-logo="",BENFICA TV FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68985.m3u8
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="Benfica TV HD PT" tvg-logo="",Benfica TV HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68986.m3u8
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="Benfica TV PT" tvg-logo="",Benfica TV PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68987.m3u8
+#EXTINF:-1 tvg-id="blaze.pt" tvg-name="Blaze TV PT" tvg-logo="",Blaze TV PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Campo Pequeno TV HD PT" tvg-logo="",Campo Pequeno TV HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/249065.m3u8
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="Canal 11 PT" tvg-logo="",Canal 11 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69014.m3u8
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="Canal Historia HD PT" tvg-logo="",Canal Historia HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69046.m3u8
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="Canal Historia PT" tvg-logo="",Canal Historia PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69047.m3u8
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="Canal Panda PT" tvg-logo="",Canal Panda PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69034.m3u8
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="Canal Q PT" tvg-logo="",Canal Q PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68983.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="Cartoon Network PT" tvg-logo="",Cartoon Network PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69036.m3u8
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="Casa e Cozinha HD PT" tvg-logo="",Casa e Cozinha HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69122.m3u8
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="Caça e Pesca HD PT" tvg-logo="",Caça e Pesca HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69026.m3u8
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="Caça e Pesca PT" tvg-logo="",Caça e Pesca PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69027.m3u8
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="Caçavision PT" tvg-logo="",Caçavision PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69025.m3u8
+#EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="CBS Reality PT" tvg-logo="",CBS Reality PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68982.m3u8
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="Cinemundo HD PT" tvg-logo="",Cinemundo HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69079.m3u8
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="Cinemundo PT" tvg-logo="",Cinemundo PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69080.m3u8
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV HD PT" tvg-logo="",CMTV HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68965.m3u8
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV PT" tvg-logo="",CMTV PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68966.m3u8
+#EXTINF:-1 tvg-id="cnn.pt" tvg-name="CNN PT" tvg-logo="",CNN PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69097.m3u8
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="Crime Investigation PT" tvg-logo="",Crime Investigation PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69049.m3u8
+#EXTINF:-1 tvg-id="discoverychannelhd.pt" tvg-name="DISCOVERY CHANNEL HD PT" tvg-logo="",DISCOVERY CHANNEL HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69040.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel PT" tvg-logo="",Discovery Channel PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69041.m3u8
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel PT" tvg-logo="",Disney Channel PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69028.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="Disney Junior PT" tvg-logo="",Disney Junior PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dog TV FHD PT" tvg-logo="",Dog TV FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/249066.m3u8
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Entertainment PT" tvg-logo="",E! Entertainment PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69039.m3u8
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1 FHD PT" tvg-logo="",Eleven Sports 1 FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69004.m3u8
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1 HD PT" tvg-logo="",Eleven Sports 1 HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69003.m3u8
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1 PT" tvg-logo="",Eleven Sports 1 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69002.m3u8
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2 FHD" tvg-logo="",Eleven Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69007.m3u8
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2 HD" tvg-logo="",Eleven Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69006.m3u8
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2 PT" tvg-logo="",Eleven Sports 2 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69005.m3u8
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3 FHD PT" tvg-logo="",Eleven Sports 3 FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69010.m3u8
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3 HD PT" tvg-logo="",Eleven Sports 3 HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69009.m3u8
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3 PT" tvg-logo="",Eleven Sports 3 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69008.m3u8
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4 FHD PT" tvg-logo="",Eleven Sports 4 FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69011.m3u8
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5 FHD PT" tvg-logo="",Eleven Sports 5 FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69012.m3u8
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6 FHD PT" tvg-logo="",Eleven Sports 6 FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69013.m3u8
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="Eurosport 1 HD PT" tvg-logo="",Eurosport 1 HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69017.m3u8
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="Eurosport 2 PT" tvg-logo="",Eurosport 2 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69018.m3u8
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews PT" tvg-logo="",Euronews PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/201332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network FHD PT" tvg-logo="",Fight Network FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/249064.m3u8
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="FOX Comedy HD PT" tvg-logo="",FOX Comedy HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69069.m3u8
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="FOX Comedy PT" tvg-logo="",FOX Comedy PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69070.m3u8
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime HD PT" tvg-logo="",FOX Crime HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69065.m3u8
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime PT" tvg-logo="",FOX Crime PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69066.m3u8
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX HD PT" tvg-logo="",FOX HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69061.m3u8
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX Life HD PT" tvg-logo="",FOX Life HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69063.m3u8
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX Life PT" tvg-logo="",FOX Life PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69064.m3u8
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="FOX Movies HD PT" tvg-logo="",FOX Movies HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69067.m3u8
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="FOX Movies PT" tvg-logo="",FOX Movies PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69068.m3u8
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX PT" tvg-logo="",FOX PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports PT" tvg-logo="",FOX Sports PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69098.m3u8
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="FUEL TV PT" tvg-logo="",FUEL TV PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69024.m3u8
+#EXTINF:-1 tvg-id="globonow.pt" tvg-name="Globo Now PT" tvg-logo="",Globo Now PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69101.m3u8
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="Globo PT" tvg-logo="",Globo PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69100.m3u8
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Hollywood HD PT" tvg-logo="",Hollywood HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69081.m3u8
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Hollywood PT" tvg-logo="",Hollywood PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Iconcerts FHD PT" tvg-logo="",Iconcerts FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/249068.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="ID Investigation Discovery HD PT" tvg-logo="",ID Investigation Discovery HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69050.m3u8
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="JimJam PT" tvg-logo="",JimJam PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69032.m3u8
+#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="Kombat Sport PT" tvg-logo="",Kombat Sport PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids PT" tvg-logo="",Lolly Kids PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/249067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCM PT" tvg-logo="",MCM PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69089.m3u8
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="Mezzo PT" tvg-logo="",Mezzo PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69090.m3u8
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="MOTORVISION TV PT" tvg-logo="",MOTORVISION TV PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69023.m3u8
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="MTV Portugal PT" tvg-logo="",MTV Portugal PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69087.m3u8
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="Nat Geo Wild PT" tvg-logo="",Nat Geo Wild PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69044.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographic HD PT" tvg-logo="",National Geographic HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69042.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographic PT" tvg-logo="",National Geographic PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69043.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="Nickelodeon Junior PT" tvg-logo="",Nickelodeon Junior PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69031.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="Nickelodeon PT" tvg-logo="",Nickelodeon PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69030.m3u8
+#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="NOS Studios HD PT" tvg-logo="",NOS Studios HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69085.m3u8
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia PT" tvg-logo="",Odisseia PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69045.m3u8
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="Panda Bigs PT" tvg-logo="",Panda Bigs PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69033.m3u8
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC PT" tvg-logo="",PFC PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69020.m3u8
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="Porto Canal PT" tvg-logo="",Porto Canal PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69016.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD PT" tvg-logo="",RTP 1 HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68955.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD PT" tvg-logo="",RTP 1 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68956.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 PT" tvg-logo="",RTP 1 PT ??
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=60000&url=http://viafnatt.tv:2095/live/Thomas/1234/68956.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 PT" tvg-logo="",RTP 1 PT m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=60000&url=http://viafnatt.tv:2095/Thomas/1234/68956
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 PT" tvg-logo="",RTP 1 PT ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=60000&url=http://viafnatt.tv:2095/live/Thomas/1234/68956.ts
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 HD PT" tvg-logo="",RTP 2 HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68957.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 PT" tvg-logo="",RTP 2 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68958.m3u8
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3 PT" tvg-logo="",RTP 3 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68969.m3u8
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="RTP Acores PT" tvg-logo="",RTP Acores PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68981.m3u8
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="RTP Africa PT" tvg-logo="",RTP Africa PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68979.m3u8
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="RTP Madeira PT" tvg-logo="",RTP Madeira PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68980.m3u8
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memoria PT" tvg-logo="",RTP Memoria PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68978.m3u8
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="SIC Caras PT" tvg-logo="",SIC Caras PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68974.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD PT" tvg-logo="",SIC HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68959.m3u8
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="SIC K PT" tvg-logo="",SIC K PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69035.m3u8
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher HD PT" tvg-logo="",SIC Mulher HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68970.m3u8
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher PT" tvg-logo="",SIC Mulher PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68971.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Notícias HD PT" tvg-logo="",SIC Notícias HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68963.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Notícias PT" tvg-logo="",SIC Notícias PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68964.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC PT" tvg-logo="",SIC PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68960.m3u8
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC RADICAL HD  PT" tvg-logo="",SIC RADICAL HD  PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68972.m3u8
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical PT" tvg-logo="",SIC Radical PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68973.m3u8
+#EXTINF:-1 tvg-id="skynews.pt" tvg-name="Sky News PT" tvg-logo="",Sky News PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69094.m3u8
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="Sport TV + PT" tvg-logo="",Sport TV + PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69000.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 FHD PT" tvg-logo="",Sport TV 1 FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68988.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 HD PT" tvg-logo="",Sport TV 1 HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68989.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 PT" tvg-logo="",Sport TV 1 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68990.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 FHD PT" tvg-logo="",Sport TV 2 FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68991.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 HD PT" tvg-logo="",Sport TV 2 HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68992.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 PT" tvg-logo="",Sport TV 2 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68993.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 HD PT" tvg-logo="",Sport TV 3 HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68994.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 PT" tvg-logo="",Sport TV 3 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68995.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 HD PT" tvg-logo="",Sport TV 4 HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68996.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 PT" tvg-logo="",Sport TV 4 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68997.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 HD PT" tvg-logo="",Sport TV 5 HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68998.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 PT" tvg-logo="",Sport TV 5 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 6 FHD PT" tvg-logo="",Sport TV 6 FHD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/249069.m3u8
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="Sporting TV PT" tvg-logo="",Sporting TV PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69015.m3u8
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="SportTV NBA HD PT" tvg-logo="",SportTV NBA HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69001.m3u8
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SYFY PT" tvg-logo="",SYFY PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69083.m3u8
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="TLC PT" tvg-logo="",TLC PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TPA Internacional PT" tvg-logo="",TPA Internacional PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/249062.m3u8
+#EXTINF:-1 tvg-id="tracetoca.pt" tvg-name="Trace Toca PT" tvg-logo="",Trace Toca PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69092.m3u8
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="Trace Urban PT" tvg-logo="",Trace Urban PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69093.m3u8
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="TRAVEL CHANNEL HD PT" tvg-logo="",TRAVEL CHANNEL HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69051.m3u8
+#EXTINF:-1 tvg-id="recordtv.pt" tvg-name="TV Record PT" tvg-logo="",TV Record PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69102.m3u8
+#EXTINF:-1 tvg-id="tvseries.pt" tvg-name="TV Series HD PT" tvg-logo="",TV Series HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69123.m3u8
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="Toros HD PT" tvg-logo="",Toros HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/79502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cabo Verde PT" tvg-logo="",TV Cabo Verde PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/249063.m3u8
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCine Action HD PT" tvg-logo="",TVCine Action HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69059.m3u8
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCine Action PT" tvg-logo="",TVCine Action PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69060.m3u8
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCine Edition HD PT" tvg-logo="",TVCine Edition HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69055.m3u8
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCine Edition PT" tvg-logo="",TVCine Edition PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69056.m3u8
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCine Emotion HD PT" tvg-logo="",TVCine Emotion HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69057.m3u8
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCine Emotion PT" tvg-logo="",TVCine Emotion PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69058.m3u8
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="TVCine Top HD PT" tvg-logo="",TVCine Top HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69053.m3u8
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="TVCine Top PT" tvg-logo="",TVCine Top PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69054.m3u8
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="TVI Ficção PT" tvg-logo="",TVI Ficção PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68975.m3u8
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI HD PT" tvg-logo="",TVI HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68961.m3u8
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI PT" tvg-logo="",TVI PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68962.m3u8
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI Reality HD PT" tvg-logo="",TVI Reality HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68976.m3u8
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI Reality PT" tvg-logo="",TVI Reality PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68977.m3u8
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI24 HD PT" tvg-logo="",TVI24 HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68967.m3u8
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI24 PT" tvg-logo="",TVI24 PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/68968.m3u8
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="VH1 Music PT" tvg-logo="",VH1 Music PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69088.m3u8
+#EXTINF:-1 tvg-id="zapviva.pt" tvg-name="Zap Viva HD PT" tvg-logo="",Zap Viva HD PT
+plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&amp;url=http://viafnatt.tv:2095/live/Thomas/1234/69099.m3u8
