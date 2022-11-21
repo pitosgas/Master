@@ -1,1 +1,102 @@
-kjbxkjasbxkaxb
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 1" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,PT:RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2077
+#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 2" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,PT:RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2076
+#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 3" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2075
+#EXTINF:-1 tvg-id="" tvg-name="SIC" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2068
+#EXTINF:-1 tvg-id="" tvg-name="TVI" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2051
+#EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,CM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2101
+#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2064
+#EXTINF:-1 tvg-id="" tvg-name="TVI 24" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2050
+#EXTINF:-1 tvg-id="" tvg-name="EuroNews" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,EuroNews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2094
+#EXTINF:-1 tvg-id="" tvg-name="SIC CARAS" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2067
+#EXTINF:-1 tvg-id="" tvg-name="SIC MULHER" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2065
+#EXTINF:-1 tvg-id="" tvg-name="SIC RADICAL" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2063
+#EXTINF:-1 tvg-id="" tvg-name="TV Record" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TV Record
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2052
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TVI Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2048
+#EXTINF:-1 tvg-id="" tvg-name="Benfica HD" tvg-logo="http://logo.ndasat.com/iptv/images/67378_BENFICA-TV.jpg,Benfica HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/86
+#EXTINF:-1 tvg-id="" tvg-name="AS:SportTV 1 PT" tvg-logo="" group-title=,SportTV 1 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/7001
+#EXTINF:-1 tvg-id="" tvg-name="SportTV 2 PT" tvg-logo="" group-title=,SportTV 2 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/7002
+#EXTINF:-1 tvg-id="" tvg-name="Sporttv 3 PT" tvg-logo="" group-title=,Sporttv 3 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/7003
+#EXTINF:-1 tvg-id="" tvg-name="Sporttv 4 PT" tvg-logo="" group-title=,Sporttv 4 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/7004
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Sport TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2062
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 PT" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" ,Eleven Sports 1 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2932
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 PT" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" ,Eleven Sports 2 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2933
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 PT" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" ,Eleven Sports 3 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2931
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 PT" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" ,Eleven Sports 4 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2937
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5 PT" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" ,Eleven Sports 5 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2936
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6 PT" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" ,Eleven Sports 6 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2935
+#EXTINF:-1 tvg-id="" tvg-name="A Bola TV" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,A Bola TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2115
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,EuroSport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2096
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,EuroSport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2095
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Fuel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2093
+#EXTINF:-1 tvg-id="" tvg-name="Motorvizion TV" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Motorvizion TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2085
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Discovery ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2099
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2100
+#EXTINF:-1 tvg-id="" tvg-name="TV Cine Top" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TV Cine Top
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2055
+#EXTINF:-1 tvg-id="" tvg-name="TV Cine Action" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TV Cine Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2057
+#EXTINF:-1 tvg-id="" tvg-name="TV Cine Emotion" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TV Cine Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2056
+#EXTINF:-1 tvg-id="" tvg-name="Cinemundo" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Cinemundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2102
+#EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2110
+#EXTINF:-1 tvg-id="" tvg-name="AXN Black" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,AXN Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2111
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2112
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2113
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/208
+#EXTINF:-1 tvg-id="" tvg-name="Nat geo" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Nat geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2083
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Fox Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2090
+#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,24 KITCHEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2116
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Fox Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2088
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2089
+#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Fox Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2091
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2092
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2060
