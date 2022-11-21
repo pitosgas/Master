@@ -1,102 +1,216 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 1" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,PT:RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2077
-#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 2" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,PT:RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2076
-#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 3" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2075
-#EXTINF:-1 tvg-id="" tvg-name="SIC" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2068
-#EXTINF:-1 tvg-id="" tvg-name="TVI" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2051
-#EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,CM TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2101
-#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,SIC NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2064
-#EXTINF:-1 tvg-id="" tvg-name="TVI 24" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TVI 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2050
-#EXTINF:-1 tvg-id="" tvg-name="EuroNews" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,EuroNews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2094
-#EXTINF:-1 tvg-id="" tvg-name="SIC CARAS" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,SIC CARAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2067
-#EXTINF:-1 tvg-id="" tvg-name="SIC MULHER" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,SIC MULHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2065
-#EXTINF:-1 tvg-id="" tvg-name="SIC RADICAL" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,SIC RADICAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2063
-#EXTINF:-1 tvg-id="" tvg-name="TV Record" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TV Record
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2052
-#EXTINF:-1 tvg-id="" tvg-name="TVI Reality" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2048
-#EXTINF:-1 tvg-id="" tvg-name="Benfica HD" tvg-logo="http://logo.ndasat.com/iptv/images/67378_BENFICA-TV.jpg,Benfica HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/86
-#EXTINF:-1 tvg-id="" tvg-name="AS:SportTV 1 PT" tvg-logo="" group-title=,SportTV 1 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/7001
-#EXTINF:-1 tvg-id="" tvg-name="SportTV 2 PT" tvg-logo="" group-title=,SportTV 2 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/7002
-#EXTINF:-1 tvg-id="" tvg-name="Sporttv 3 PT" tvg-logo="" group-title=,Sporttv 3 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/7003
-#EXTINF:-1 tvg-id="" tvg-name="Sporttv 4 PT" tvg-logo="" group-title=,Sporttv 4 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/7004
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2062
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 PT" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" ,Eleven Sports 1 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2932
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 PT" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" ,Eleven Sports 2 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2933
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 PT" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" ,Eleven Sports 3 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2931
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 PT" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" ,Eleven Sports 4 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2937
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5 PT" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" ,Eleven Sports 5 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2936
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6 PT" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" ,Eleven Sports 6 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2935
-#EXTINF:-1 tvg-id="" tvg-name="A Bola TV" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,A Bola TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2115
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,EuroSport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2096
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,EuroSport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2095
-#EXTINF:-1 tvg-id="" tvg-name="Fuel TV" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Fuel TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2093
-#EXTINF:-1 tvg-id="" tvg-name="Motorvizion TV" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Motorvizion TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2085
-#EXTINF:-1 tvg-id="" tvg-name="Discovery ID" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Discovery ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2099
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2100
-#EXTINF:-1 tvg-id="" tvg-name="TV Cine Top" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TV Cine Top
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2055
-#EXTINF:-1 tvg-id="" tvg-name="TV Cine Action" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TV Cine Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2057
-#EXTINF:-1 tvg-id="" tvg-name="TV Cine Emotion" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,TV Cine Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2056
-#EXTINF:-1 tvg-id="" tvg-name="Cinemundo" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Cinemundo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2102
-#EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2110
-#EXTINF:-1 tvg-id="" tvg-name="AXN Black" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,AXN Black
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2111
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2112
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2113
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/208
-#EXTINF:-1 tvg-id="" tvg-name="Nat geo" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Nat geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2083
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Fox Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2090
-#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,24 KITCHEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2116
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Fox Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2088
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2089
-#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Fox Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2091
-#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2092
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg,Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://iptv.ndasat.xyz:88/220141376608919/220141376608919/2060
+#EXTINF:-1,RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247820
+#EXTINF:-1,RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247821
+#EXTINF:-1,SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247822
+#EXTINF:-1,TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247823
+#EXTINF:-1,TVI REALITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247846
+#EXTINF:-1,SIC Caras HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247847
+#EXTINF:-1,SIC MULHER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247848
+#EXTINF:-1,SIC RADICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247849
+#EXTINF:-1,CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247892
+#EXTINF:-1,EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247893
+#EXTINF:-1,CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247894
+#EXTINF:-1,RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247895
+#EXTINF:-1,SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247896
+#EXTINF:-1,ELEVEN SPORTS 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250101
+#EXTINF:-1,ELEVEN SPORTS 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250102
+#EXTINF:-1,ELEVEN SPORTS 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250103
+#EXTINF:-1,ELEVEN SPORTS 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250104
+#EXTINF:-1,ELEVEN SPORTS 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250105
+#EXTINF:-1,ELEVEN SPORTS 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250106
+#EXTINF:-1,SPORT TV+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250107
+#EXTINF:-1,SPORT TV 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250108
+#EXTINF:-1,SPORT TV 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250109
+#EXTINF:-1,SPORT TV 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250110
+#EXTINF:-1,SPORT TV 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250111
+#EXTINF:-1,SPORT TV 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250112
+#EXTINF:-1,SPORT TV 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250113
+#EXTINF:-1,MOTOVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/252026
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247824
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247825
+#EXTINF:-1,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247826
+#EXTINF:-1,ID INVESTIGATION DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247827
+#EXTINF:-1,ODISSEIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247828
+#EXTINF:-1,CANAL HISTÓRIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247829
+#EXTINF:-1,CRIME INVESTIGAÇÃO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247830
+#EXTINF:-1,DISCOVERY ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247831
+#EXTINF:-1,FASHION TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247832
+#EXTINF:-1,TVI FICÇÃO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247845
+#EXTINF:-1,CBS REALITY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247850
+#EXTINF:-1,TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247851
+#EXTINF:-1,CASA COZINHA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247852
+#EXTINF:-1,24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247853
+#EXTINF:-1,MÁS CHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247854
+#EXTINF:-1,FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247855
+#EXTINF:-1,E! ENTERTAINMENT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247856
+#EXTINF:-1,TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247857
+#EXTINF:-1,PORTO CANAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247858
+#EXTINF:-1,CANAL Q SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247859
+#EXTINF:-1,BLAZE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247860
+#EXTINF:-1,DOG TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247861
+#EXTINF:-1,RTP MEMÓRIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247862
+#EXTINF:-1,RTP AÇORES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247863
+#EXTINF:-1,RTP AFRICA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247864
+#EXTINF:-1,RTP MADEIRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247865
+#EXTINF:-1,TVCINE + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247866
+#EXTINF:-1,TV CINE TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247867
+#EXTINF:-1,TV CINE EDITION  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247868
+#EXTINF:-1,TV CINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247869
+#EXTINF:-1,TV CINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247870
+#EXTINF:-1,NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247871
+#EXTINF:-1,HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247872
+#EXTINF:-1,FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247873
+#EXTINF:-1,CINEMUNDO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247874
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247875
+#EXTINF:-1,STAR + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247876
+#EXTINF:-1,HBO PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247877
+#EXTINF:-1,MARVEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247879
+#EXTINF:-1,DC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247880
+#EXTINF:-1,APANHADOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247881
+#EXTINF:-1,ZAP VIVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247897
+#EXTINF:-1,KURIAKOS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247898
+#EXTINF:-1,TPA INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247899
+#EXTINF:-1,SANTUARIO DE FATIMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247900
+#EXTINF:-1,TCV INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247901
+#EXTINF:-1,TVC CABO VERDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247902
+#EXTINF:-1,TVI BBB PT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247903
+#EXTINF:-1,Nick + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247834
+#EXTINF:-1,NICK JUNIOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247835
+#EXTINF:-1,BABY TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247836
+#EXTINF:-1,JIM JAM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247837
+#EXTINF:-1,NICKELODEON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247838
+#EXTINF:-1,CANAL PANDA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247839
+#EXTINF:-1,SIC KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247840
+#EXTINF:-1,PANDA BIGGS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247841
+#EXTINF:-1,DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247843
+#EXTINF:-1,CARTOON  NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247844
+#EXTINF:-1,Lolly Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247882
+#EXTINF:-1,AFRO MUSIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247883
+#EXTINF:-1,TRACE URBAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247884
+#EXTINF:-1,MTV PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247885
+#EXTINF:-1,MTV LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247886
+#EXTINF:-1,MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247887
+#EXTINF:-1,MCM POP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247888
+#EXTINF:-1,MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247889
+#EXTINF:-1,CLUBBING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247890
+#EXTINF:-1,M6 MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247891
+#EXTINF:-1,BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247842
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247904
+#EXTINF:-1,AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247905
+#EXTINF:-1,AXN MOVIES  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247906
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247907
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247908
+#EXTINF:-1,FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247909
+#EXTINF:-1,FOX COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247910
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247911
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247912
+#EXTINF:-1,ABC  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247913
+#EXTINF:-1,ABC NEWS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/247914
