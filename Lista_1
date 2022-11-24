@@ -1,326 +1,216 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="24 Kitchen HD PT" tvg-logo="",24 Kitchen HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69052.ts
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A Bola TV PT" tvg-logo="",A Bola TV PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69019.ts
-#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="Afro Music PT" tvg-logo="",Afro Music PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69091.ts
-#EXTINF:-1 tvg-id="amchd.pt" tvg-name="AMC FHD PT" tvg-logo="",AMC FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69077.ts
-#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMC PT" tvg-logo="",AMC PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69078.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC Break PT" tvg-logo="",AMC Break PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/249073.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC Crime PT " tvg-logo="",AMC Crime PT 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/249072.ts
-#EXTINF:-1 tvg-id="artv.pt" tvg-name="ARTV PT" tvg-logo="",ARTV PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68984.ts
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN HD PT" tvg-logo="",AXN HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69071.ts
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN Movies HD PT" tvg-logo="",AXN Movies HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69073.ts
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN Movies PT" tvg-logo="",AXN Movies PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69074.ts
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN PT" tvg-logo="",AXN PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69072.ts
-#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN White HD PT" tvg-logo="",AXN White HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69075.ts
-#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN White PT" tvg-logo="",AXN White PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69076.ts
-#EXTINF:-1 tvg-id="babyfirsttv.pt" tvg-name="Baby TV PT" tvg-logo="",Baby TV PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69037.ts
-#EXTINF:-1 tvg-id="bbcntertainment.pt" tvg-name="BBC Entertainment PT" tvg-logo="",BBC Entertainment PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69095.ts
-#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="BBC World News PT" tvg-logo="",BBC World News PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69096.ts
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV FHD PT" tvg-logo="",BENFICA TV FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68985.ts
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="Benfica TV HD PT" tvg-logo="",Benfica TV HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68986.ts
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="Benfica TV PT" tvg-logo="",Benfica TV PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68987.ts
-#EXTINF:-1 tvg-id="blaze.pt" tvg-name="Blaze TV PT" tvg-logo="",Blaze TV PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69048.ts
-#EXTINF:-1 tvg-id="" tvg-name="Campo Pequeno TV HD PT" tvg-logo="",Campo Pequeno TV HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/249065.ts
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="Canal 11 PT" tvg-logo="",Canal 11 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69014.ts
-#EXTINF:-1 tvg-id="historia.pt" tvg-name="Canal Historia HD PT" tvg-logo="",Canal Historia HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69046.ts
-#EXTINF:-1 tvg-id="historia.pt" tvg-name="Canal Historia PT" tvg-logo="",Canal Historia PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69047.ts
-#EXTINF:-1 tvg-id="panda.pt" tvg-name="Canal Panda PT" tvg-logo="",Canal Panda PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69034.ts
-#EXTINF:-1 tvg-id="canalq.pt" tvg-name="Canal Q PT" tvg-logo="",Canal Q PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68983.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="Cartoon Network PT" tvg-logo="",Cartoon Network PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69036.ts
-#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="Casa e Cozinha HD PT" tvg-logo="",Casa e Cozinha HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69122.ts
-#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="Caça e Pesca HD PT" tvg-logo="",Caça e Pesca HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69026.ts
-#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="Caça e Pesca PT" tvg-logo="",Caça e Pesca PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69027.ts
-#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="Caçavision PT" tvg-logo="",Caçavision PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69025.ts
-#EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="CBS Reality PT" tvg-logo="",CBS Reality PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68982.ts
-#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="Cinemundo HD PT" tvg-logo="",Cinemundo HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69079.ts
-#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="Cinemundo PT" tvg-logo="",Cinemundo PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69080.ts
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV HD PT" tvg-logo="",CMTV HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68965.ts
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV PT" tvg-logo="",CMTV PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68966.ts
-#EXTINF:-1 tvg-id="cnn.pt" tvg-name="CNN PT" tvg-logo="",CNN PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69097.ts
-#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="Crime Investigation PT" tvg-logo="",Crime Investigation PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69049.ts
-#EXTINF:-1 tvg-id="discoverychannelhd.pt" tvg-name="DISCOVERY CHANNEL HD PT" tvg-logo="",DISCOVERY CHANNEL HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69040.ts
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel PT" tvg-logo="",Discovery Channel PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69041.ts
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel PT" tvg-logo="",Disney Channel PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69028.ts
-#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="Disney Junior PT" tvg-logo="",Disney Junior PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69029.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dog TV FHD PT" tvg-logo="",Dog TV FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/249066.ts
-#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Entertainment PT" tvg-logo="",E! Entertainment PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69039.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1 FHD PT" tvg-logo="",Eleven Sports 1 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69004.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1 HD PT" tvg-logo="",Eleven Sports 1 HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69003.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1 PT" tvg-logo="",Eleven Sports 1 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69002.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2 FHD" tvg-logo="",Eleven Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69007.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2 HD" tvg-logo="",Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69006.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2 PT" tvg-logo="",Eleven Sports 2 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69005.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3 FHD PT" tvg-logo="",Eleven Sports 3 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69010.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3 HD PT" tvg-logo="",Eleven Sports 3 HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69009.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3 PT" tvg-logo="",Eleven Sports 3 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69008.ts
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4 FHD PT" tvg-logo="",Eleven Sports 4 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69011.ts
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5 FHD PT" tvg-logo="",Eleven Sports 5 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69012.ts
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6 FHD PT" tvg-logo="",Eleven Sports 6 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69013.ts
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="Eurosport 1 HD PT" tvg-logo="",Eurosport 1 HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69017.ts
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="Eurosport 2 PT" tvg-logo="",Eurosport 2 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69018.ts
-#EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews PT" tvg-logo="",Euronews PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/201332.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fight Network FHD PT" tvg-logo="",Fight Network FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/249064.ts
-#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="FOX Comedy HD PT" tvg-logo="",FOX Comedy HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69069.ts
-#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="FOX Comedy PT" tvg-logo="",FOX Comedy PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69070.ts
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime HD PT" tvg-logo="",FOX Crime HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69065.ts
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime PT" tvg-logo="",FOX Crime PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69066.ts
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX HD PT" tvg-logo="",FOX HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69061.ts
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX Life HD PT" tvg-logo="",FOX Life HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69063.ts
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX Life PT" tvg-logo="",FOX Life PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69064.ts
-#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="FOX Movies HD PT" tvg-logo="",FOX Movies HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69067.ts
-#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="FOX Movies PT" tvg-logo="",FOX Movies PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69068.ts
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX PT" tvg-logo="",FOX PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69062.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports PT" tvg-logo="",FOX Sports PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69098.ts
-#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="FUEL TV PT" tvg-logo="",FUEL TV PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69024.ts
-#EXTINF:-1 tvg-id="globonow.pt" tvg-name="Globo Now PT" tvg-logo="",Globo Now PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69101.ts
-#EXTINF:-1 tvg-id="globo.pt" tvg-name="Globo PT" tvg-logo="",Globo PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69100.ts
-#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Hollywood HD PT" tvg-logo="",Hollywood HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69081.ts
-#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Hollywood PT" tvg-logo="",Hollywood PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69082.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iconcerts FHD PT" tvg-logo="",Iconcerts FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/249068.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="ID Investigation Discovery HD PT" tvg-logo="",ID Investigation Discovery HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69050.ts
-#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="JimJam PT" tvg-logo="",JimJam PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69032.ts
-#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="Kombat Sport PT" tvg-logo="",Kombat Sport PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69021.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids PT" tvg-logo="",Lolly Kids PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/249067.ts
-#EXTINF:-1 tvg-id="" tvg-name="MCM PT" tvg-logo="",MCM PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69089.ts
-#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="Mezzo PT" tvg-logo="",Mezzo PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69090.ts
-#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="MOTORVISION TV PT" tvg-logo="",MOTORVISION TV PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69023.ts
-#EXTINF:-1 tvg-id="mtv.pt" tvg-name="MTV Portugal PT" tvg-logo="",MTV Portugal PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69087.ts
-#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="Nat Geo Wild PT" tvg-logo="",Nat Geo Wild PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69044.ts
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographic HD PT" tvg-logo="",National Geographic HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69042.ts
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographic PT" tvg-logo="",National Geographic PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69043.ts
-#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="Nickelodeon Junior PT" tvg-logo="",Nickelodeon Junior PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69031.ts
-#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="Nickelodeon PT" tvg-logo="",Nickelodeon PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69030.ts
-#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="NOS Studios HD PT" tvg-logo="",NOS Studios HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69085.ts
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia PT" tvg-logo="",Odisseia PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69045.ts
-#EXTINF:-1 tvg-id="biggs.pt" tvg-name="Panda Bigs PT" tvg-logo="",Panda Bigs PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69033.ts
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC PT" tvg-logo="",PFC PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69020.ts
-#EXTINF:-1 tvg-id="porto.pt" tvg-name="Porto Canal PT" tvg-logo="",Porto Canal PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69016.ts
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD PT" tvg-logo="",RTP 1 HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68955.ts
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD PT" tvg-logo="",RTP 1 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68956.ts
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 PT" tvg-logo="",RTP 1 PT ??
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=60000&url=http://viafnatt.tv:2095/live/Thomas/1234/68956.ts
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 PT" tvg-logo="",RTP 1 PT ts
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=60000&url=http://viafnatt.tv:2095/Thomas/1234/68956
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 PT" tvg-logo="",RTP 1 PT ts
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=60000&url=http://viafnatt.tv:2095/live/Thomas/1234/68956.ts
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 HD PT" tvg-logo="",RTP 2 HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68957.ts
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 PT" tvg-logo="",RTP 2 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68958.ts
-#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3 PT" tvg-logo="",RTP 3 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68969.ts
-#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="RTP Acores PT" tvg-logo="",RTP Acores PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68981.ts
-#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="RTP Africa PT" tvg-logo="",RTP Africa PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68979.ts
-#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="RTP Madeira PT" tvg-logo="",RTP Madeira PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68980.ts
-#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memoria PT" tvg-logo="",RTP Memoria PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68978.ts
-#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="SIC Caras PT" tvg-logo="",SIC Caras PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68974.ts
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD PT" tvg-logo="",SIC HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68959.ts
-#EXTINF:-1 tvg-id="sick.pt" tvg-name="SIC K PT" tvg-logo="",SIC K PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69035.ts
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher HD PT" tvg-logo="",SIC Mulher HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68970.ts
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher PT" tvg-logo="",SIC Mulher PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68971.ts
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Notícias HD PT" tvg-logo="",SIC Notícias HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68963.ts
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Notícias PT" tvg-logo="",SIC Notícias PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68964.ts
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC PT" tvg-logo="",SIC PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68960.ts
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC RADICAL HD  PT" tvg-logo="",SIC RADICAL HD  PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68972.ts
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical PT" tvg-logo="",SIC Radical PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68973.ts
-#EXTINF:-1 tvg-id="skynews.pt" tvg-name="Sky News PT" tvg-logo="",Sky News PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69094.ts
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="Sport TV + PT" tvg-logo="",Sport TV + PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69000.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 FHD PT" tvg-logo="",Sport TV 1 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68988.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 HD PT" tvg-logo="",Sport TV 1 HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68989.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 PT" tvg-logo="",Sport TV 1 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68990.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 FHD PT" tvg-logo="",Sport TV 2 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68991.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 HD PT" tvg-logo="",Sport TV 2 HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68992.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 PT" tvg-logo="",Sport TV 2 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68993.ts
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 HD PT" tvg-logo="",Sport TV 3 HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68994.ts
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 PT" tvg-logo="",Sport TV 3 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68995.ts
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 HD PT" tvg-logo="",Sport TV 4 HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68996.ts
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 PT" tvg-logo="",Sport TV 4 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68997.ts
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 HD PT" tvg-logo="",Sport TV 5 HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68998.ts
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 PT" tvg-logo="",Sport TV 5 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68999.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 6 FHD PT" tvg-logo="",Sport TV 6 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/249069.ts
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="Sporting TV PT" tvg-logo="",Sporting TV PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69015.ts
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="SportTV NBA HD PT" tvg-logo="",SportTV NBA HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69001.ts
-#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SYFY PT" tvg-logo="",SYFY PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69083.ts
-#EXTINF:-1 tvg-id="tlc.pt" tvg-name="TLC PT" tvg-logo="",TLC PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69038.ts
-#EXTINF:-1 tvg-id="" tvg-name="TPA Internacional PT" tvg-logo="",TPA Internacional PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/249062.ts
-#EXTINF:-1 tvg-id="tracetoca.pt" tvg-name="Trace Toca PT" tvg-logo="",Trace Toca PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69092.ts
-#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="Trace Urban PT" tvg-logo="",Trace Urban PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69093.ts
-#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="TRAVEL CHANNEL HD PT" tvg-logo="",TRAVEL CHANNEL HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69051.ts
-#EXTINF:-1 tvg-id="recordtv.pt" tvg-name="TV Record PT" tvg-logo="",TV Record PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69102.ts
-#EXTINF:-1 tvg-id="tvseries.pt" tvg-name="TV Series HD PT" tvg-logo="",TV Series HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69123.ts
-#EXTINF:-1 tvg-id="toros.pt" tvg-name="Toros HD PT" tvg-logo="",Toros HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/79502.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Cabo Verde PT" tvg-logo="",TV Cabo Verde PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/249063.ts
-#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCine Action HD PT" tvg-logo="",TVCine Action HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69059.ts
-#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCine Action PT" tvg-logo="",TVCine Action PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69060.ts
-#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCine Edition HD PT" tvg-logo="",TVCine Edition HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69055.ts
-#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCine Edition PT" tvg-logo="",TVCine Edition PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69056.ts
-#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCine Emotion HD PT" tvg-logo="",TVCine Emotion HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69057.ts
-#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCine Emotion PT" tvg-logo="",TVCine Emotion PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69058.ts
-#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="TVCine Top HD PT" tvg-logo="",TVCine Top HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69053.ts
-#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="TVCine Top PT" tvg-logo="",TVCine Top PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69054.ts
-#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="TVI Ficção PT" tvg-logo="",TVI Ficção PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68975.ts
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI HD PT" tvg-logo="",TVI HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68961.ts
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI PT" tvg-logo="",TVI PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68962.ts
-#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI Reality HD PT" tvg-logo="",TVI Reality HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68976.ts
-#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI Reality PT" tvg-logo="",TVI Reality PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68977.ts
-#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI24 HD PT" tvg-logo="",TVI24 HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68967.ts
-#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI24 PT" tvg-logo="",TVI24 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/68968.ts
-#EXTINF:-1 tvg-id="vh1.pt" tvg-name="VH1 Music PT" tvg-logo="",VH1 Music PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69088.ts
-#EXTINF:-1 tvg-id="zapviva.pt" tvg-name="Zap Viva HD PT" tvg-logo="",Zap Viva HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://viafnatt.tv:2095/live/Thomas/1234/69099.ts
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e7aeb547717f6e110c331e6aa4135d26.png" group-title="Portugal ➾ LifeStyle",PT: RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1404
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="Portugal ➾ LifeStyle",PT: RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1406
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f635b82d815b50fe826d0dd86b2da632.png" group-title="Portugal ➾ LifeStyle",PT: SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1408
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85c7a4f09d37b9ad96ddc40a0d48337c.png" group-title="Portugal ➾ News",PT: TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1410
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI Reality" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d399fedc17277522ba8d0416ee36498d.png" group-title="Portugal ➾ LifeStyle",PT: TVI Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1423
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC Caras" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ebc03e0ee47b8550771dcf1c7d2bb89c.png" group-title="Portugal ➾ LifeStyle",PT: SIC Caras
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/5910
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f8729e8ca0e2050908b375500f224f9.png" group-title="Portugal ➾ LifeStyle",PT: SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/4021
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC Mulher" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00cfc2c30fdd7d84ebed9489cc0c6ca9.png" group-title="Portugal ➾ Movie",PT: SIC Mulher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1427
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC Radical" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/977c0ecb61363c74eff0f34c59905fb4.png" group-title="Portugal ➾ LifeStyle",PT: SIC Radical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1429
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CM TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac1ea8e2c36914812a32029089a0b6d1.png" group-title="Portugal ➾ News",PT: CM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1412
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC Noticias" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c9ed2c815adfefb06bcb05ddee39727.png" group-title="Portugal ➾ News",PT: SIC Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1416
+#EXTINF:-1 tvg-id="cnn.pt" tvg-name="PT: CNN Portugal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/3c7353e281a0f304777f37ec58a6b22a.png" group-title="Portugal ➾ News",PT: CNN Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1414
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI Ficção" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e463c6dec5ae80331584d526357312e1.png" group-title="Portugal ➾ LifeStyle",PT: TVI Ficção
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1421
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV +" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal ➾ Sports",PT: SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1481
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal ➾ Sports",PT: SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1483
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal ➾ Sports",PT: SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1486
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal ➾ Sports",PT: SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1489
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal ➾ Sports",PT: SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1492
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal ➾ Sports",PT: SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1495
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="Portugal ➾ Sports",PT: SPORT TV 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/281487
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="Portugal ➾ Sports",PT: SPORT TV NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/2051
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: Benfica TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="Portugal ➾ Football",PT: Benfica TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1497
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A Bola TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f56b8e30125f68fe1d3ed3274e461134.png" group-title="Portugal ➾ LifeStyle",PT: A Bola TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1420
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1499
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1503
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1506
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1509
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1512
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1515
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT: euronews" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f2d6e3aff23355d4203d9ddb8efa0633.png" group-title="Portugal ➾ News",PT: euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/4007
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal ➾ Sports",PT: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1517
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="Portugal ➾ Sports",PT: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1518
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 Kitchen" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/062c41cd06e96ce8510d943d7c51edf3.png" group-title="Portugal ➾ Food",PT: 24 Kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/2025
+#EXTINF:-1 tvg-id="" tvg-name="PT: A&E" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b34346f2d94d16e97f40441515e48cbf.png" group-title="Portugal ➾ Movie",PT: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/279741
+#EXTINF:-1 tvg-id="" tvg-name="PT: Afro Music Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ebb638597b4f6b35d739a3d94ac85b1d.png" group-title="Portugal ➾ Music",PT: Afro Music Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1536
+#EXTINF:-1 tvg-id="" tvg-name="PT: Alma Lusa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/33df3da365e8d1a5debd13803f9e993b.jpg" group-title="Portugal ➾ LifeStyle",PT: Alma Lusa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/264642
+#EXTINF:-1 tvg-id="amchd.pt" tvg-name="PT: AMC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ff2deccfb9fb15c90083f7c28ef24e05.png" group-title="Portugal ➾ Movie",PT: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1473
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT: AR TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22b90dd09952697c58877aff096f8999.png" group-title="Portugal ➾ LifeStyle",PT: AR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/9629
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ab8a5bb7de8a56c0dcd49dcce1b15d42.png" group-title="Portugal ➾ Movie",PT: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1469
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN Black" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/46bd7963439cfb05cc5fa6a74e27ffcc.png" group-title="Portugal ➾ Movie",PT: AXN Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/278653
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d31c6f7a6aa294e24dc1b66948442cb.png" group-title="Portugal ➾ Movie",PT: AXN Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1471
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN White" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/211d3e396d86a6ae2569a8508a37e282.png" group-title="Portugal ➾ Movie",PT: AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1467
+#EXTINF:-1 tvg-id="babytv.pt" tvg-name="PT: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8387532c7a04a1fdc7a6846aae51bac4.png" group-title="Portugal ➾ Kids",PT: Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1441
+#EXTINF:-1 tvg-id="" tvg-name="PT: Big Brother" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Big Brother
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/296831
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT: Biggs" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bd0c23f862e4131e7dbbe307bc98c1a.png" group-title="Portugal ➾ LifeStyle",PT: Biggs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1439
+#EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT: Blaze" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/02288d1748b84afa4bf4d13d6d2e6727.png" group-title="Portugal ➾ LifeStyle",PT: Blaze
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/3996
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="PT: Bloomberg" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48735d59be1fb5f7b553176ef45a23b4.png" group-title="Portugal ➾ News",PT: Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/5933
+#EXTINF:-1 tvg-id="boomerang.pt" tvg-name="PT: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/871261a4089358903b96c27d13de2f1f.png" group-title="Portugal ➾ Kids",PT: Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/24529
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: Canal 11" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="Portugal ➾ Sports",PT: Canal 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1480
+#EXTINF:-1 tvg-id="canal180.pt" tvg-name="PT: CANAL 180" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal ➾ Music",PT: CANAL 180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/146057
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: Canal Hollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4996bfaef88ad7b8cc6c457a53b52db.png" group-title="Portugal ➾ Movie",PT: Canal Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1455
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Macau" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6e8078421bf72e8fae6ecbebbaec85fd.png" group-title="Portugal ➾ News",PT: Canal Macau
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/197872
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Nos" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/114f6e6869a36118459e2f676012e5bc.png" group-title="Portugal ➾ Movie",PT: Canal Nos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/278550
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT: Canal Panda" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29f1c10d6d10f0dba48ef1ab8f5650a1.png" group-title="Portugal ➾ Kids",PT: Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1438
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT: Canal Q" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27276a58bc8105c1ee377d75d7af2f13.png" group-title="Portugal ➾ LifeStyle",PT: Canal Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1430
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="PT: Canção Nova" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0b4408c37e8c354d6bf4317d2a0b754f.png" group-title="Portugal ➾ LifeStyle",PT: Canção Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/290766
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="PT: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f4a17537e3d35fc10f7258bda5c1de2.png" group-title="Portugal ➾ Kids",PT: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1440
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="PT: Casa e Cozinha" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4ee9b446cc63844d9c2fbf86fded3d4.png" group-title="Portugal ➾ LifeStyle",PT: Casa e Cozinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/6097
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="PT: Caçavision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e5841517874fb6f89b1d336ff814cff9.png" group-title="Portugal ➾ Nature",PT: Caçavision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/13956
+#EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="PT: CBS Reality" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f95bb48e77b4199e2b4b82fa5b0e97f.png" group-title="Portugal ➾ LifeStyle",PT: CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1528
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: Cine Mundo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d2248be6d1a2b629f8ead3f41558ccf.png" group-title="Portugal ➾ Movie",PT: Cine Mundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1477
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="PT: Crime+ Investigation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/be299b5887efb6ac2ef139e7219f3af9.png" group-title="Portugal ➾ Movie",PT: Crime+ Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/5928
+#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery World" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal ➾ Documentary",PT: Discovery World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/296226
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8421402691971ea1c41aecab55b6eaba.png" group-title="Portugal ➾ Kids",PT: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1434
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="PT: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d8e3dffef846a877bebfee531a9a986e.png" group-title="Portugal ➾ Kids",PT: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1435
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f0484ce1b78c3e3b76a1e440dfb0682.jpg" group-title="Portugal ➾ Kids",PT: Disney+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/226084
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E!" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5f058eed1f49095b75e2234ae703754.png" group-title="Portugal ➾ LifeStyle",PT: E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1526
+#EXTINF:-1 tvg-id="foodnetwork.pt" tvg-name="PT: Food Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24ab44b55e4bf2de5ad55ba14be2554a.png" group-title="Portugal ➾ LifeStyle",PT: Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/2044
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd8c5e231ea4d017d5998c69fac50b24.png" group-title="Portugal ➾ Movie",PT: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1461
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: Fox Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cfff810431b4d8089b10819a2b42ff24.png" group-title="Portugal ➾ Movie",PT: Fox Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1465
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: Fox Crime" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/079dbfbc1da0e76173cd3a002f26eb00.png" group-title="Portugal ➾ Movie",PT: Fox Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1463
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: Fox Life" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9a97e75d0b0813a123a7e333f75af9b9.png" group-title="Portugal ➾ Movie",PT: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1459
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/62026fb360365534347674c3d5041ec2.png" group-title="Portugal ➾ Movie",PT: FOX Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1457
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/11dfc661a91cd89755e23af61a56807f.png" group-title="Portugal ➾ Sports",PT: FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/40345
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT: Fuel TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2df8f6e6d22413d34871a4e44e7117fb.png" group-title="Portugal ➾ Sports",PT: Fuel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1521
+#EXTINF:-1 tvg-id="" tvg-name="PT: HBO Portugal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/04813691decb2e3153bd762ef9cedc44.png" group-title="Portugal ➾ Movie",PT: HBO Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/201073
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT: History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6032909e08119f5609aef6340cb3740e.png" group-title="Portugal ➾ Documentary",PT: History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1525
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db6a791521e3d31c550efeb266ba2bb6.png" group-title="Portugal ➾ Documentary",PT: Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/5914
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="PT: JimJam" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48ce455058185ecb6f7a06d4a237372d.png" group-title="Portugal ➾ Kids",PT: JimJam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1442
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos Kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Kuriakos Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/10828
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06c6937ea3a6feba2e4a2f98030ef1f8.png" group-title="Portugal",PT: Kuriakos TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/9697
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEO Videoclube" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal ➾ Movie",PT: MEO Videoclube
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/265255
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT: Motorvision TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dd1edbd59250fb5df9e46713fa7e9c24.png" group-title="Portugal ➾ Motor Sports",PT: Motorvision TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/4012
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="PT: MTV Portugal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9eb16db3f705768cdb9266a9c7de0730.png" group-title="Portugal ➾ Music",PT: MTV Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1534
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/574bf954a7d9977135a11aea5a17102d.png" group-title="Portugal ➾ Nature",PT: NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1530
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4602c73330509214ee8324552e8e897.png" group-title="Portugal ➾ Nature",PT: NAT GEO Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1531
+#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/4cefd33fa39d9f718ec85aef91a09896.png" group-title="Portugal",PT: NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/296750
+#EXTINF:-1 tvg-id="nickjr.pt" tvg-name="PT: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bdd79f5b3d2dde9c095cbbd602af1de0.png" group-title="Portugal ➾ Kids",PT: Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/9693
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="PT: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ba49f9f77fcc701888de284da556394.png" group-title="Portugal ➾ Kids",PT: nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1436
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nos Studios" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8b1ec4589ef03aaf0359eb18198f2080.png" group-title="Portugal ➾ Movie",PT: Nos Studios
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1454
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: Odisseia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f290d90bb57058d837daece37550435c.png" group-title="Portugal ➾ LifeStyle",PT: Odisseia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1532
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/3cefd291288dfa0625349be7c43007c8.png" group-title="Portugal ➾ Kids",PT: PANDA Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/290678
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="PT: Porto Canal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/caa6360e94c2e434d525c13688d7a40a.png" group-title="Portugal ➾ LifeStyle",PT: Porto Canal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1419
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7178a16c0b410328e6590e1fd25a937.png" group-title="Portugal ➾ LifeStyle",PT: RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1418
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="PT: RTP Açores" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa1ce489efce8eb73edf68f36dc6c72e.png" group-title="Portugal ➾ LifeStyle",PT: RTP Açores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/2055
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="PT: RTP Madeira" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae038bcd82a1074dc6659ba454c77d33.png" group-title="Portugal ➾ LifeStyle",PT: RTP Madeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/278558
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT: RTP Memória" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/149de92adf67fa96415a4e4ad74b062d.png" group-title="Portugal ➾ LifeStyle",PT: RTP Memória
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1425
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="PT: RTP África" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acba61f833c6fdf7dffb57ce79055908.png" group-title="Portugal ➾ LifeStyle",PT: RTP África
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1424
+#EXTINF:-1 tvg-id="" tvg-name="PT: SAUDE+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/83ccd96060ac85f5dc1edfb7a078cb99.jpg" group-title="Portugal ➾ LifeStyle",PT: SAUDE+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/81973
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: Sporting TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal ➾ Sports",PT: Sporting TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1519
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY Portugal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3098e701203ad4b48b0be528b27bdd29.png" group-title="Portugal ➾ Movie",PT: SYFY Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1475
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT: TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/76eab48a6cb0f09a95fc547ed7d8a309.png" group-title="Portugal ➾ LifeStyle",PT: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1479
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: Travel Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1a1f809513ab32d7bd5d5472605a3a0a.png" group-title="Portugal ➾ LifeStyle",PT: Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1529
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCine Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/171a8586f36fec35a18bf5854ac8b35d.png" group-title="Portugal ➾ Movie",PT: TVCine Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1452
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCine Edition" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14b6fc20d38f98098f2654649f603bf2.png" group-title="Portugal ➾ Movie",PT: TVCine Edition
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/82254
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TVCine Emotion" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/167e3049cd1d1a5497a95f8ff399a161.png" group-title="Portugal ➾ Movie",PT: TVCine Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1448
+#EXTINF:-1 tvg-id="tvcinetophd.pt" tvg-name="PT: TVCine Top" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f41f432f7892851986a82363c0f66332.png" group-title="Portugal ➾ Movie",PT: TVCine Top
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1446
