@@ -1,155 +1,155 @@
 #EXTM3U
 #EXTINF:-1,11 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9692
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9692
 #EXTINF:-1,24 KITCHEN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9693
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9693
 #EXTINF:-1,KURIAKOS TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9702
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9702
 #EXTINF:-1,RTP 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9706
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9706
 #EXTINF:-1,RTP 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9709
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9709
 #EXTINF:-1,SIC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9714
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9714
 #EXTINF:-1,TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9722
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9722
 #EXTINF:-1,ZAP VIVA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9726
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9726
 #EXTINF:-1,SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9733
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9733
 #EXTINF:-1,SPORT TV3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9734
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9734
 #EXTINF:-1,SPORT TV4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9737
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9737
 #EXTINF:-1,SPORT TV5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9739
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9739
 #EXTINF:-1,ELEVEN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9742
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9742
 #EXTINF:-1,ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9744
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9744
 #EXTINF:-1,ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9747
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9747
 #EXTINF:-1,ELEVEN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9750
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9750
 #EXTINF:-1,RECORD TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9754
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9754
 #EXTINF:-1,TRAVEL CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9761
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9761
 #EXTINF:-1,EUROSPORT 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9788
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9788
 #EXTINF:-1,BENFICA TV FHD (NOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9792
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9792
 #EXTINF:-1,ELEVEN SPORTS 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9795
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9795
 #EXTINF:-1,ELEVEN SPORTS 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9797
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9797
 #EXTINF:-1,ELEVENS SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9800
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9800
 #EXTINF:-1,FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9801
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9801
 #EXTINF:-1,FOX CRIME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9808
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9808
 #EXTINF:-1,AXN WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9811
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9811
 #EXTINF:-1,AXN BLACK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9814
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9814
 #EXTINF:-1,AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9816
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9816
 #EXTINF:-1,TV CINE EDITION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9830
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9830
 #EXTINF:-1,CAÇA PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9696
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9696
 #EXTINF:-1,CMTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9698
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9698
 #EXTINF:-1,NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9704
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9704
 #EXTINF:-1,RTP 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9707
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9707
 #EXTINF:-1,RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9710
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9710
 #EXTINF:-1,RTP 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9712
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9712
 #EXTINF:-1,SIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9715
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9715
 #EXTINF:-1,SIC NOTICIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9716
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9716
 #EXTINF:-1,SPORT TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9718
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9718
 #EXTINF:-1,TVI 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9721
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9721
 #EXTINF:-1,TVI FICCAO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9723
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9723
 #EXTINF:-1,TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9724
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9724
 #EXTINF:-1,SPORT TV2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9731
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9731
 #EXTINF:-1,SPORT TV3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9735
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9735
 #EXTINF:-1,SPORT TV5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9740
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9740
 #EXTINF:-1,ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9743
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9743
 #EXTINF:-1,ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9746
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9746
 #EXTINF:-1,ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9749
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9749
 #EXTINF:-1,FUEL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9758
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9758
 #EXTINF:-1,TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9760
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9760
 #EXTINF:-1,HISTORIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9762
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9762
 #EXTINF:-1,ODISSEIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9764
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9764
 #EXTINF:-1,DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9770
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9770
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9771
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9771
 #EXTINF:-1,MOTORVISION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9784
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9784
 #EXTINF:-1,EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9786
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9786
 #EXTINF:-1,EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9787
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9787
 #EXTINF:-1,SPORTING TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9789
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9789
 #EXTINF:-1,BENFICA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9791
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9791
 #EXTINF:-1,ELEVEN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9794
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9794
 #EXTINF:-1,ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9796
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9796
 #EXTINF:-1,ELEVENS SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9799
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9799
 #EXTINF:-1,FOX COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9803
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9803
 #EXTINF:-1,FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9805
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9805
 #EXTINF:-1,FOX CRIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9807
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9807
 #EXTINF:-1,AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9810
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9810
 #EXTINF:-1,AXN BLACK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9813
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9813
 #EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9817
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9817
 #EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9819
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9819
 #EXTINF:-1,CINEMUNDO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9821
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9821
 #EXTINF:-1,TV CINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9823
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9823
 #EXTINF:-1,TV CINE EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9826
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9826
 #EXTINF:-1,TV CINE EDITION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9829
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9829
 #EXTINF:-1,TV CINE TOP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9832
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9832
 #EXTINF:-1,SIC RADICAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9835
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9835
 #EXTINF:-1,SIC MULHER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9837
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9837
 #EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9850
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9850
 #EXTINF:-1,HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9852
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9852
