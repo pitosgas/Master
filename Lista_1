@@ -1,304 +1,530 @@
 #EXTM3U
 
-#EXTINF:-1,PT: RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2561
-#EXTINF:-1,PT: RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2560
-#EXTINF:-1,PT: Sic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2555
-#EXTINF:-1,PT: TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2531
-#EXTINF:-1,PT: TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70693
-#EXTINF:-1,PT: Sic K HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44104
-#EXTINF:-1,PT: Sic Mulher HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2554
-#EXTINF:-1,PT: Sic Caras HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44102
-#EXTINF:-1,PT: Sic Noticias HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44107
-#EXTINF:-1,PT: TVI 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44174
-#EXTINF:-1,PT: Sic Radical HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44108
-#EXTINF:-1,PT: TVI Ficcao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70691
-#EXTINF:-1,PT: A Bola TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2604
-#EXTINF:-1,PT: Afro Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70566
-#EXTINF:-1,PT: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70567
-#EXTINF:-1,PT: ARTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70569
-#EXTINF:-1,PT: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70554
-#EXTINF:-1,PT: AXN Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70556
-#EXTINF:-1,PT: AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70555
-#EXTINF:-1,PT: Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70573
-#EXTINF:-1,PT: BBC Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70574
-#EXTINF:-1,PT: BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80076
-#EXTINF:-1,PT: Benfica TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70535
-#EXTINF:-1,PT: Benfica TV UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/90453
-#EXTINF:-1,PT: Biggs TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43921
-#EXTINF:-1,PT: Bimby
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80051
-#EXTINF:-1,PT: Blaze
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70578
-#EXTINF:-1,PT: Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/73189
-#EXTINF:-1,PT: Caca Vision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70583
-#EXTINF:-1,PT: Caccia e Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70582
-#EXTINF:-1,PT: Canal 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43937
-#EXTINF:-1,PT: Canal Panda HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43945
-#EXTINF:-1,PT: Canal Q HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43947
-#EXTINF:-1,PT: Canção Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70586
-#EXTINF:-1,PT: Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2593
-#EXTINF:-1,PT: Casa & Cozinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44160
-#EXTINF:-1,PT: CBS Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43960
-#EXTINF:-1,PT: CineMundo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70589
-#EXTINF:-1,PT: CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2589
-#EXTINF:-1,PT: CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80077
-#EXTINF:-1,PT: Crime+ Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43969
-#EXTINF:-1,PT: Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2588
-#EXTINF:-1,PT: Disney +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80008
-#EXTINF:-1,PT: Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70543
-#EXTINF:-1,PT: Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43975
-#EXTINF:-1,PT: Disney Marvel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80009
-#EXTINF:-1,PT: Disney Pixar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80010
-#EXTINF:-1,PT: Dog HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43977
-#EXTINF:-1,PT: E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43979
-#EXTINF:-1,PT: Eleven Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43981
-#EXTINF:-1,PT: Eleven Sports 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/90455
-#EXTINF:-1,PT: Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43982
-#EXTINF:-1,PT: Eleven Sports 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/90456
-#EXTINF:-1,PT: Eleven Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43983
-#EXTINF:-1,PT: Eleven Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43984
-#EXTINF:-1,PT: Eleven Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/37862
-#EXTINF:-1,PT: Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43986
-#EXTINF:-1,PT: euronews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43990
-#EXTINF:-1,PT: Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43994
-#EXTINF:-1,PT: Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70534
-#EXTINF:-1,PT: Fashion TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70600
-#EXTINF:-1,PT: Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44005
-#EXTINF:-1,PT: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70549
-#EXTINF:-1,PT: FOX Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2582
-#EXTINF:-1,PT: FOX Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70551
-#EXTINF:-1,PT: FOX Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70550
-#EXTINF:-1,PT: FOX Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70552
-#EXTINF:-1,PT: Fuel TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70607
-#EXTINF:-1,PT: Globo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44020
-#EXTINF:-1,PT: Globo Now
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70540
-#EXTINF:-1,PT: Historia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2607
-#EXTINF:-1,PT: Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70610
-#EXTINF:-1,PT: iConcerts HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80059
-#EXTINF:-1,PT: ID Investigation Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80025
-#EXTINF:-1,PT: JimJam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70545
-#EXTINF:-1,PT: Kombat Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44032
-#EXTINF:-1,PT: Kuriakos Cine HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/64879
-#EXTINF:-1,PT: Kuriakos Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44033
-#EXTINF:-1,PT: Kuriakos Music HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/64878
-#EXTINF:-1,PT: Kuriakos TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44034
-#EXTINF:-1,PT: MCM POP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70614
-#EXTINF:-1,PT: Mezzo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70617
-#EXTINF:-1,PT: MotorVision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44049
-#EXTINF:-1,PT: MTV Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80053
-#EXTINF:-1,PT: Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70546
-#EXTINF:-1,PT: National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70547
-#EXTINF:-1,PT: Nick jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/43902
-#EXTINF:-1,PT: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70544
-#EXTINF:-1,PT: NOS Studios HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/79968
-#EXTINF:-1,PT: Odisseia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70548
-#EXTINF:-1,PT: PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70537
-#EXTINF:-1,PT: Porto Canal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70539
-#EXTINF:-1,PT: Record TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2534
-#EXTINF:-1,PT: REDBULL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/79953
-#EXTINF:-1,PT: RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2559
-#EXTINF:-1,PT: RTP Acores HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44094
-#EXTINF:-1,PT: RTP Africa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44095
-#EXTINF:-1,PT: RTP Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44096
-#EXTINF:-1,PT: RTP Maderia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44098
-#EXTINF:-1,PT: RTP Memoria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/2556
-#EXTINF:-1,PT: SANTUARIO DE FATIMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80040
-#EXTINF:-1,PT: Sky News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80074
-#EXTINF:-1,PT: Sport TV + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/79915
-#EXTINF:-1,PT: Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44112
-#EXTINF:-1,PT: Sport TV 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/90457
-#EXTINF:-1,PT: Sport TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44114
-#EXTINF:-1,PT: Sport TV 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/90458
-#EXTINF:-1,PT: Sport TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70530
-#EXTINF:-1,PT: Sport TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44117
-#EXTINF:-1,PT: Sport TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44120
-#EXTINF:-1,PT: Sport TV 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/92629
-#EXTINF:-1,PT: Sport TV NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/79929
-#EXTINF:-1,PT: Sporting TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70536
-#EXTINF:-1,PT: SyFy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70557
-#EXTINF:-1,PT: TCV Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80073
-#EXTINF:-1,PT: TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/44129
-#EXTINF:-1,PT: Toros TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70670
-#EXTINF:-1,PT: TPA Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80072
-#EXTINF:-1,PT: Trace Toca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80057
-#EXTINF:-1,PT: Trace Urban
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70671
-#EXTINF:-1,PT: Travel Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/3385
-#EXTINF:-1,PT: TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80071
-#EXTINF:-1,PT: TVCINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/79966
-#EXTINF:-1,PT: TVCINE EDITION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/79962
-#EXTINF:-1,PT: TVCINE EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/79964
-#EXTINF:-1,PT: TVCINE TOP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/79960
-#EXTINF:-1,PT: VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/70694
-#EXTINF:-1,PT: XCharges
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80049
-#EXTINF:-1,PT: XCine Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80001
-#EXTINF:-1,PT: XCineAcção
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/79998
-#EXTINF:-1,PT: XCineAnimação
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/79999
-#EXTINF:-1,PT: XCineAventura
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80000
-#EXTINF:-1,PT: XCineCamões
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80002
-#EXTINF:-1,PT: XCineCrime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80003
-#EXTINF:-1,PT: XCineDrama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80004
-#EXTINF:-1,PT: XCineTerror
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80006
-#EXTINF:-1,PT: XCineThriller
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80005
-#EXTINF:-1,PT: XCluB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80066
-#EXTINF:-1,PT: XFado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80068
-#EXTINF:-1,PT: XFitness
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80048
-#EXTINF:-1,PT: XForjado no Fogo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80045
-#EXTINF:-1,PT: XHits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80062
-#EXTINF:-1,PT: XHitsPT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80063
-#EXTINF:-1,PT: XMasterChef
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80044
-#EXTINF:-1,PT: XPegadinhas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80046
-#EXTINF:-1,PT: XReceitas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80050
-#EXTINF:-1,PT: XReporter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80032
-#EXTINF:-1,PT: XRir
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80047
-#EXTINF:-1,PT: XRock
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80064
-#EXTINF:-1,PT: XTheVoice
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/80043
-#EXTINF:-1,PT: ZAP VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/79906
+#EXTINF:-1,RTP 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70139
+#EXTINF:-1,RTP 1 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70307
+#EXTINF:-1,EXTRA: RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70063
+#EXTINF:-1,RTP 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70140
+#EXTINF:-1,RTP 2 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70278
+#EXTINF:-1,RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71053
+#EXTINF:-1,RTP 3 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70279
+#EXTINF:-1,SIC 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70144
+#EXTINF:-1,SIC HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70280
+#EXTINF:-1,EXTRA: SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70065
+#EXTINF:-1,TVI 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70162
+#EXTINF:-1,TVI HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70310
+#EXTINF:-1,EXTRA: TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70073
+#EXTINF:-1,RTP MADEIRA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70142
+#EXTINF:-1,RTP ACORES 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70141
+#EXTINF:-1,RTP MEMORIA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70143
+#EXTINF:-1,RTP AFRICA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70138
+#EXTINF:-1,RTP Arena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/72167
+#EXTINF:-1,RTP ARENA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/85317
+#EXTINF:-1,SIC CARAS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70145
+#EXTINF:-1,SIC CARAS HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70258
+#EXTINF:-1,SIC MULHER 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70147
+#EXTINF:-1,SIC MULHER HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70308
+#EXTINF:-1,SIC MULHER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71054
+#EXTINF:-1,SIC NOTICIAS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70148
+#EXTINF:-1,SIC NOTICIAS HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70309
+#EXTINF:-1,SIC NOTICIAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71055
+#EXTINF:-1,SIC RADICAL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70281
+#EXTINF:-1,SIC RADICAL HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70249
+#EXTINF:-1,SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71056
+#EXTINF:-1,RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/94482
+#EXTINF:-1,EXTRA: SIC INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70066
+#EXTINF:-1,EXTRA: TVI INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70074
+#EXTINF:-1,sic advance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/72967
+#EXTINF:-1,CNN PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70297
+#EXTINF:-1,CNN Portugal sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/86092
+#EXTINF:-1,CNN PORTUGAL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70251
+#EXTINF:-1,CNN Portugal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/86093
+#EXTINF:-1,CNN PORTUGAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71058
+#EXTINF:-1,TVI FICCAO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70163
+#EXTINF:-1,TVI FICCAO FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70216
+#EXTINF:-1,TVI REALITY 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70171
+#EXTINF:-1,TVI REALITY HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70252
+#EXTINF:-1,TVI REALITY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71059
+#EXTINF:-1,TVI REALITY * MOSAICO sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70254
+#EXTINF:-1,TVI REALITY CAMARA 1 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70236
+#EXTINF:-1,TVI REALITY CAMARA 2 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70237
+#EXTINF:-1,TVI REALITY CAMARA 3 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70238
+#EXTINF:-1,TVI REALITY CAMARA 4 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70239
+#EXTINF:-1,CMTV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70100
+#EXTINF:-1,CMTV HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70303
+#EXTINF:-1,CMTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71041
+#EXTINF:-1,PORTO CANAL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70137
+#EXTINF:-1,PORTO CANAL HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70306
+#EXTINF:-1,PORTO CANAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71052
+#EXTINF:-1,EXTRA: AZORES TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70053
+#EXTINF:-1,SPORT TV NBA sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70232
+#EXTINF:-1,SPORT TV + 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70150
+#EXTINF:-1,SPORT TV + HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70250
+#EXTINF:-1,SPORT TV 1 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70282
+#EXTINF:-1,SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70177
+#EXTINF:-1,SPORT TV 1 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70283
+#EXTINF:-1,SPORT TV 1 HD 1 BIT 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/94906
+#EXTINF:-1,SPORTV 1 HD HD264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/94908
+#EXTINF:-1,SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70151
+#EXTINF:-1,EXTRA: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70068
+#EXTINF:-1,SPORT TV 1 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/93573
+#EXTINF:-1,SPORT TV 2 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70284
+#EXTINF:-1,SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70178
+#EXTINF:-1,SPORT TV 2 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70285
+#EXTINF:-1,SPORT TV 2 FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70152
+#EXTINF:-1,EXTRA: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70069
+#EXTINF:-1,SPORT TV 2  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/93574
+#EXTINF:-1,SPORT TV 3 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70286
+#EXTINF:-1,SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70179
+#EXTINF:-1,SPORT TV 3 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70287
+#EXTINF:-1,SPORT TV 3 FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70153
+#EXTINF:-1,EXTRA: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70070
+#EXTINF:-1,SPORT TV 4 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70288
+#EXTINF:-1,SPORT TV 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70230
+#EXTINF:-1,EXTRA: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70071
+#EXTINF:-1,SPORT TV 5 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70154
+#EXTINF:-1,SPORT TV 5 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70231
+#EXTINF:-1,EXTRA: SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70072
+#EXTINF:-1,SPORT TV 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/78794
+#EXTINF:-1,ELEVEN SPORTS 1 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70234
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70113
+#EXTINF:-1,EXTRA: ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70056
+#EXTINF:-1,ELEVEN SPORTS 1  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/93575
+#EXTINF:-1,ELEVEN SPORTS 2 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70235
+#EXTINF:-1,ELEVEN SPORTS 2 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70114
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70256
+#EXTINF:-1,EXTRA: ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70057
+#EXTINF:-1,ELEVEN SPORTS 2  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/93576
+#EXTINF:-1,ELEVEN SPORTS 3 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70268
+#EXTINF:-1,ELEVEN SPORTS 3 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70209
+#EXTINF:-1,ELEVEN SPORTS 3 FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70213
+#EXTINF:-1,ELEVEN SPORTS 4 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70269
+#EXTINF:-1,ELEVEN SPORTS 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70210
+#EXTINF:-1,EXTRA: ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70058
+#EXTINF:-1,ELEVEN SPORTS 5 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70270
+#EXTINF:-1,ELEVEN SPORTS 5 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70211
+#EXTINF:-1,EXTRA: ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70059
+#EXTINF:-1,ELEVEN SPORTS 6 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70271
+#EXTINF:-1,ELEVEN SPORTS 6 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70212
+#EXTINF:-1,EXTRA: ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70060
+#EXTINF:-1,BENFICA sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70093
+#EXTINF:-1,BENFICA HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70266
+#EXTINF:-1,BENFICA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70176
+#EXTINF:-1,BTV  HD 1BIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/94907
+#EXTINF:-1,BENFICA FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70094
+#EXTINF:-1,EXTRA: BENFICA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70054
+#EXTINF:-1,BTV 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/93577
+#EXTINF:-1,SPORTING TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70155
+#EXTINF:-1,SPORTING TV HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70206
+#EXTINF:-1,CANAL 11 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70087
+#EXTINF:-1,CANAL 11 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70187
+#EXTINF:-1,CANAL 11 HD extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70086
+#EXTINF:-1,CANAL 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71038
+#EXTINF:-1,A BOLA TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70089
+#EXTINF:-1,A BOLA HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70214
+#EXTINF:-1,A BOLA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71032
+#EXTINF:-1,EUROSPORT 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70116
+#EXTINF:-1,EUROSPORT 1 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70272
+#EXTINF:-1,EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71044
+#EXTINF:-1,EUROSPORT 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70117
+#EXTINF:-1,EUROSPORT 2 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70217
+#EXTINF:-1,MOTORVISION 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70131
+#EXTINF:-1,DISNEY CHANNEL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70110
+#EXTINF:-1,DISNEY CHANNEL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70194
+#EXTINF:-1,Disney Channel FHD extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/79168
+#EXTINF:-1,DISNEY JUNIOR 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70111
+#EXTINF:-1,Disney Junior FHD extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/79169
+#EXTINF:-1,SIC K 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70146
+#EXTINF:-1,EXTRA: SIC K FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70067
+#EXTINF:-1,BABY TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70095
+#EXTINF:-1,CARTOON NETWORK 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70190
+#EXTINF:-1,CANAL PANDA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70267
+#EXTINF:-1,Canal Panda HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/72164
+#EXTINF:-1,Panda Kids/sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/77546
+#EXTINF:-1,PANDA BIGGS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70096
+#EXTINF:-1,AMC BREAK sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70097
+#EXTINF:-1,Lolly Kids sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70225
+#EXTINF:-1,Lolly Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70227
+#EXTINF:-1,NICK JR 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70172
+#EXTINF:-1,NICKELODEON sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70277
+#EXTINF:-1,BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70260
+#EXTINF:-1,AMC CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70107
+#EXTINF:-1,ID INVESTIGATION DISCOVERY HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70174
+#EXTINF:-1,EXTRA: INVESTIGATION DISCOVERY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70061
+#EXTINF:-1,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70109
+#EXTINF:-1,DISCOVERY HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70193
+#EXTINF:-1,DISCOVERY CHANNEL FHD extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71042
+#EXTINF:-1,E! ENTERTAINMENT 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70112
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70195
+#EXTINF:-1,E! ENTERTAINMENT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71043
+#EXTINF:-1,NATIONAL GEOGRAPHIC sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70247
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70133
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70134
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70203
+#EXTINF:-1,HISTORIA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70124
+#EXTINF:-1,ARTV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70090
+#EXTINF:-1,DOG TV FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70180
+#EXTINF:-1,EXTRA: SANTUARIO DE FATIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70064
+#EXTINF:-1,GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70121
+#EXTINF:-1,GLOBO HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70201
+#EXTINF:-1,GLOBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71048
+#EXTINF:-1,GLOBO NOW 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70122
+#EXTINF:-1,GLOBO NOW HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70246
+#EXTINF:-1,TV RECORD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70158
+#EXTINF:-1,TV RECORD HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70218
+#EXTINF:-1,TV RECORD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71057
+#EXTINF:-1,EXTRA: RECORD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70062
+#EXTINF:-1,FOOD NETWORK 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70198
+#EXTINF:-1,24 KITCHEN 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70088
+#EXTINF:-1,24 KITCHEN HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70240
+#EXTINF:-1,CASA E COZINHA HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70253
+#EXTINF:-1,Campo pequeno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/94904
+#EXTINF:-1,TOROS TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70164
+#EXTINF:-1,CACAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70104
+#EXTINF:-1,CACA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70103
+#EXTINF:-1,CACA E PESCA FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70242
+#EXTINF:-1,CACA E PESCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71037
+#EXTINF:-1,FIGHT NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70255
+#EXTINF:-1,ODISSEIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71051
+#EXTINF:-1,EURONEWS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70115
+#EXTINF:-1,KURIAKOS TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70127
+#EXTINF:-1,ODISSEIA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70135
+#EXTINF:-1,TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70165
+#EXTINF:-1,TRACE URBAN 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70166
+#EXTINF:-1,MTV 00's
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70167
+#EXTINF:-1,AFRO MUSIC 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70092
+#EXTINF:-1,MCM POP 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70128
+#EXTINF:-1,MTV PORTUGAL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70129
+#EXTINF:-1,MEZZO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70130
+#EXTINF:-1,Mezzo Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70312
+#EXTINF:-1,ON FM Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71067
+#EXTINF:-1,Kuriakos Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71068
+#EXTINF:-1,ZAP VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70168
+#EXTINF:-1,MCM TOP 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70173
+#EXTINF:-1,TRACE URBAN HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70182
+#EXTINF:-1,FUEL TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70181
+#EXTINF:-1,CANAL 180 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70188
+#EXTINF:-1,CANAL Q 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70189
+#EXTINF:-1,FUEL TV HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70199
+#EXTINF:-1,GINX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70200
+#EXTINF:-1,MTV PORTUGAL HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70202
+#EXTINF:-1,TRAVEL CHANNEL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70208
+#EXTINF:-1,Localvisão TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70219
+#EXTINF:-1,Más Chic sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70221
+#EXTINF:-1,GAMETOON HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70222
+#EXTINF:-1,Veja HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70223
+#EXTINF:-1,AlmaLusa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70226
+#EXTINF:-1,HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70259
+#EXTINF:-1,ODISSEIA HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70305
+#EXTINF:-1,AMC BREAK HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70302
+#EXTINF:-1,MEO Videoclube 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70220
+#EXTINF:-1,MEO Destaques 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70224
+#EXTINF:-1,Dizi chanel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/79161
+#EXTINF:-1,SYFY 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70156
+#EXTINF:-1,SYFY HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70233
+#EXTINF:-1,FOX sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70245
+#EXTINF:-1,FOX HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70274
+#EXTINF:-1,FOX CRIME sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70243
+#EXTINF:-1,FOX CRIME HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70273
+#EXTINF:-1,FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70118
+#EXTINF:-1,FOX COMEDY HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70196
+#EXTINF:-1,FOX COMEDY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71045
+#EXTINF:-1,FOX MOVIES 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70119
+#EXTINF:-1,FOX MOVIES HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70197
+#EXTINF:-1,FOX MOVIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71047
+#EXTINF:-1,FOX LIFE sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70244
+#EXTINF:-1,FOX LIFE HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70275
+#EXTINF:-1, FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71046
+#EXTINF:-1,AMC sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70263
+#EXTINF:-1,AMC HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70299
+#EXTINF:-1, AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71033
+#EXTINF:-1,AXN sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70264
+#EXTINF:-1,AXN HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70311
+#EXTINF:-1,AXN FHD extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71034
+#EXTINF:-1,AXN MOVIES 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70091
+#EXTINF:-1,AXN MOVIES HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70300
+#EXTINF:-1,AXN MOVIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71035
+#EXTINF:-1,AXN WHITE sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70241
+#EXTINF:-1,AXN WHITE HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70265
+#EXTINF:-1, AXN WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71036
+#EXTINF:-1,CINEMUNDO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70106
+#EXTINF:-1,CINEMUNDO HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70191
+#EXTINF:-1,CINEMUNDO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71040
+#EXTINF:-1,HOLLYWOOD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70125
+#EXTINF:-1,HOLLYWOOD HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70276
+#EXTINF:-1,HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71049
+#EXTINF:-1,NOS STUDIOS HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70229
+#EXTINF:-1,NOS STUDIOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71050
+#EXTINF:-1,TVCINE ACTION 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70289
+#EXTINF:-1,TVCINE ACTION HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70290
+#EXTINF:-1,TVCINE EDITION 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70291
+#EXTINF:-1,TVCINE EDITION HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70292
+#EXTINF:-1,TVCINE EMOTION 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70293
+#EXTINF:-1,TVCINE EMOTION HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70294
+#EXTINF:-1,TVCINE TOP 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70295
+#EXTINF:-1,TVCINE TOP HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70296
+#EXTINF:-1,CANAL NOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70262
+#EXTINF:-1,Canal NOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71039
