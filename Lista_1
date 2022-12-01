@@ -1,6 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,RTP 1 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70139
 #EXTINF:-1,RTP 1 HD 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70307
@@ -73,7 +72,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkul
 #EXTINF:-1,CNN Portugal sd
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/86092
 #EXTINF:-1,CNN PORTUGAL  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70251
 #EXTINF:-1,CNN Portugal FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/86093
 #EXTINF:-1,CNN PORTUGAL FHD
@@ -501,30 +499,30 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkul
 #EXTINF:-1,HOLLYWOOD 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70125
 #EXTINF:-1,HOLLYWOOD HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70276
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70276
 #EXTINF:-1,HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71049
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71049
 #EXTINF:-1,NOS STUDIOS HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70229
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70229
 #EXTINF:-1,NOS STUDIOS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71050
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71050
 #EXTINF:-1,TVCINE ACTION 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70289
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70289
 #EXTINF:-1,TVCINE ACTION HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70290
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70290
 #EXTINF:-1,TVCINE EDITION 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70291
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70291
 #EXTINF:-1,TVCINE EDITION HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70292
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70292
 #EXTINF:-1,TVCINE EMOTION 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70293
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70293
 #EXTINF:-1,TVCINE EMOTION HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70294
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70294
 #EXTINF:-1,TVCINE TOP 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70295
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70295
 #EXTINF:-1,TVCINE TOP HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70296
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70296
 #EXTINF:-1,CANAL NOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70262
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70262
 #EXTINF:-1,Canal NOS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71039
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71039
