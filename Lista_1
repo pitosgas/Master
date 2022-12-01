@@ -1,528 +1,529 @@
 #EXTM3U
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70139
+#EXTINF:-1,RTP 1
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70139
 #EXTINF:-1,RTP 1 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70307
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70307
 #EXTINF:-1,EXTRA: RTP 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70063
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70063
 #EXTINF:-1,RTP 2 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70140
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70140
 #EXTINF:-1,RTP 2 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70278
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70278
 #EXTINF:-1,RTP 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71053
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71053
 #EXTINF:-1,RTP 3 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70279
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70279
 #EXTINF:-1,SIC 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70144
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70144
 #EXTINF:-1,SIC HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70280
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70280
 #EXTINF:-1,EXTRA: SIC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70065
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70065
 #EXTINF:-1,TVI 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70162
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70162
 #EXTINF:-1,TVI HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70310
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70310
 #EXTINF:-1,EXTRA: TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70073
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70073
 #EXTINF:-1,RTP MADEIRA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70142
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70142
 #EXTINF:-1,RTP ACORES 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70141
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70141
 #EXTINF:-1,RTP MEMORIA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70143
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70143
 #EXTINF:-1,RTP AFRICA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70138
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70138
 #EXTINF:-1,RTP Arena
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/72167
+http://martepro.com:2082/Nap4lm/2022Nap4lm/72167
 #EXTINF:-1,RTP ARENA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/85317
+http://martepro.com:2082/Nap4lm/2022Nap4lm/85317
 #EXTINF:-1,SIC CARAS 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70145
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70145
 #EXTINF:-1,SIC CARAS HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70258
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70258
 #EXTINF:-1,SIC MULHER 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70147
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70147
 #EXTINF:-1,SIC MULHER HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70308
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70308
 #EXTINF:-1,SIC MULHER FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71054
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71054
 #EXTINF:-1,SIC NOTICIAS 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70148
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70148
 #EXTINF:-1,SIC NOTICIAS HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70309
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70309
 #EXTINF:-1,SIC NOTICIAS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71055
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71055
 #EXTINF:-1,SIC RADICAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70281
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70281
 #EXTINF:-1,SIC RADICAL HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70249
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70249
 #EXTINF:-1,SIC RADICAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71056
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71056
 #EXTINF:-1,RTP INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/94482
+http://martepro.com:2082/Nap4lm/2022Nap4lm/94482
 #EXTINF:-1,EXTRA: SIC INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70066
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70066
 #EXTINF:-1,EXTRA: TVI INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70074
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70074
 #EXTINF:-1,sic advance
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/72967
+http://martepro.com:2082/Nap4lm/2022Nap4lm/72967
 #EXTINF:-1,CNN PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70297
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70297
 #EXTINF:-1,CNN Portugal sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/86092
+http://martepro.com:2082/Nap4lm/2022Nap4lm/86092
 #EXTINF:-1,CNN PORTUGAL  HD
 #EXTINF:-1,CNN Portugal FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/86093
+http://martepro.com:2082/Nap4lm/2022Nap4lm/86093
 #EXTINF:-1,CNN PORTUGAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71058
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71058
 #EXTINF:-1,TVI FICCAO 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70163
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70163
 #EXTINF:-1,TVI FICCAO FHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70216
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70216
 #EXTINF:-1,TVI REALITY 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70171
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70171
 #EXTINF:-1,TVI REALITY HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70252
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70252
 #EXTINF:-1,TVI REALITY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71059
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71059
 #EXTINF:-1,TVI REALITY * MOSAICO sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70254
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70254
 #EXTINF:-1,TVI REALITY CAMARA 1 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70236
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70236
 #EXTINF:-1,TVI REALITY CAMARA 2 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70237
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70237
 #EXTINF:-1,TVI REALITY CAMARA 3 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70238
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70238
 #EXTINF:-1,TVI REALITY CAMARA 4 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70239
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70239
 #EXTINF:-1,CMTV 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70100
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70100
 #EXTINF:-1,CMTV HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70303
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70303
 #EXTINF:-1,CMTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71041
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71041
 #EXTINF:-1,PORTO CANAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70137
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70137
 #EXTINF:-1,PORTO CANAL HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70306
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70306
 #EXTINF:-1,PORTO CANAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71052
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71052
 #EXTINF:-1,EXTRA: AZORES TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70053
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70053
 #EXTINF:-1,SPORT TV NBA sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70232
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70232
 #EXTINF:-1,SPORT TV + 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70150
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70150
 #EXTINF:-1,SPORT TV + HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70250
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70250
 #EXTINF:-1,SPORT TV 1 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70282
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70282
 #EXTINF:-1,SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70177
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70177
 #EXTINF:-1,SPORT TV 1 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70283
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70283
 #EXTINF:-1,SPORT TV 1 HD 1 BIT 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/94906
+http://martepro.com:2082/Nap4lm/2022Nap4lm/94906
 #EXTINF:-1,SPORTV 1 HD HD264
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/94908
+http://martepro.com:2082/Nap4lm/2022Nap4lm/94908
 #EXTINF:-1,SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70151
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70151
 #EXTINF:-1,EXTRA: SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70068
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70068
 #EXTINF:-1,SPORT TV 1 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/93573
+http://martepro.com:2082/Nap4lm/2022Nap4lm/93573
 #EXTINF:-1,SPORT TV 2 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70284
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70284
 #EXTINF:-1,SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70178
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70178
 #EXTINF:-1,SPORT TV 2 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70285
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70285
 #EXTINF:-1,SPORT TV 2 FHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70152
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70152
 #EXTINF:-1,EXTRA: SPORT TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70069
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70069
 #EXTINF:-1,SPORT TV 2  4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/93574
+http://martepro.com:2082/Nap4lm/2022Nap4lm/93574
 #EXTINF:-1,SPORT TV 3 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70286
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70286
 #EXTINF:-1,SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70179
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70179
 #EXTINF:-1,SPORT TV 3 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70287
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70287
 #EXTINF:-1,SPORT TV 3 FHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70153
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70153
 #EXTINF:-1,EXTRA: SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70070
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70070
 #EXTINF:-1,SPORT TV 4 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70288
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70288
 #EXTINF:-1,SPORT TV 4 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70230
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70230
 #EXTINF:-1,EXTRA: SPORT TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70071
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70071
 #EXTINF:-1,SPORT TV 5 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70154
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70154
 #EXTINF:-1,SPORT TV 5 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70231
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70231
 #EXTINF:-1,EXTRA: SPORT TV 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70072
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70072
 #EXTINF:-1,SPORT TV 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/78794
+http://martepro.com:2082/Nap4lm/2022Nap4lm/78794
 #EXTINF:-1,ELEVEN SPORTS 1 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70234
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70234
 #EXTINF:-1,ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70113
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70113
 #EXTINF:-1,EXTRA: ELEVEN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70056
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70056
 #EXTINF:-1,ELEVEN SPORTS 1  4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/93575
+http://martepro.com:2082/Nap4lm/2022Nap4lm/93575
 #EXTINF:-1,ELEVEN SPORTS 2 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70235
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70235
 #EXTINF:-1,ELEVEN SPORTS 2 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70114
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70114
 #EXTINF:-1,ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70256
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70256
 #EXTINF:-1,EXTRA: ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70057
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70057
 #EXTINF:-1,ELEVEN SPORTS 2  4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/93576
+http://martepro.com:2082/Nap4lm/2022Nap4lm/93576
 #EXTINF:-1,ELEVEN SPORTS 3 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70268
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70268
 #EXTINF:-1,ELEVEN SPORTS 3 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70209
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70209
 #EXTINF:-1,ELEVEN SPORTS 3 FHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70213
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70213
 #EXTINF:-1,ELEVEN SPORTS 4 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70269
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70269
 #EXTINF:-1,ELEVEN SPORTS 4 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70210
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70210
 #EXTINF:-1,EXTRA: ELEVEN SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70058
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70058
 #EXTINF:-1,ELEVEN SPORTS 5 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70270
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70270
 #EXTINF:-1,ELEVEN SPORTS 5 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70211
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70211
 #EXTINF:-1,EXTRA: ELEVEN SPORTS 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70059
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70059
 #EXTINF:-1,ELEVEN SPORTS 6 sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70271
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70271
 #EXTINF:-1,ELEVEN SPORTS 6 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70212
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70212
 #EXTINF:-1,EXTRA: ELEVEN SPORTS 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70060
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70060
 #EXTINF:-1,BENFICA sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70093
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70093
 #EXTINF:-1,BENFICA HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70266
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70266
 #EXTINF:-1,BENFICA TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70176
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70176
 #EXTINF:-1,BTV  HD 1BIT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/94907
+http://martepro.com:2082/Nap4lm/2022Nap4lm/94907
 #EXTINF:-1,BENFICA FHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70094
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70094
 #EXTINF:-1,EXTRA: BENFICA TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70054
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70054
 #EXTINF:-1,BTV 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/93577
+http://martepro.com:2082/Nap4lm/2022Nap4lm/93577
 #EXTINF:-1,SPORTING TV 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70155
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70155
 #EXTINF:-1,SPORTING TV HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70206
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70206
 #EXTINF:-1,CANAL 11 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70087
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70087
 #EXTINF:-1,CANAL 11 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70187
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70187
 #EXTINF:-1,CANAL 11 HD extra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70086
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70086
 #EXTINF:-1,CANAL 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71038
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71038
 #EXTINF:-1,A BOLA TV 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70089
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70089
 #EXTINF:-1,A BOLA HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70214
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70214
 #EXTINF:-1,A BOLA TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71032
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71032
 #EXTINF:-1,EUROSPORT 1 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70116
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70116
 #EXTINF:-1,EUROSPORT 1 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70272
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70272
 #EXTINF:-1,EUROSPORT 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71044
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71044
 #EXTINF:-1,EUROSPORT 2 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70117
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70117
 #EXTINF:-1,EUROSPORT 2 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70217
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70217
 #EXTINF:-1,MOTORVISION 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70131
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70131
 #EXTINF:-1,DISNEY CHANNEL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70110
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70110
 #EXTINF:-1,DISNEY CHANNEL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70194
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70194
 #EXTINF:-1,Disney Channel FHD extra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/79168
+http://martepro.com:2082/Nap4lm/2022Nap4lm/79168
 #EXTINF:-1,DISNEY JUNIOR 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70111
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70111
 #EXTINF:-1,Disney Junior FHD extra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/79169
+http://martepro.com:2082/Nap4lm/2022Nap4lm/79169
 #EXTINF:-1,SIC K 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70146
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70146
 #EXTINF:-1,EXTRA: SIC K FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70067
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70067
 #EXTINF:-1,BABY TV 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70095
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70095
 #EXTINF:-1,CARTOON NETWORK 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70190
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70190
 #EXTINF:-1,CANAL PANDA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70267
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70267
 #EXTINF:-1,Canal Panda HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/72164
+http://martepro.com:2082/Nap4lm/2022Nap4lm/72164
 #EXTINF:-1,Panda Kids/sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/77546
+http://martepro.com:2082/Nap4lm/2022Nap4lm/77546
 #EXTINF:-1,PANDA BIGGS 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70096
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70096
 #EXTINF:-1,AMC BREAK sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70097
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70097
 #EXTINF:-1,Lolly Kids sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70225
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70225
 #EXTINF:-1,Lolly Kids HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70227
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70227
 #EXTINF:-1,NICK JR 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70172
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70172
 #EXTINF:-1,NICKELODEON sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70277
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70277
 #EXTINF:-1,BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70260
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70260
 #EXTINF:-1,AMC CRIME
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70107
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70107
 #EXTINF:-1,ID INVESTIGATION DISCOVERY HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70174
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70174
 #EXTINF:-1,EXTRA: INVESTIGATION DISCOVERY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70061
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70061
 #EXTINF:-1,DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70109
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70109
 #EXTINF:-1,DISCOVERY HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70193
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70193
 #EXTINF:-1,DISCOVERY CHANNEL FHD extra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71042
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71042
 #EXTINF:-1,E! ENTERTAINMENT 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70112
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70112
 #EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70195
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70195
 #EXTINF:-1,E! ENTERTAINMENT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71043
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71043
 #EXTINF:-1,NATIONAL GEOGRAPHIC sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70247
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70247
 #EXTINF:-1,NATIONAL GEOGRAPHIC FHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70133
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70133
 #EXTINF:-1,NATIONAL GEOGRAPHIC WILD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70134
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70134
 #EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70203
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70203
 #EXTINF:-1,HISTORIA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70124
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70124
 #EXTINF:-1,ARTV 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70090
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70090
 #EXTINF:-1,DOG TV FHD*
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70180
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70180
 #EXTINF:-1,EXTRA: SANTUARIO DE FATIMA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70064
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70064
 #EXTINF:-1,GLOBO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70121
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70121
 #EXTINF:-1,GLOBO HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70201
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70201
 #EXTINF:-1,GLOBO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71048
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71048
 #EXTINF:-1,GLOBO NOW 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70122
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70122
 #EXTINF:-1,GLOBO NOW HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70246
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70246
 #EXTINF:-1,TV RECORD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70158
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70158
 #EXTINF:-1,TV RECORD HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70218
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70218
 #EXTINF:-1,TV RECORD FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71057
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71057
 #EXTINF:-1,EXTRA: RECORD NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70062
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70062
 #EXTINF:-1,FOOD NETWORK 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70198
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70198
 #EXTINF:-1,24 KITCHEN 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70088
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70088
 #EXTINF:-1,24 KITCHEN HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70240
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70240
 #EXTINF:-1,CASA E COZINHA HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70253
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70253
 #EXTINF:-1,Campo pequeno
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/94904
+http://martepro.com:2082/Nap4lm/2022Nap4lm/94904
 #EXTINF:-1,TOROS TV 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70164
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70164
 #EXTINF:-1,CACAVISION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70104
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70104
 #EXTINF:-1,CACA E PESCA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70103
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70103
 #EXTINF:-1,CACA E PESCA FHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70242
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70242
 #EXTINF:-1,CACA E PESCA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71037
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71037
 #EXTINF:-1,FIGHT NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70255
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70255
 #EXTINF:-1,ODISSEIA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71051
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71051
 #EXTINF:-1,EURONEWS 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70115
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70115
 #EXTINF:-1,KURIAKOS TV 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70127
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70127
 #EXTINF:-1,ODISSEIA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70135
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70135
 #EXTINF:-1,TRACE TOCA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70165
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70165
 #EXTINF:-1,TRACE URBAN 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70166
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70166
 #EXTINF:-1,MTV 00's
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70167
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70167
 #EXTINF:-1,AFRO MUSIC 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70092
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70092
 #EXTINF:-1,MCM POP 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70128
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70128
 #EXTINF:-1,MTV PORTUGAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70129
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70129
 #EXTINF:-1,MEZZO 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70130
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70130
 #EXTINF:-1,Mezzo Live HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70312
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70312
 #EXTINF:-1,ON FM Portugal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71067
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71067
 #EXTINF:-1,Kuriakos Music
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71068
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71068
 #EXTINF:-1,ZAP VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70168
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70168
 #EXTINF:-1,MCM TOP 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70173
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70173
 #EXTINF:-1,TRACE URBAN HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70182
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70182
 #EXTINF:-1,FUEL TV 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70181
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70181
 #EXTINF:-1,CANAL 180 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70188
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70188
 #EXTINF:-1,CANAL Q 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70189
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70189
 #EXTINF:-1,FUEL TV HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70199
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70199
 #EXTINF:-1,GINX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70200
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70200
 #EXTINF:-1,MTV PORTUGAL HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70202
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70202
 #EXTINF:-1,TRAVEL CHANNEL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70208
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70208
 #EXTINF:-1,Localvisão TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70219
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70219
 #EXTINF:-1,Más Chic sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70221
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70221
 #EXTINF:-1,GAMETOON HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70222
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70222
 #EXTINF:-1,Veja HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70223
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70223
 #EXTINF:-1,AlmaLusa HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70226
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70226
 #EXTINF:-1,HISTORIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70259
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70259
 #EXTINF:-1,ODISSEIA HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70305
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70305
 #EXTINF:-1,AMC BREAK HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70302
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70302
 #EXTINF:-1,MEO Videoclube 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70220
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70220
 #EXTINF:-1,MEO Destaques 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70224
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70224
 #EXTINF:-1,Dizi chanel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/79161
+http://martepro.com:2082/Nap4lm/2022Nap4lm/79161
 #EXTINF:-1,SYFY 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70156
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70156
 #EXTINF:-1,SYFY HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70233
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70233
 #EXTINF:-1,FOX sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70245
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70245
 #EXTINF:-1,FOX HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70274
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70274
 #EXTINF:-1,FOX CRIME sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70243
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70243
 #EXTINF:-1,FOX CRIME HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70273
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70273
 #EXTINF:-1,FOX COMEDY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70118
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70118
 #EXTINF:-1,FOX COMEDY HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70196
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70196
 #EXTINF:-1,FOX COMEDY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71045
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71045
 #EXTINF:-1,FOX MOVIES 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70119
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70119
 #EXTINF:-1,FOX MOVIES HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70197
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70197
 #EXTINF:-1,FOX MOVIES FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71047
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71047
 #EXTINF:-1,FOX LIFE sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70244
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70244
 #EXTINF:-1,FOX LIFE HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70275
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70275
 #EXTINF:-1, FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71046
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71046
 #EXTINF:-1,AMC sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70263
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70263
 #EXTINF:-1,AMC HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70299
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70299
 #EXTINF:-1, AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71033
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71033
 #EXTINF:-1,AXN sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70264
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70264
 #EXTINF:-1,AXN HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70311
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70311
 #EXTINF:-1,AXN FHD extra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71034
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71034
 #EXTINF:-1,AXN MOVIES 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70091
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70091
 #EXTINF:-1,AXN MOVIES HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70300
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70300
 #EXTINF:-1,AXN MOVIES FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71035
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71035
 #EXTINF:-1,AXN WHITE sd
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70241
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70241
 #EXTINF:-1,AXN WHITE HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70265
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70265
 #EXTINF:-1, AXN WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71036
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71036
 #EXTINF:-1,CINEMUNDO 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70106
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70106
 #EXTINF:-1,CINEMUNDO HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70191
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70191
 #EXTINF:-1,CINEMUNDO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71040
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71040
 #EXTINF:-1,HOLLYWOOD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70125
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70125
 #EXTINF:-1,HOLLYWOOD HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70276
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70276
 #EXTINF:-1,HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71049
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71049
 #EXTINF:-1,NOS STUDIOS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70229
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70229
 #EXTINF:-1,NOS STUDIOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71050
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71050
 #EXTINF:-1,TVCINE ACTION 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70289
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70289
 #EXTINF:-1,TVCINE ACTION HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70290
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70290
 #EXTINF:-1,TVCINE EDITION 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70291
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70291
 #EXTINF:-1,TVCINE EDITION HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70292
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70292
 #EXTINF:-1,TVCINE EMOTION 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70293
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70293
 #EXTINF:-1,TVCINE EMOTION HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70294
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70294
 #EXTINF:-1,TVCINE TOP 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70295
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70295
 #EXTINF:-1,TVCINE TOP HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70296
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70296
 #EXTINF:-1,CANAL NOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/70262
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70262
 #EXTINF:-1,Canal NOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]BlackSkull[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://martepro.com:2082/Nap4lm/2022Nap4lm/71039
+http://martepro.com:2082/Nap4lm/2022Nap4lm/71039
