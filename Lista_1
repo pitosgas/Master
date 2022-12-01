@@ -1,4 +1,95 @@
 #EXTM3U
+#EXTINF:-1,[PT] SIC NOTÍCIAS 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36616
+#EXTINF:-1,[PT] TVI REALITY 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36619
+#EXTINF:-1,[PT] SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36628
+#EXTINF:-1,[PT] ARTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36632
+#EXTINF:-1,[PT] SPORTTV NBA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36641
+#EXTINF:-1,[PT] CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36651
+#EXTINF:-1,[PT] SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36652
+#EXTINF:-1,[PT] EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36655
+#EXTINF:-1,[PT] PFC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36657
+#EXTINF:-1,[PT] CAÇA E PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36662
+#EXTINF:-1,[PT] CAÇA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36663
+#EXTINF:-1,[PT] NICKELODEON JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36667
+#EXTINF:-1,[PT] CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36670
+#EXTINF:-1,[PT] BABY TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36673
+#EXTINF:-1,[PT] TLC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36674
+#EXTINF:-1,[PT] DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36676
+#EXTINF:-1,[PT] NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36677
+#EXTINF:-1,[PT] NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36678
+#EXTINF:-1,[PT] CANAL HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36681
+#EXTINF:-1,[PT] BLAZE TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36682
+#EXTINF:-1,[PT] CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36683
+#EXTINF:-1,[PT] MY CUiSINE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36686
+#EXTINF:-1,[PT] TV CINE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36691
+#EXTINF:-1,[PT] FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36696
+#EXTINF:-1,[PT] FOX COMEDY 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36697
+#EXTINF:-1,[PT] AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36698
+#EXTINF:-1,[PT] AXN BLACK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36699
+#EXTINF:-1,[PT] AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36700
+#EXTINF:-1,[PT] AMC 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36701
+#EXTINF:-1,[PT] CINEMUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36702
+#EXTINF:-1,[PT] HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36703
+#EXTINF:-1,[PT] SYFY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36704
+#EXTINF:-1,[PT] NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36706
+#EXTINF:-1,[PT] MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36707
+#EXTINF:-1,[PT] VH1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36708
+#EXTINF:-1,[PT] MEZZO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36710
+#EXTINF:-1,[PT] AFRO MUSIC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36711
+#EXTINF:-1,[PT] TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36713
+#EXTINF:-1,[PT] SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36715
+#EXTINF:-1,[PT] BBC ENTERTAINEMENT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36716
+#EXTINF:-1,[PT] BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36717
+#EXTINF:-1,[PT] CNN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36718
+#EXTINF:-1,[PT] FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36719
+
+
+
+
+
 #EXTINF:-1,Teste 2
 https://martepro.com:2082/Nap4lm/2022Nap4lm/70139
 #EXTINF:-1,RTP 1
