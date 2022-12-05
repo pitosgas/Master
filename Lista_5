@@ -1,0 +1,454 @@
+#EXTM3U
+
+#EXTINF:-1,RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1604
+#EXTINF:-1,RTP 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1600
+#EXTINF:-1,RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1603
+#EXTINF:-1,RTP 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1599
+#EXTINF:-1,RTP 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1479
+#EXTINF:-1,RTP Acores
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1498
+#EXTINF:-1,RTP Africa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1501
+#EXTINF:-1,RTP Arena 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/52023
+#EXTINF:-1,RTP Madeira
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1500
+#EXTINF:-1,RTP Memoria
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1499
+#EXTINF:-1,SIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/10224
+#EXTINF:-1,Sic
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1480
+#EXTINF:-1,TVI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1483
+#EXTINF:-1,TVI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1484
+#EXTINF:-1,SIC Noticias  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/10226
+#EXTINF:-1,SIC Noticias
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1493
+#EXTINF:-1,CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/10230
+#EXTINF:-1,CMTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1494
+#EXTINF:-1,CNN Portugal HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/75837
+#EXTINF:-1,CNN Portugal 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/75838
+#EXTINF:-1,Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/82956
+#EXTINF:-1,SIC Caras HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/51991
+#EXTINF:-1,SIC Caras
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1491
+#EXTINF:-1,SIC Mulher HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/10227
+#EXTINF:-1,SIC Mulher
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1490
+#EXTINF:-1,SIC Radical HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/10225
+#EXTINF:-1,SIC Radical
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1492
+#EXTINF:-1,TVI Ficcao HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/51992
+#EXTINF:-1,TVI Ficcao
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1487
+#EXTINF:-1,TVI Reality HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1489
+#EXTINF:-1,TVI Reality
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1488
+#EXTINF:-1,A Bola TV HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/51990
+#EXTINF:-1,A Bola TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1535
+#EXTINF:-1,Sport TV + HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/51993
+#EXTINF:-1,Sport TV +
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/10795
+#EXTINF:-1,Sport TV 1 Full HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1514
+#EXTINF:-1,Sport TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1515
+#EXTINF:-1,Sport TV 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1516
+#EXTINF:-1,Sport TV 2 Full HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1517
+#EXTINF:-1,Sport TV 2  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1518
+#EXTINF:-1,Sport TV 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1519
+#EXTINF:-1,Sport TV 3 Full HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1520
+#EXTINF:-1,Sport TV 3  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1521
+#EXTINF:-1,Sport TV 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1522
+#EXTINF:-1,Sport TV 4 Full HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1523
+#EXTINF:-1,Sport TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1524
+#EXTINF:-1,Sport TV 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1525
+#EXTINF:-1,Sport TV 5 Full HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1526
+#EXTINF:-1,Sport TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1527
+#EXTINF:-1,Sport TV 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1528
+#EXTINF:-1,Sport TV 6 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/68314
+#EXTINF:-1,Sport TV 6 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/68315
+#EXTINF:-1,Sport TV NBA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/45258
+#EXTINF:-1,BTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1529
+#EXTINF:-1,BTV TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1530
+#EXTINF:-1,BTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1531
+#EXTINF:-1,Sporting TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1533
+#EXTINF:-1,Eleven Sports 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2377
+#EXTINF:-1,Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2375
+#EXTINF:-1,Eleven Sports 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2373
+#EXTINF:-1,Eleven Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2385
+#EXTINF:-1,Eleven Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2382
+#EXTINF:-1,Eleven Sports 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2381
+#EXTINF:-1,Eleven Sports 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2391
+#EXTINF:-1,Eleven Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2390
+#EXTINF:-1,Eleven Sports 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2387
+#EXTINF:-1,Eleven Sports 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2398
+#EXTINF:-1,Eleven Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2396
+#EXTINF:-1,Eleven Sports 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2395
+#EXTINF:-1,Eleven Sports 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2405
+#EXTINF:-1,Eleven Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2402
+#EXTINF:-1,Eleven Sports 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2401
+#EXTINF:-1,Eleven Sports 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2411
+#EXTINF:-1,Eleven Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2409
+#EXTINF:-1,Eleven Sports 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2407
+#EXTINF:-1,Canal 11 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2623
+#EXTINF:-1,Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1536
+#EXTINF:-1,Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1537
+#EXTINF:-1,Fight Network HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1538
+#EXTINF:-1,Toros TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1540
+#EXTINF:-1,Porto Canal
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1497
+#EXTINF:-1,MotorVision TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1541
+#EXTINF:-1,TVCine Top HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1544
+#EXTINF:-1,TVCine EditionHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1546
+#EXTINF:-1,TVCine Emotion HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1548
+#EXTINF:-1,TVCine Action HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1550
+#EXTINF:-1,TVCine Top 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1545
+#EXTINF:-1,TVCine Edition
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1547
+#EXTINF:-1,TVCine Emotion 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1549
+#EXTINF:-1,TVCine Action
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1551
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1568
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1553
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1554
+#EXTINF:-1,AXN White HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1557
+#EXTINF:-1,AXN White
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1558
+#EXTINF:-1,FOX Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1563
+#EXTINF:-1,FOX Crime HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1564
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1561
+#EXTINF:-1,FOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1560
+#EXTINF:-1,Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1562
+#EXTINF:-1,FOX Movies HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1565
+#EXTINF:-1,Hollywood  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1566
+#EXTINF:-1,Hollywood
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1567
+#EXTINF:-1,Nos Studios HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/45491
+#EXTINF:-1,Syfy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1570
+#EXTINF:-1,Cinemundo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1569
+#EXTINF:-1,AMC Crime 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1571
+#EXTINF:-1,Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1503
+#EXTINF:-1,Panda Biggs
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1504
+#EXTINF:-1,Cartoon Network²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1505
+#EXTINF:-1,Baby TV²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1508
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1574
+#EXTINF:-1,Disney Channel²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1510
+#EXTINF:-1,Disney Junior²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1511
+#EXTINF:-1,SIC K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1509
+#EXTINF:-1,Jim Jam
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1507
+#EXTINF:-1,Nickelodeon²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1506
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1587
+#EXTINF:-1,24 Kitchen HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1586
+#EXTINF:-1,24 Kitchen
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/12779
+#EXTINF:-1,E! 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1588
+#EXTINF:-1,National Geographic
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1576
+#EXTINF:-1,Nat Geo 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1578
+#EXTINF:-1,Odisseia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1579
+#EXTINF:-1,Historia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1577
+#EXTINF:-1,Caça e Pesca
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1583
+#EXTINF:-1,Caçavision
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1584
+#EXTINF:-1,Canal Q
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1589
+#EXTINF:-1,Fuel TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1596
+#EXTINF:-1,MTV Portugal
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1591
+#EXTINF:-1,VH1 Música
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1592
+#EXTINF:-1,MCM Pop
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1593
+#EXTINF:-1,ZAP Viva 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/12778
+#EXTINF:-1,RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47345
+#EXTINF:-1,RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47346
+#EXTINF:-1,RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47347
+#EXTINF:-1,RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47348
+#EXTINF:-1,SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47350
+#EXTINF:-1,SIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47351
+#EXTINF:-1,SIC Noticias HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47354
+#EXTINF:-1,SIC Caras HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47349
+#EXTINF:-1,SIC Mulher HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47353
+#EXTINF:-1,SIC Radical FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47355
+#EXTINF:-1,TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47382
+#EXTINF:-1,TVI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47383
+#EXTINF:-1,CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47309
+#EXTINF:-1,TVI 24 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47380
+#EXTINF:-1,TVI Ficção HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47381
+#EXTINF:-1,TVI Reality HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47384
+#EXTINF:-1,A Bola TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47294
+#EXTINF:-1,Canal 11 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47306
+#EXTINF:-1,SPORT TV + HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47356
+#EXTINF:-1,SPORT TV 1 UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47357
+#EXTINF:-1,SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47358
+#EXTINF:-1,SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47359
+#EXTINF:-1,SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47360
+#EXTINF:-1,SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47361
+#EXTINF:-1,SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47362
+#EXTINF:-1,SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47363
+#EXTINF:-1,SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47364
+#EXTINF:-1,SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47365
+#EXTINF:-1,SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47366
+#EXTINF:-1,SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47367
+#EXTINF:-1,SPORT TV NBA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47368
+#EXTINF:-1,BENFICA TV UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47302
+#EXTINF:-1,BENFICA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47303
+#EXTINF:-1,BENFICA TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47304
+#EXTINF:-1,Sporting TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47369
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47312
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47313
+#EXTINF:-1,ELEVEN SPORTS 1 UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47314
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47315
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47316
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47318
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47319
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47320
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47321
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47322
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47323
+#EXTINF:-1,EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47324
+#EXTINF:-1,TVCINE TOP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47378
+#EXTINF:-1,TVCINE TOP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47379
+#EXTINF:-1,TVCINE EDITION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47374
+#EXTINF:-1,TVCINE EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47375
+#EXTINF:-1,TVCINE EMOTION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47376
+#EXTINF:-1,TVCINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47377
+#EXTINF:-1,TVCINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47372
+#EXTINF:-1,TVCINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47373
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47295
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47296
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47297
+#EXTINF:-1,AXN Movies FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47298
+#EXTINF:-1,AXN Movies HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47299
+#EXTINF:-1,AXN White FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47300
+#EXTINF:-1,AXN White HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47301
+#EXTINF:-1,FOX Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47325
+#EXTINF:-1,FOX Crime FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47326
+#EXTINF:-1,FOX Crime HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47327
+#EXTINF:-1,FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47328
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47329
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47330
+#EXTINF:-1,FOX Movies FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47331
+#EXTINF:-1,Hollywood FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47336
+#EXTINF:-1,Hollywood HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47337
+#EXTINF:-1,Cinemundo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47308
+#EXTINF:-1,NOS Studio HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47342
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47370
+#EXTINF:-1,SIC K HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47352
+#EXTINF:-1,Casa e Cozinha HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47307
+#EXTINF:-1,24 Kitchen HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47293
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47311
+#EXTINF:-1,FUEL TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47332
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47310
+#EXTINF:-1,Historia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47335
+#EXTINF:-1,ID Investigation Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47338
+#EXTINF:-1,National Geografic Wild HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47340
+#EXTINF:-1,National Geografic HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47341
+#EXTINF:-1,Odisseia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47343
+#EXTINF:-1,Globo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47333
+#EXTINF:-1,Globo Now HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47334
+#EXTINF:-1,TV Record HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47371
+#EXTINF:-1,Porto Canal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47344
+#EXTINF:-1,AMC Break HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47387
+#EXTINF:-1,MTV Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47339
+#EXTINF:-1,ZAP Viva HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/47385
+#EXTINF:-1,Trace Urban 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/75839
