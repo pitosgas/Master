@@ -1,4 +1,186 @@
 #EXTM3U
+#EXTINF:-1,RTP 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58580
+#EXTINF:-1,RTP 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58581
+#EXTINF:-1,SIC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58587
+#EXTINF:-1,TVI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58613
+#EXTINF:-1,TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58616
+#EXTINF:-1,SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58588
+#EXTINF:-1,SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58589
+#EXTINF:-1,TVI 24
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58615
+#EXTINF:-1,SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58590
+#EXTINF:-1,24 KITCHEN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58528
+#EXTINF:-1,A BOLA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58529
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58530
+#EXTINF:-1,AFRO MUSIC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58531
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58532
+#EXTINF:-1,AXN BLACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58533
+#EXTINF:-1,AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58534
+#EXTINF:-1,BENFICA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/176361
+#EXTINF:-1,BIGGS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58535
+#EXTINF:-1,CANAL NOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58537
+#EXTINF:-1,CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58538
+#EXTINF:-1,CANAL Q
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58539
+#EXTINF:-1,CANCAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58540
+#EXTINF:-1,CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58541
+#EXTINF:-1,CASA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58542
+#EXTINF:-1,CASAVISION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58543
+#EXTINF:-1,CINE MUNDO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58544
+#EXTINF:-1,CMTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58545
+#EXTINF:-1,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58546
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58547
+#EXTINF:-1,DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58548
+#EXTINF:-1,E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58549
+#EXTINF:-1,ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58550
+#EXTINF:-1,ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58551
+#EXTINF:-1,ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58552
+#EXTINF:-1,ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58553
+#EXTINF:-1,ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58554
+#EXTINF:-1,ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58555
+#EXTINF:-1,EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58556
+#EXTINF:-1,EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58557
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58558
+#EXTINF:-1,FOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58559
+#EXTINF:-1,FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58560
+#EXTINF:-1,FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58561
+#EXTINF:-1,FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58562
+#EXTINF:-1,FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58563
+#EXTINF:-1,HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58564
+#EXTINF:-1,HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58565
+#EXTINF:-1,JIM JAM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58566
+#EXTINF:-1,MCM POP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58567
+#EXTINF:-1,MEZZO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58568
+#EXTINF:-1,MOTORSPORT.TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58569
+#EXTINF:-1,MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58570
+#EXTINF:-1,MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58571
+#EXTINF:-1,NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58572
+#EXTINF:-1,NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58573
+#EXTINF:-1,NBA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58574
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58575
+#EXTINF:-1,ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58576
+#EXTINF:-1,PFC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58577
+#EXTINF:-1,PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58578
+#EXTINF:-1,REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58579
+#EXTINF:-1,RTP 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58582
+#EXTINF:-1,RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58583
+#EXTINF:-1,RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58584
+#EXTINF:-1,RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58585
+#EXTINF:-1,RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58586
+#EXTINF:-1,SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58591
+#EXTINF:-1,SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58592
+#EXTINF:-1,SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58593
+#EXTINF:-1,SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58594
+#EXTINF:-1,SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58595
+#EXTINF:-1,SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/205120
+#EXTINF:-1,SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/176362
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58596
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58598
+#EXTINF:-1,TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58599
+#EXTINF:-1,TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58600
+#EXTINF:-1,TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58601
+#EXTINF:-1,TV FATIMA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58602
+#EXTINF:-1,TV GLOBO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58603
+#EXTINF:-1,TV GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58604
+#EXTINF:-1,TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58605
+#EXTINF:-1,TV SERIES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58606
+#EXTINF:-1,TVCINE 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58607
+#EXTINF:-1,TVCINE 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58608
+#EXTINF:-1,TVCINE 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58609
+#EXTINF:-1,TVCINE 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58610
+#EXTINF:-1,TVE 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58611
+#EXTINF:-1,TVE INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58612
+#EXTINF:-1,VH1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58617
+
+
 #EXTINF:-1,[PT] SIC NOTÍCIAS 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36616
 #EXTINF:-1,[PT] TVI REALITY 
