@@ -1,155 +1,103 @@
 #EXTM3U
-#EXTINF:-1,11 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9692
-#EXTINF:-1,24 KITCHEN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9693
-#EXTINF:-1,KURIAKOS TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9702
-#EXTINF:-1,RTP 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9706
-#EXTINF:-1,RTP 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9709
-#EXTINF:-1,SIC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9714
-#EXTINF:-1,TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9722
-#EXTINF:-1,ZAP VIVA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9726
-#EXTINF:-1,SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9733
-#EXTINF:-1,SPORT TV3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9734
-#EXTINF:-1,SPORT TV4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9737
-#EXTINF:-1,SPORT TV5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9739
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9742
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9744
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9747
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9750
-#EXTINF:-1,RECORD TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9754
-#EXTINF:-1,TRAVEL CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9761
-#EXTINF:-1,EUROSPORT 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9788
-#EXTINF:-1,BENFICA TV FHD (NOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9792
-#EXTINF:-1,ELEVEN SPORTS 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9795
-#EXTINF:-1,ELEVEN SPORTS 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9797
-#EXTINF:-1,ELEVENS SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9800
-#EXTINF:-1,FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9801
-#EXTINF:-1,FOX CRIME FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9808
-#EXTINF:-1,AXN WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9811
-#EXTINF:-1,AXN BLACK FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9814
-#EXTINF:-1,AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9816
-#EXTINF:-1,TV CINE EDITION FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9830
-#EXTINF:-1,CAÇA PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9696
-#EXTINF:-1,CMTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9698
-#EXTINF:-1,NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9704
 #EXTINF:-1,RTP 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9707
-#EXTINF:-1,RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9710
-#EXTINF:-1,RTP 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9712
-#EXTINF:-1,SIC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9715
-#EXTINF:-1,SIC NOTICIAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9716
-#EXTINF:-1,SPORT TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9718
-#EXTINF:-1,TVI 24 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9721
-#EXTINF:-1,TVI FICCAO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9723
-#EXTINF:-1,TVI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9724
-#EXTINF:-1,SPORT TV2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9731
-#EXTINF:-1,SPORT TV3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9735
-#EXTINF:-1,SPORT TV5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9740
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9743
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9746
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9749
-#EXTINF:-1,FUEL TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9758
-#EXTINF:-1,TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9760
-#EXTINF:-1,HISTORIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9762
-#EXTINF:-1,ODISSEIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9764
-#EXTINF:-1,DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9770
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9771
-#EXTINF:-1,MOTORVISION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9784
-#EXTINF:-1,EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9786
-#EXTINF:-1,EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9787
-#EXTINF:-1,SPORTING TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9789
-#EXTINF:-1,BENFICA TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9791
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9794
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9796
-#EXTINF:-1,ELEVENS SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9799
-#EXTINF:-1,FOX COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9803
-#EXTINF:-1,FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9805
-#EXTINF:-1,FOX CRIME HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9807
-#EXTINF:-1,AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9810
-#EXTINF:-1,AXN BLACK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9813
-#EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9817
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9819
-#EXTINF:-1,CINEMUNDO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9821
-#EXTINF:-1,TV CINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9823
-#EXTINF:-1,TV CINE EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9826
-#EXTINF:-1,TV CINE EDITION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9829
-#EXTINF:-1,TV CINE TOP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9832
-#EXTINF:-1,SIC RADICAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9835
-#EXTINF:-1,SIC MULHER HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9837
-#EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9850
-#EXTINF:-1,HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/9852
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7395
+#EXTINF:-1,RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7396
+#EXTINF:-1,RTP 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7397
+#EXTINF:-1,RTP Africa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7400
+#EXTINF:-1,AXN Black
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7295
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7296
+#EXTINF:-1,AXN Movies FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7297
+#EXTINF:-1,AXN White FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7298
+#EXTINF:-1,Benfica TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7303
+#EXTINF:-1,Crime+ Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7328
+#EXTINF:-1,Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7329
+#EXTINF:-1,Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7330
+#EXTINF:-1,Disney JUNIOR FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7331
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7335
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7336
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7337
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7338
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7339
+#EXTINF:-1,ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7340
+#EXTINF:-1,euronews HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7342
+#EXTINF:-1,EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7343
+#EXTINF:-1,EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7344
+#EXTINF:-1,FOX Comedy FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7350
+#EXTINF:-1,FOX Crime FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7351
+#EXTINF:-1,FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7352
+#EXTINF:-1,FOX Life FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7353
+#EXTINF:-1,FOX Movies FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7354
+#EXTINF:-1,Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7366
+#EXTINF:-1,MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7380
+#EXTINF:-1,NAT GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7381
+#EXTINF:-1,NAT GEO Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7382
+#EXTINF:-1,Nick Junior FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7384
+#EXTINF:-1,nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7385
+#EXTINF:-1,PORTO CANAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7390
+#EXTINF:-1,SIC CARAS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7403
+#EXTINF:-1,SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7404
+#EXTINF:-1,SIC KIDS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7405
+#EXTINF:-1,SIC Mulher FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7406
+#EXTINF:-1,SIC NOTICIAS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7407
+#EXTINF:-1,SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7409
+#EXTINF:-1,SPORT TV + FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7411
+#EXTINF:-1,SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7412
+#EXTINF:-1,SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7413
+#EXTINF:-1,SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7414
+#EXTINF:-1,SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7415
+#EXTINF:-1,SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7416
+#EXTINF:-1,Sporting HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7418
+#EXTINF:-1,TVCine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7433
+#EXTINF:-1,TVCine Edition FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7434
+#EXTINF:-1,TVCine Emotion FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7435
+#EXTINF:-1,TVCine Top FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/7436
