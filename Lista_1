@@ -1,6 +1,91 @@
 #EXTM3U
 #EXTINF:-1,Update 12/12/2022
 http://naovalenada.m3u
+#EXTINF:-1 tvg-id="" tvg-name="[PT] SIC NOTÍCIAS " ,SIC NOTÍCIAS 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36616
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY " ,TVI REALITY 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36619
+#EXTINF:-1 tvg-id="" tvg-name="SIC CARAS" ,SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36628
+#EXTINF:-1 tvg-id="" tvg-name="ARTV" ,ARTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36632
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV NBA HD" ,SPORTTV NBA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36641
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 11" ,CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36651
+#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV" ,SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36652
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" ,EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36655
+#EXTINF:-1 tvg-id="" tvg-name="PFC" ,PFC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36657
+#EXTINF:-1 tvg-id="" tvg-name="CAÇA E PESCA HD" ,CAÇA E PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36662
+#EXTINF:-1 tvg-id="" tvg-name="CAÇA E PESCA" ,CAÇA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36663
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON JUNIOR" ,NICKELODEON JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36667
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" ,CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36670
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" ,BABY TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36673
+#EXTINF:-1 tvg-id="" tvg-name="TLC" ,TLC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36674
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" ,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36676
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" ,NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36677
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" ,NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36678
+#EXTINF:-1 tvg-id="" tvg-name="CANAL HISTORIA HD" ,CANAL HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36681
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE TV" ,BLAZE TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36682
+#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" ,CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36683
+#EXTINF:-1 tvg-id="" tvg-name="MY CUiSINE" ,MY CUiSINE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36686
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE 4 HD" ,TV CINE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36691
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES HD" ,FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36696
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY " ,FOX COMEDY 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36697
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" ,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36698
+#EXTINF:-1 tvg-id="" tvg-name="AXN BLACK HD" ,AXN BLACK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36699
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" ,AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36700
+#EXTINF:-1 tvg-id="" tvg-name="AMC " ,AMC 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36701
+#EXTINF:-1 tvg-id="" tvg-name="CINEMUNDO HD" ,CINEMUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36702
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FHD" ,HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36703
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" ,SYFY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36704
+#EXTINF:-1 tvg-id="" tvg-name="NOS STUDIOS HD" ,NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36706
+#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL" ,MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36707
+#EXTINF:-1 tvg-id="" tvg-name="VH1" ,VH1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36708
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" ,MEZZO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36710
+#EXTINF:-1 tvg-id="" tvg-name="AFRO MUSIC" ,AFRO MUSIC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36711
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" ,TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36713
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" ,SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36715
+#EXTINF:-1 tvg-id="" tvg-name="BBC ENTERTAINEMENT" ,BBC ENTERTAINEMENT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36716
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" ,BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36717
+#EXTINF:-1 tvg-id="" tvg-name="CNN" ,CNN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36718
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" ,FOX SPORTS
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtp1.png",RTP 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://bellive.top:8080/live/251665615145176022/2551665615145176/25064.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTP 2" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtp2.png",RTP 2
