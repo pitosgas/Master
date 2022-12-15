@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layoutype>fuckOFF</layoutype>
+<channel>
 <item>
 <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]CRICKET STREAMS[/COLOR] [COLOR orchid] (DL)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -37,10 +36,4 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 <page>https://daddyhd.com[makelist.param2]</page>
 </regex>
 </item>
-
-<dir>
-    <title>[COLOR orchid]¤[/COLOR] [COLOR white]CRICKET [/COLOR] [COLOR orchid] LIVE DIRECTS[/COLOR] [COLOR orchid]¤[/COLOR]</title>
-    <link>https://bitbucket.org/Francis_Drake/francis-drake/raw/master/cricket.xml</link>
-	<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/cricket.png</thumbnail>
-	<fanart>special://home/addons/script.thecrew.artwork/resources/fanart/cricket_fanart.png</fanart>
-</dir>
+</channel>
