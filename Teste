@@ -1,211 +1,184 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtp1.png",RTP 1
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25064.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 2" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtp2.png",RTP 2
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25065.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC" tvg-logo="https://docdog.top/Logotv/countries/portugal/sic.png",SIC
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25073.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI" tvg-logo="https://docdog.top/Logotv/countries/portugal/tvi.png",TVI
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25085.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC CARAS" tvg-logo="https://docdog.top/Logotv/countries/portugal/siccaras.png",SIC CARAS
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25074.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="https://docdog.top/Logotv/countries/portugal/sick.png",SIC K
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25075.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC MULHER" tvg-logo="https://docdog.top/Logotv/countries/portugal/sicmulher.png",SIC MULHER
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25077.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS" tvg-logo="https://docdog.top/Logotv/countries/portugal/sicnoticias.png",SIC NOTICIAS
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25078.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC RADICAL" tvg-logo="https://docdog.top/Logotv/countries/portugal/sicradical.png",SIC RADICAL
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25079.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY" tvg-logo="https://docdog.top/Logotv/countries/portugal/tvireality.png",TVI REALITY
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25088.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 3" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtp3.png",RTP 3
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25066.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI 24" tvg-logo="https://docdog.top/Logotv/countries/portugal/tvi24.png",TVI 24
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25086.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI FICCAO" tvg-logo="https://docdog.top/Logotv/countries/portugal/tvificcao.png",TVI FICCAO
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25087.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/Logotv/countries/portugal/sport-tv-mais-pt.png",SPORT TV +
-http://bellive.top:8080/live/251665615145176022/2551665615145176/29668.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv1.png",SPORT TV 1
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24984.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv2.png",SPORT TV 2
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24982.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv3.png",SPORT TV 3
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24980.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv4.png",SPORT TV 4
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24979.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv5.png",SPORT TV 5
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24978.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6" tvg-logo="https://docdog.top/Logotv/countries/portugal/Sport_tv_6.png",SPORT TV 6
-http://bellive.top:8080/live/251665615145176022/2551665615145176/29669.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/portugal/elevensport1.png",ELEVEN SPORT 1
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25024.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 2" tvg-logo="https://docdog.top/Logotv/countries/portugal/elevensport2.png",ELEVEN SPORT 2
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25025.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 3" tvg-logo="https://docdog.top/Logotv/countries/portugal/elevensport3.png",ELEVEN SPORT 3
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25026.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 4" tvg-logo="https://docdog.top/Logotv/countries/portugal/elevensport4.png",ELEVEN SPORT 4
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25027.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 5" tvg-logo="https://docdog.top/Logotv/countries/portugal/Eleven_Sports_5.png",ELEVEN SPORT 5
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25028.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 6" tvg-logo="https://docdog.top/Logotv/countries/portugal/elevensports6vip.png",ELEVEN SPORT 6
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24983.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttvnba.png",SPORT TV NBA
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24981.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://docdog.top/Logotv/countries/portugal/cartoonnetwork.png",CARTOON NETWORK
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24985.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN" tvg-logo="https://docdog.top/Logotv/countries/portugal/24kitchen.png",24 KITCHEN
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24986.ts
-#EXTINF:-1 tvg-id="" tvg-name="A BOLA TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/abolatv.png",A BOLA TV
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24987.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://docdog.top/Logotv/countries/portugal/ae.png",A&E
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24988.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://docdog.top/Logotv/countries/portugal/amc.png",AMC
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24989.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARTV" tvg-logo="https://docdog.top/Logotv/countries/portugal/artv.png",ARTV
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24990.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://docdog.top/Logotv/countries/portugal/axn.png",AXN
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24991.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN BLACK" tvg-logo="https://docdog.top/Logotv/countries/portugal/axnblack.png",AXN BLACK
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24992.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="https://docdog.top/Logotv/countries/portugal/axnmovies.png",AXN MOVIES
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24993.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="https://docdog.top/Logotv/countries/portugal/axnwhite.png",AXN WHITE
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24994.ts
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/babytv.png",BABY TV
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24995.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="https://docdog.top/Logotv/countries/portugal/bbcworldnews.png",BBC WORLD NEWS
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24996.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIGGS" tvg-logo="https://docdog.top/Logotv/countries/portugal/biggs.png",BIGGS
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24998.ts
-#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="https://docdog.top/Logotv/countries/portugal/blaze.png",BLAZE
-http://bellive.top:8080/live/251665615145176022/2551665615145176/24999.ts
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://docdog.top/Logotv/countries/portugal/btv.png",BTV
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25000.ts
-#EXTINF:-1 tvg-id="" tvg-name="CACA E PESCA" tvg-logo="https://docdog.top/Logotv/countries/portugal/cacaepesca.png",CACA E PESCA
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25001.ts
-#EXTINF:-1 tvg-id="" tvg-name="CACA VISION" tvg-logo="https://docdog.top/Logotv/countries/portugal/cacavision.png",CACA VISION
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25002.ts
-#EXTINF:-1 tvg-id="" tvg-name="CALVISION" tvg-logo="https://docdog.top/Logotv/countries/portugal//calvision.png",CALVISION
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25003.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 11" tvg-logo="https://docdog.top/Logotv/countries/portugal/canal11.png",CANAL 11
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25004.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="https://docdog.top/Logotv/countries/portugal/canalpanda.png",CANAL PANDA
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25005.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL Q" tvg-logo="https://docdog.top/Logotv/countries/portugal//canalq.png",CANAL Q
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25006.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="https://docdog.top/Logotv/countries/portugal/cancaonova.png",CANCAO NOVA
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25007.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="https://docdog.top/Logotv/countries/portugal/cbsreality.png",CBS REALITY
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25008.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION" tvg-logo="https://docdog.top/Logotv/countries/portugal/TVCine-ACTION.png",TVCINE ACTION
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25009.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP" tvg-logo="https://docdog.top/Logotv/countries/portugal/TVCine-TOP.png",TVCINE TOP
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25012.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION" tvg-logo="https://docdog.top/Logotv/countries/portugal/TVCine-EDITION.png",TVCINE EDITION
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25013.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE EMOTION" tvg-logo="https://docdog.top/Logotv/countries/portugal/TVCine-Emotion.png",TVCINE EMOTION
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25014.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMUNDO" tvg-logo="https://docdog.top/Logotv/countries/portugal/cinemundo.png",CINEMUNDO
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25016.ts
-#EXTINF:-1 tvg-id="" tvg-name="CMTV" tvg-logo="https://docdog.top/Logotv/countries/portugal/cmtv.png",CMTV
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25017.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIME & INVESTIGATION" tvg-logo="https://docdog.top/Logotv/countries/portugal/crimeandinvestigation.png",CRIME & INVESTIGATION
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25018.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://docdog.top/Logotv/countries/portugal/discoverychannel.png",DISCOVERY CHANNEL
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25019.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SHOWCASE" tvg-logo="https://docdog.top/Logotv/countries/portugal/discoveryshowcase.png",DISCOVERY SHOWCASE
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25020.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://docdog.top/Logotv/countries/portugal/disneychannel.png",DISNEY CHANNEL
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25021.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://docdog.top/Logotv/countries/portugal/disneyjunior.png",DISNEY JUNIOR
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25022.ts
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://docdog.top/Logotv/countries/portugal/entertainment.png",E! ENTERTAINMENT
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25023.ts
-#EXTINF:-1 tvg-id="" tvg-name="EURO CHANNEL" tvg-logo="https://docdog.top/Logotv/countries/portugal/eurochannel.png",EURO CHANNEL
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25029.ts
-#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://docdog.top/Logotv/countries/portugal/euronews.png",EURO NEWS
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25030.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://docdog.top/Logotv/countries/portugal/fox.png",FOX
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25031.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="https://docdog.top/Logotv/countries/portugal/foxcomedy.png",FOX COMEDY
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25032.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME" tvg-logo="https://docdog.top/Logotv/countries/portugal/foxcrime.png",FOX CRIME
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25033.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://docdog.top/Logotv/countries/portugal/foxlife.png",FOX LIFE
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25034.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://docdog.top/Logotv/countries/portugal/foxmovies.png",FOX MOVIES
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25035.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/fueltv.png",FUEL TV
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25036.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="https://docdog.top/Logotv/countries/portugal/globo.png",GLOBO
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25038.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NOW" tvg-logo="https://docdog.top/Logotv/countries/portugal/globonow.png",GLOBO NOW
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25039.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="https://docdog.top/Logotv/countries/portugal/historia.png",HISTORIA
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25040.ts
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="https://docdog.top/Logotv/countries/portugal/hollywood.png",HOLLYWOOD
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25041.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID INVESTIGATION" tvg-logo="https://docdog.top/Logotv/countries/portugal/ID.png",ID INVESTIGATION
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25042.ts
-#EXTINF:-1 tvg-id="" tvg-name="JIM JAM" tvg-logo="https://docdog.top/Logotv/countries/portugal/jimjam.png",JIM JAM
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25043.ts
-#EXTINF:-1 tvg-id="" tvg-name="KOMBAT SPORT" tvg-logo="https://docdog.top/Logotv/countries/portugal/kombatsport.png",KOMBAT SPORT
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25044.ts
-#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/kuriakostv.png",KURIAKOS TV
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25045.ts
-#EXTINF:-1 tvg-id="" tvg-name="MCM POP" tvg-logo="https://docdog.top/Logotv/countries/portugal/mcmpop.png",MCM POP
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25046.ts
-#EXTINF:-1 tvg-id="" tvg-name="MCM TUP" tvg-logo="https://docdog.top/Logotv/countries/portugal/mcmtop.png",MCM TUP
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25047.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOTORVISION" tvg-logo="https://docdog.top/Logotv/countries/portugal/motorvision.png",MOTORVISION
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25048.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL" tvg-logo="https://docdog.top/Logotv/countries/portugal//mtvportugal.jpg",MTV PORTUGAL
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25049.ts
-#EXTINF:-1 tvg-id="" tvg-name="MY CUISINE" tvg-logo="https://docdog.top/Logotv/countries/portugal//mycuisine.jpg",MY CUISINE
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25050.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://docdog.top/Logotv/countries/portugal/natgeo.png",NAT GEO
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25051.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://docdog.top/Logotv/countries/portugal/natgeowild.png",NAT GEO WILD
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25052.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://docdog.top/Logotv/countries/portugal/nickjr.png",NICK JR
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25055.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://docdog.top/Logotv/countries/portugal/nickelodeon.png",NICKELODEON
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25056.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOS STUDIO" tvg-logo="https://docdog.top/Logotv/countries/portugal/nosstudios.png",NOS STUDIO
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25057.ts
-#EXTINF:-1 tvg-id="" tvg-name="ODISSEIA" tvg-logo="https://docdog.top/Logotv/countries/portugal/odisseia.png",ODISSEIA
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25058.ts
-#EXTINF:-1 tvg-id="" tvg-name="PFC" tvg-logo="https://docdog.top/Logotv/countries/portugal/pfc.png",PFC
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25061.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORTO CANAL" tvg-logo="https://docdog.top/Logotv/countries/portugal/portocanal.png",PORTO CANAL
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25062.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/recordtv.png",RECORD TV
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25063.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP ACORESS" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtpacores.png",RTP ACORESS
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25067.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP AFRICA" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtpafrica.png",RTP AFRICA
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25068.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP MADEIRA" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtpmadeira.png",RTP MADEIRA
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25069.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP MEMORIA" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtpmemoria.png",RTP MEMORIA
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25070.ts
-#EXTINF:-1 tvg-id="" tvg-name="SERIES TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/series.png",SERIES TV
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25072.ts
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://docdog.top/Logotv/countries/portugal/syfy.png",SYFY
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25080.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://docdog.top/Logotv/countries/portugal/tlc.png",TLC
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25081.ts
-#EXTINF:-1 tvg-id="" tvg-name="TOROS TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/torostv.png",TOROS TV
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25082.ts
-#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://docdog.top/Logotv/countries/portugal/traceurban.png",TRACE URBAN
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25083.ts
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL" tvg-logo="https://docdog.top/Logotv/countries/portugal/travelchannel.png",TRAVEL CHANNEL
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25084.ts
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://docdog.top/Logotv/countries/portugal/vh1.png",VH1
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25089.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZAP VIVA" tvg-logo="https://docdog.top/Logotv/countries/portugal/zapviva.png",ZAP VIVA
-http://bellive.top:8080/live/251665615145176022/2551665615145176/25090.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="https://docdog.top/Logotv/countries/portugal/skynews.png",SKY NEWS
-http://bellive.top:8080/live/251665615145176022/2551665615145176/49556.ts
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+   
+	<category label="PORTAL 1">
+		<setting id="portal_name_1" type="text" label="Name" default="PORTAL 1" />
+   	 	<setting id="portal_url_1" type="text" label="URL" default="http://mytv.fun:8080/c/" />
+   	 	<setting label="Use Custom MAC" type="bool" id="custom_mac_1" default="true"/>
+   	 	<setting id="portal_mac_1" type="text" label="MAC" default="00:1a:79:4d:91:0d" visible="eq(-1,true)" />
+   	 	
+   	 	<setting label="Send Serial" type="bool" id="send_serial_1" default="false"/>
+   	 	<setting label="Custom Serial" type="bool" id="custom_serial_1" default="false" visible="eq(-1,true)"/>
+   	 	<setting type="sep"/>
+   	 	<setting label="Serial Number" type="text" id="serial_number_1" default="" visible="eq(-2,true) + eq(-3,true)"/>
+   	 	<setting label="Device ID 1" type="text" id="device_id_1" default="" visible="eq(-3,true) + eq(-4,true)"/>
+   	 	<setting label="Device ID 2" type="text" id="device_id2_1" default="" visible="eq(-4,true) + eq(-5,true)"/>
+   	 	<setting label="Signaure" type="text" id="signature_1" default="" visible="eq(-5,true) + eq(-6,true)"/>
+    </category>
+
+	<category label="PORTAL 2">
+		<setting id="portal_name_2" type="text" label="Name" default="PORTAL 2" />
+   	 	<setting id="portal_url_2" type="text" label="URL" default="http://mag.you24.online:80" />
+   	 	<setting label="Use Custom MAC" type="bool" id="custom_mac_2" default="true"/>
+   	 	<setting id="portal_mac_2" type="text" label="MAC" default="00:1A:79:69:0a:b2" visible="eq(-1,true)" />
+   	 	
+   	 	<setting label="Send Serial" type="bool" id="send_serial_2" default="false"/>
+   	 	<setting label="Custom Serial" type="bool" id="custom_serial_2" default="false" visible="eq(-1,true)"/>
+   	 	<setting type="sep"/>
+   	 	<setting label="Serial Number" type="text" id="serial_number_2" default="" visible="eq(-2,true) + eq(-3,true)"/>
+   	 	<setting label="Device ID 1" type="text" id="device_id_2" default="" visible="eq(-3,true) + eq(-4,true)"/>
+   	 	<setting label="Device ID 2" type="text" id="device_id2_2" default="" visible="eq(-4,true) + eq(-5,true)"/>
+   	 	<setting label="Signaure" type="text" id="signature_2" default="" visible="eq(-5,true) + eq(-6,true)"/>
+    </category>
+
+	<category label="PORTAL 3">
+		<setting id="portal_name_3" type="text" label="Name" default="PORTAL 3" />
+   	 	<setting id="portal_url_3" type="text" label="URL" default="http://mag.you24.online:80" />
+   	 	<setting label="Use Custom MAC" type="bool" id="custom_mac_3" default="true"/>
+   	 	<setting id="portal_mac_3" type="text" label="MAC" default="00:1A:79:69:0a:b2" visible="eq(-1,true)" />
+   	 	
+   	 	<setting label="Send Serial" type="bool" id="send_serial_3" default="false"/>
+   	 	<setting label="Custom Serial" type="bool" id="custom_serial_3" default="false" visible="eq(-1,true)"/>
+   	 	<setting type="sep"/>
+   	 	<setting label="Serial Number" type="text" id="serial_number_3" default="" visible="eq(-2,true) + eq(-3,true)"/>
+   	 	<setting label="Device ID 1" type="text" id="device_id_3" default="" visible="eq(-3,true) + eq(-4,true)"/>
+   	 	<setting label="Device ID 2" type="text" id="device_id2_3" default="" visible="eq(-4,true) + eq(-5,true)"/>
+   	 	<setting label="Signaure" type="text" id="signature_3" default="" visible="eq(-5,true) + eq(-6,true)"/>
+    </category>
+	
+	<category label="PORTAL 4">
+		<setting id="portal_name_4" type="text" label="Name" default="PORTAL 4" />
+   	 	<setting id="portal_url_4" type="text" label="URL" default="http://mytv.fun:8080/c/" />
+   	 	<setting label="Use Custom MAC" type="bool" id="custom_mac_4" default="true"/>
+   	 	<setting id="portal_mac_4" type="text" label="MAC" default="00:1a:79:a5:4f:48" visible="eq(-1,true)" />
+   	 	
+   	 	<setting label="Send Serial" type="bool" id="send_serial_4" default="false"/>
+   	 	<setting label="Custom Serial" type="bool" id="custom_serial_4" default="false" visible="eq(-1,true)"/>
+   	 	<setting type="sep"/>
+   	 	<setting label="Serial Number" type="text" id="serial_number_4" default="" visible="eq(-2,true) + eq(-3,true)"/>
+   	 	<setting label="Device ID 1" type="text" id="device_id_4" default="" visible="eq(-3,true) + eq(-4,true)"/>
+   	 	<setting label="Device ID 2" type="text" id="device_id2_4" default="" visible="eq(-4,true) + eq(-5,true)"/>
+   	 	<setting label="Signaure" type="text" id="signature_4" default="" visible="eq(-5,true) + eq(-6,true)"/>
+    </category>
+	
+    <category label="PORTAL 5">
+		<setting id="portal_name_5" type="text" label="Name" default="PORTAL 5" />
+   	 	<setting id="portal_url_5" type="text" label="URL" default="http://mytv.fun:8080/c/" />
+   	 	<setting label="Use Custom MAC" type="bool" id="custom_mac_5" default="true"/>
+   	 	<setting id="portal_mac_5" type="text" label="MAC" default="00:1a:79:ab:68:4c" visible="eq(-1,true)" />
+   	 	
+   	 	<setting label="Send Serial" type="bool" id="send_serial_5" default="false"/>
+   	 	<setting label="Custom Serial" type="bool" id="custom_serial_5" default="false" visible="eq(-1,true)"/>
+   	 	<setting type="sep"/>
+   	 	<setting label="Serial Number" type="text" id="serial_number_5" default="" visible="eq(-2,true) + eq(-3,true)"/>
+   	 	<setting label="Device ID 1" type="text" id="device_id_5" default="" visible="eq(-3,true) + eq(-4,true)"/>
+   	 	<setting label="Device ID 2" type="text" id="device_id2_5" default="" visible="eq(-4,true) + eq(-5,true)"/>
+   	 	<setting label="Signaure" type="text" id="signature_5" default="" visible="eq(-5,true) + eq(-6,true)"/>
+    </category>
+	
+    <category label="PORTAL 6">
+		<setting id="portal_name_6" type="text" label="Name" default="PORTAL 6" />
+   	 	<setting id="portal_url_6" type="text" label="URL" default="http://mytv.fun:8080/c/" />
+   	 	<setting label="Use Custom MAC" type="bool" id="custom_mac_6" default="true"/>
+   	 	<setting id="portal_mac_6" type="text" label="MAC" default="00:1a:79:a4:4c:a8" visible="eq(-1,true)" />
+   	 	
+   	 	<setting label="PORTAL 3" type="bool" id="send_serial_6" default="false"/>
+   	 	<setting label="Custom Serial" type="bool" id="custom_serial_6" default="false" visible="eq(-1,true)"/>
+   	 	<setting type="sep"/>
+   	 	<setting label="Serial Number" type="text" id="serial_number_6" default="" visible="eq(-2,true) + eq(-3,true)"/>
+   	 	<setting label="Device ID 1" type="text" id="device_id_6" default="" visible="eq(-3,true) + eq(-4,true)"/>
+   	 	<setting label="Device ID 2" type="text" id="device_id2_6" default="" visible="eq(-4,true) + eq(-5,true)"/>
+   	 	<setting label="Signaure" type="text" id="signature_6" default="" visible="eq(-5,true) + eq(-6,true)"/>
+    </category>
+
+	<category label="PORTAL 7">
+		<setting id="portal_name_7" type="text" label="Name" default="PORTAL 7" />
+   	 	<setting id="portal_url_7" type="text" label="URL" default="http://mytv.fun:8080/c/" />
+   	 	<setting label="Use Custom MAC" type="bool" id="custom_mac_7" default="true"/>
+   	 	<setting id="portal_mac_7" type="text" label="MAC" default="00:1a:79:aa:64:c5" visible="eq(-1,true)" />
+   	 	
+   	 	<setting label="Send Serial" type="bool" id="send_serial_7" default="false"/>
+   	 	<setting label="Custom Serial" type="bool" id="custom_serial_7" default="false" visible="eq(-1,true)"/>
+   	 	<setting type="sep"/>
+   	 	<setting label="Serial Number" type="text" id="serial_number_7" default="" visible="eq(-2,true) + eq(-3,true)"/>
+   	 	<setting label="Device ID 1" type="text" id="device_id_7" default="" visible="eq(-3,true) + eq(-4,true)"/>
+   	 	<setting label="Device ID 2" type="text" id="device_id2_7" default="" visible="eq(-4,true) + eq(-5,true)"/>
+   	 	<setting label="Signaure" type="text" id="signature_7" default="" visible="eq(-5,true) + eq(-6,true)"/>
+    </category>
+	
+    <category label="PORTAL 8">
+		<setting id="portal_name_8" type="text" label="Name" default="PORTAL 8" />
+   	 	<setting id="portal_url_8" type="text" label="URL" default="http://mytv.fun:8080/c/" />
+   	 	<setting label="Custom MAC" type="bool" id="custom_mac_8" default="true"/>
+   	 	<setting id="portal_mac_8" type="text" label="MAC" default="00:1a:79:ab:fe:93" visible="eq(-1,true)" />
+   	 	
+   	 	<setting label="Send Serial" type="bool" id="send_serial_8" default="false"/>
+   	 	<setting label="Custom Serial" type="bool" id="custom_serial_8" default="false" visible="eq(-1,true)"/>
+		<setting type="sep"/>
+   	 	<setting label="Serial Number" type="text" id="serial_number_8" default="" visible="eq(-2,true) + eq(-3,true)"/>
+   	 	<setting label="Device Device ID 1" type="text" id="device_id_8" default="" visible="eq(-3,true) + eq(-4,true)"/>
+   	 	<setting label="Device ID 2" type="text" id="device_id2_8" default="" visible="eq(-4,true) + eq(-5,true)"/>
+   	 	<setting label="Signature" type="text" id="signature_8" default="" visible="eq(-5,true) + eq(-6,true)"/>
+    </category>
+	
+	<category label="PORTAL 9">
+		<setting id="portal_name_9" type="text" label="Name" default="PORTAL 9" />
+   	 	<setting id="portal_url_9" type="text" label="URL" default="http://mag.you24.online:80" />
+   	 	<setting label="30008" type="bool" id="custom_mac_9" default="true"/>
+   	 	<setting id="portal_mac_9" type="text" label="MAC" default="00:1A:79:5f:35:6f" visible="eq(-1,true)" />
+   	 	
+   	 	<setting label="30009" type="bool" id="send_serial_3" default="false"/>
+   	 	<setting label="30014" type="bool" id="custom_serial_3" default="false" visible="eq(-1,true)"/>
+   	 	<setting type="sep"/>
+   	 	<setting label="30010" type="text" id="serial_number_3" default="" visible="eq(-2,true) + eq(-3,true)"/>
+   	 	<setting label="30011" type="text" id="device_id_3" default="" visible="eq(-3,true) + eq(-4,true)"/>
+   	 	<setting label="30012" type="text" id="device_id2_3" default="" visible="eq(-4,true) + eq(-5,true)"/>
+   	 	<setting label="30013" type="text" id="signature_3" default="" visible="eq(-5,true) + eq(-6,true)"/>
+    </category>
+	
+	<category label="PORTAL 10">
+		<setting id="portal_name_10" type="text" label="Name" default="PORTAL 10" />
+   	 	<setting id="portal_url_10" type="text" label="URL" default="http://mytv.fun:8080/c/" />
+   	 	<setting label="30008" type="bool" id="custom_mac_10" default="true"/>
+   	 	<setting id="portal_mac_10" type="text" label="MAC" default="00:1a:79:ae:f0:3a" visible="eq(-1,true)" />
+   	 	
+   	 	<setting label="30009" type="bool" id="send_serial_3" default="false"/>
+   	 	<setting label="30014" type="bool" id="custom_serial_3" default="false" visible="eq(-1,true)"/>
+   	 	<setting type="sep"/>
+   	 	<setting label="30010" type="text" id="serial_number_3" default="" visible="eq(-2,true) + eq(-3,true)"/>
+   	 	<setting label="30011" type="text" id="device_id_3" default="" visible="eq(-3,true) + eq(-4,true)"/>
+   	 	<setting label="30012" type="text" id="device_id2_3" default="" visible="eq(-4,true) + eq(-5,true)"/>
+   	 	<setting label="30013" type="text" id="signature_3" default="" visible="eq(-5,true) + eq(-6,true)"/>
+    </category>
+	
+	<category label="PORTAL 11">
+		<setting id="portal_name_11" type="text" label="Name" default="PORTAL 11" />
+   	 	<setting id="portal_url_11" type="text" label="URL" default="http://mag.you24.online:80" />
+   	 	<setting label="30008" type="bool" id="custom_mac_11" default="true"/>
+   	 	<setting id="portal_mac_11" type="text" label="MAC" default="00:1A:79:09:25:1e" visible="eq(-1,true)" />
+   	 	
+   	 	<setting label="30009" type="bool" id="send_serial_3" default="false"/>
+   	 	<setting label="30014" type="bool" id="custom_serial_3" default="false" visible="eq(-1,true)"/>
+   	 	<setting type="sep"/>
+   	 	<setting label="30010" type="text" id="serial_number_3" default="" visible="eq(-2,true) + eq(-3,true)"/>
+   	 	<setting label="30011" type="text" id="device_id_3" default="" visible="eq(-3,true) + eq(-4,true)"/>
+   	 	<setting label="30012" type="text" id="device_id2_3" default="" visible="eq(-4,true) + eq(-5,true)"/>
+   	 	<setting label="30013" type="text" id="signature_3" default="" visible="eq(-5,true) + eq(-6,true)"/>
+    </category>
+
+<category label="PORTAL 12">
+		<setting id="portal_name_12" type="text" label="Name" default="PORTAL 12" />
+   	 	<setting id="portal_url_12" type="text" label="URL" default="http://powertuga.xyz:8080/c/" />
+   	 	<setting label="30008" type="bool" id="custom_mac_12" default="true"/>
+   	 	<setting id="portal_mac_12" type="text" label="MAC" default="00:1A:79:AA:AE:44" visible="eq(-1,true)" />
+   	 	
+   	 	<setting label="30009" type="bool" id="send_serial_3" default="false"/>
+   	 	<setting label="30014" type="bool" id="custom_serial_3" default="false" visible="eq(-1,true)"/>
+   	 	<setting type="sep"/>
+   	 	<setting label="30010" type="text" id="serial_number_3" default="" visible="eq(-2,true) + eq(-3,true)"/>
+   	 	<setting label="30011" type="text" id="device_id_3" default="" visible="eq(-3,true) + eq(-4,true)"/>
+   	 	<setting label="30012" type="text" id="device_id2_3" default="" visible="eq(-4,true) + eq(-5,true)"/>
+   	 	<setting label="30013" type="text" id="signature_3" default="" visible="eq(-5,true) + eq(-6,true)"/>
+    </category>
+
+</settings>
