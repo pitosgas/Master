@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtp1.png",Filme
-http://roger1964.antaeus.feralhosting.com/Media/Filmes22/Ammu.2022.mp4&mode=20&name=[B]Ammu (2022)[/B]&fanart=https://www.themoviedb.org/t/p/original/7MHxmbmoxqkkZmZRHZvlBG930Ly.jpg&iconimage=https://www.themoviedb.org/t/p/original/ckaM4pI0CzYHzGUG1bar9Q7LHbl.jpg&subtitle=http://roger1964.antaeus.feralhosting.com/Media/Filmes22/Ammu.2022.srt&description=O casamento de Ammu era um conto de fadas – cheio de amor e magia, termina quando seu marido policial, Ravi, bate nela pela primeira vez. O que Ammu pensava ser um incidente único logo se transformou em um ciclo interminável de abuso, prendendo-a e quebrando sua alma e espírito. Levada ao limite, Ammu se une a um aliado improvável para se libertar.&cat=&season=&play=True
+http://roger1964.antaeus.feralhosting.com/Media/Filmes22/Ammu.2022.mp4
+subtitle=http://roger1964.antaeus.feralhosting.com/Media/Filmes22/Ammu.2022.srt
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtp1.png",RTP 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://flysilo.top:8080/311666215923853028/6051666215923853/25064
 #EXTINF:-1 tvg-id="" tvg-name="RTP 2" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtp2.png",RTP 2
