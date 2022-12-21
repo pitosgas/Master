@@ -185,5 +185,166 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4d/Elevensports3.png.jpg</thumbnail>
 <fanart> </fanart>
 </item>
+
+<item>
+<title>[COLORgold][B]Sky Sports[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd1.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/6y5l8ujvxr|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd1.php-</referer>
+</regex>
+<thumbnail>https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLORgold][B]Ziggo Sport[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd3.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/eujjnbvtnml|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd3.php-</referer>
+</regex>
+<thumbnail>https://d3tw7elnk2m6f4.cloudfront.net/_600x600_crop_center-center_75_none/lKkvMzAp_400x400.jpg</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLORgold][B]Nova Sports[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd4.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/6jmuc94a795ahy|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd4.php-</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/Novasports21.jpg</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLORgold][B]La Liga Tv[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd5.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/hh2qwzit8rc|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd5.php-</referer>
+</regex>
+<thumbnail>https://assets.laliga.com/assets/2021/07/26/xlarge/3fc92cb198e605c114ef33b27651d0ec.png</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLORgold][B]Tudn[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd6.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/ksji2aq4bn72|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd6.php-</referer>
+</regex>
+<thumbnail>https://st1.uvnimg.com/f2/30/64b3884646e7ba0bafb3a615d78b/1440x810-2x.png</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLORgold][B]A Spor[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd8.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/phsheh97kpcdvc2|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd8.php-</referer>
+</regex>
+<thumbnail>https://iaaspr.tmgrup.com.tr/e3238a/800/449/0/0/640/359?u=https://iaspr.tmgrup.com.tr/2018/06/07/aspor-mobil-uygulamasi-yenilendi-1528363896108.jpg</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLORgold][B]BT Sport 1[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd9.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/xwg24y5tc0w|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/hd/hd9.php-</referer>
+</regex>
+<thumbnail>https://e7.pngegg.com/pngimages/882/203/png-clipart-brand-logo-product-design-bt-sport-logo-text-sport.png</thumbnail>
+<fanart> </fanart>
+</item>
   
 </channel>
