@@ -4,7 +4,7 @@
   
 <item>
 <title>[COLORgold][B]Sporttv 1 teste[/B][/COLOR]</title>
-<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://streamservicehd.click&amp;Referer=https://streamservicehd.click</link>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://sportskart.click&amp;Referer=https://sportskart.click</link>
 <regex>
 <name>m5</name>
 <expres>var\s*src\s*=\s*"([^"]+)</expres>
