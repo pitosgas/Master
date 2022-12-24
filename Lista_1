@@ -11,7 +11,7 @@
 <page>$doregex[m4]</page>
 <agent>Mozilla/5.0</agent>
 <accept>*/*</accept>
-<referer>https://streamservicehd.click/premiumtv/daddyhd.php?id=49-</referer>
+<referer>https://sportskart.click/embed/stream-49.php-</referer>
 </regex>
 <regex>
 <name>m4</name>
@@ -19,7 +19,7 @@
 <page>https://sportskart.click/embed/stream-49.php|Upgrade-Insecure-Requests=1</page>
 <agent>Mozilla/5.0</agent>
 <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
-<referer>https://streamservicehd.click/premiumtv/daddyhd.php?id=49-</referer>
+<referer>https://sportskart.click/embed/stream-49.php-</referer>
 </regex>
 <thumbnail>https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png</thumbnail>
 <fanart> </fanart>
