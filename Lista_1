@@ -3,51 +3,6 @@
 <channel>
   
 <item>
-<title>regex daddylive.link/</title>
-<link>$doregex[get-rtmp] app=$doregex[get-app] playpath=$doregex[get-path] swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf flashVer=WIN\2020,0,0,286 swfVfy=1 live=1 timeout=13 pageUrl=https://streamservicehd.click/premiumtv/daddyhd.php?id=49=&width=728&height=400&autostart=true&strech=exactfit</link>
-
-<regex>
-<name>get-rtmp</name>
-<expres>file: unescape.*?'(.*)\/.*'</expres>
-<page>$doregex[clearCode]</page>
-<referer>https://www.daddylive.link</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
-
-<regex>
-<name>get-app</name>
-<expres>unescape.*?(liveedge\/.*)\/.*'</expres>
-<page>$doregex[clearCode]</page>
-<referer>https://www.daddylive.link</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
-
-<regex>
-<name>get-path</name>
-<expres>file: unescape.*\/(.*)'</expres>
-<page>$doregex[clearCode]</page>
-<referer>https://www.daddylive.link/</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
-
-<regex>
-<name>clearCode</name>
-<expres>$pyFunction:'$doregex[get-a=]'.replace("&","&amp;")</expres>
-<page></page>
-</regex>
-
-<regex>
-<name>get-a=</name>
-<expres>var url = '(.*?)';</expres>
-<page>https://streamservicehd.click/premiumtv/daddyhd.php?id=49&width=700&height=480&autostart=true</page>
-<referer>https://www.daddylive.link/</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLORgold][B]Sporttv 1[/B][/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
 <regex>
