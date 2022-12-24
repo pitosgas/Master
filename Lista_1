@@ -11,15 +11,15 @@
 <page>$doregex[m4]</page>
 <agent>Mozilla/5.0</agent>
 <accept>*/*</accept>
-<referer>https://sportskart.click/embed/stream-49.php-</referer>
+<referer>https://streamservicehd.click/premiumtv/daddyhd.php?id=49-</referer>
 </regex>
 <regex>
 <name>m4</name>
 <expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
-<page>https://streamservicehd.click/premiumtv/daddyhd.php?id=49|Upgrade-Insecure-Requests=1</page>
+<page>https://sportskart.click/embed/stream-49.php|Upgrade-Insecure-Requests=1</page>
 <agent>Mozilla/5.0</agent>
 <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
-<referer>https://v3.sportsonline.to/channels/pt/sporttv1.php-</referer>
+<referer>https://streamservicehd.click/premiumtv/daddyhd.php?id=49-</referer>
 </regex>
 <thumbnail>https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png</thumbnail>
 <fanart> </fanart>
