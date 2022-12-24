@@ -3,8 +3,8 @@
 <channel>
   
 <item>
-<title>[COLORgold][B]Sporttv 1 teste[/B][/COLOR]</title>
-<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://sportskart.click&amp;Referer=https://sportskart.click</link>
+<title>[COLORgold][B]Sporttv 1 teste 2[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://sportskart&amp;Referer=https://sportskart</link>
 <regex>
 <name>m5</name>
 <expres>var\s*src\s*=\s*"([^"]+)</expres>
