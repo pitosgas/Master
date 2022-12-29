@@ -1,29 +1,154 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV+ HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" ,SPORT TV+ HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/166
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV 1 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" ,SPORT TV 1 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/167
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORT TV 2 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" ,SPORT TV 2 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/168
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORT TV 3 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" ,SPORT TV 3 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/169
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" ,SPORT TV 4 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" ,SPORT TV 5 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/171
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" ,ELEVEN SPORTS 1 4K 
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/124
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" ,ELEVEN SPORTS 2 4K 
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/125
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN SPORTS 3 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" ,ELEVEN SPORTS 3 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/801
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN SPORTS 4 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" ,ELEVEN SPORTS 4 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/802
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN SPORTS 5 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" ,ELEVEN SPORTS 5 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/803
-#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN SPORTS 6 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" ,ELEVEN SPORTS 6 4K 
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/804
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 HD PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 1 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/137
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 HD PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 2 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]BlackSkull[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/138
+
+#EXTINF:-1  tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+http://62.28.71.186:45678/http/192.168.150.50:7050/rtp1
+ 
+#EXTINF:-1  tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
+http://62.28.71.186:45678/http/192.168.150.50:7050/rtp2
+ 
+#EXTINF:-1  tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
+http://62.28.71.186:45678/http/192.168.150.50:7050/sic
+ 
+#EXTINF:-1  tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+http://62.28.71.186:45678/http/192.168.150.50:7050/tvi
+ 
+#EXTINF:-1  tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Not%C3%ADcias.png",SIC Not�cias
+http://62.28.71.186:45678/http/192.168.108.84:7050/sicnoticias
+ 
+#EXTINF:-1  tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
+http://62.28.71.186:45678/http/192.168.150.50:7050/rtp3
+ 
+#EXTINF:-1  tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+http://62.28.71.186:45678/http/192.168.150.50:7050/tvi24?vale.ts?vale.ts=
+ 
+#EXTINF:-1  tvg-id="cmtvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMTV.png",CMTV
+http://62.28.71.186:45678/http/192.168.150.50:7050/cmtv
+ 
+#EXTINF:-1  tvg-id="sptv-plushd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sport-TV%2B.png",SportTV +
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
+ 
+#EXTINF:-1  tvg-id="canal11hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-11.png",Canal 11
+http://62.28.71.186:45678/http/192.168.150.50:7050/canal11
+ 
+#EXTINF:-1  tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
+http://62.28.71.186:45678/http/192.168.150.173:7007/tvireality
+ 
+#EXTINF:-1  tvg-id="btv1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BTV.png",Benfica TV
+http://62.28.71.186:45678/http/192.168.150.173:7000/btv1
+ 
+#EXTINF:-1  tvg-id="scptvhd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Sporting_TV.png",Sporting TV
+http://62.28.71.186:45678/http/192.168.150.50:7050/sportingtv
+ 
+#EXTINF:-1  tvg-id="sptv1hd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Sport-TV-1.png?raw=true",Sport TV 1
+http://62.28.71.186:45678/http/192.168.150.173:7987/sptv1hd
+ 
+#EXTINF:-1  tvg-id="sptv2hd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Sport-TV-2.png?raw=true",Sport TV 2
+http://62.28.71.186:45678/http/192.168.150.173:7975/sptv2hd
+ 
+#EXTINF:-1  tvg-id="sptv3hd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Sport-TV-3.png?raw=true",Sport TV 3 OFF
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
+ 
+#EXTINF:-1  tvg-id="sptv4hd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Sport-TV-4.png?raw=true",Sport TV 4
+http://62.28.71.186:45678/http/192.168.150.173:7173/sptv4
+ 
+#EXTINF:-1  tvg-id="sptv5hd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Sport-TV-5.png?raw=true",Sport TV 5
+http://62.28.71.186:45678/http/192.168.150.173:7173/sptv5
+ 
+#EXTINF:-1  tvg-id="eleven1.tv.vodafone.pt" tvg-logo="https://img.dge-prod.dicelaboratory.com/150xAUTO/2020/09/01115311-j0nz9d8wplek5shu.png",Eleven Sports 1 OFF
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+ 
+#EXTINF:-1  tvg-id="eleven2.tv.vodafone.pt" tvg-logo="https://img.dge-prod.dicelaboratory.com/150xAUTO/2021/10/19095752-8dfdfbxkcxasa708.png",Eleven Sports 2 OFF
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+ 
+#EXTINF:-1  tvg-id="eleven3.tv.vodafone.pt" tvg-logo="https://img.dge-prod.dicelaboratory.com/150xAUTO/2021/10/19095814-7ububo4jlpddigjs.png",Eleven Sports 3 OFF
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+ 
+#EXTINF:-1  tvg-id="eleven4.tv.vodafone.pt" tvg-logo="https://img.dge-prod.dicelaboratory.com/150xAUTO/2021/10/19095840-tdvlirwvy0bil3tm.png",Eleven Sports 4 OFF
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+ 
+#EXTINF:-1  tvg-id="eleven5.tv.vodafone.pt" tvg-logo="https://img.dge-prod.dicelaboratory.com/150xAUTO/2021/10/19095859-ajsx7zcwhv1gc9xh.png",Eleven Sports 5
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+ 
+#EXTINF:-1  tvg-id="eleven6.tv.vodafone.pt" tvg-logo="https://img.dge-prod.dicelaboratory.com/150xAUTO/2021/10/19100308-ohngchvw4oqrbfie.png",Eleven 6 Sports OFF
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
+ 
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/guiworldtv/M3UBR/blob/main/logos/RMTV.png?raw=true",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+ 
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Motorvision-TV.png?raw=true",Motorvision
+http://62.28.71.186:45678/http/192.168.150.173:7500/motorvision
+ 
+#EXTINF:-1  tvg-id="dischd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Discovery-Channel.png?raw=true",Discovery Channel
+http://62.28.71.186:45678/http/192.168.150.50:7050/discovery
+ 
+#EXTINF:-1  tvg-id="pandahd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Panda.png?raw=true",Canal Panda
+http://62.28.71.186:45678/http/192.168.150.50:7050/panda
+ 
+#EXTINF:-1  tvg-id="disney.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Disney-Channel.png?raw=true",Disney Channel
+http://62.28.71.186:45678/http/192.168.150.50:7050/disney
+ 
+#EXTINF:-1  tvg-id="disneyjrhd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Disney-Junior.png?raw=true",Disney Junior
+http://62.28.71.186:45678/http/192.168.150.50:7050/disneyjunior
+ 
+#EXTINF:-1  tvg-id="cnhd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Cartoon-Network.png?raw=true",Cartoon Network
+http://62.28.71.186:45678/http/192.168.150.50:7050/cartoon
+ 
+#EXTINF:-1  tvg-id="sicrhd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/SIC-Radical.png?raw=true",SIC Radical
+http://62.28.71.186:45678/http/192.168.150.50:7050/sicradical
+ 
+#EXTINF:-1  tvg-id="mtvphd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/MTV.png?raw=true",MTV
+http://62.28.71.186:45678/http/192.168.108.84:7050/mtv
+ 
+#EXTINF:-1  tvg-id="mtv00s.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00's
+http://62.28.71.186:45678/http/192.168.150.50:7050/vh1
+ 
+#EXTINF:-1  tvg-id="tracehd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/TRACE-Urban.png?raw=true",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1  tvg-id="afrom.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Afro-Music.png?raw=true",Afro Music
+http://62.28.71.186:45678/http/192.168.150.50:7050/afromusic
+ 
+#EXTINF:-1  tvg-id="24khd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/24-Kitchen.png?raw=true",24Kitchen
+http://62.28.71.186:45678/http/192.168.150.50:7050/24kitchen
+ 
+#EXTINF:-1  tvg-id="tvctophd.tv.vodafone.pt" tvg-logo="https://www.actigamer.pt/cnt/uploads/I20H001tvcinetop-e1583912798176.png",TVCine TOP
+http://62.28.71.186:45678/http/192.168.150.173:7777/tvcine1hd
+ 
+#EXTINF:-1  tvg-id="tvcemotionhd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png",TVCine Emotion
+http://62.28.71.186:45678/http/192.168.150.173:7777/tvcineemotion
+ 
+#EXTINF:-1  tvg-id="tvceditionhd.tv.vodafone.pt" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png",TVCine Edition
+http://62.28.71.186:45678/http/192.168.150.173:7777/tvcineedition
+ 
+#EXTINF:-1  tvg-id="tvcactionhd.tv.vodafone.pt" tvg-logo="https://www.actigamer.pt/cnt/uploads/I20H001tvcineaction-e1583912767831.png",TVCine Action
+http://62.28.71.186:45678/http/192.168.150.173:7777/tvcine4hd
+ 
+#EXTINF:-1  tvg-id="axnhd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/AXN.png?raw=true",AXN
+http://62.28.71.186:45678/http/192.168.150.50:7050/axn
+ 
+#EXTINF:-1  tvg-id="axnwhd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White
+http://62.28.71.186:45678/http/192.168.150.50:7050/axnwhite
+ 
+#EXTINF:-1  tvg-id="axnmhd.tv.vodafone.pt" tvg-logo="https://www.axn.pt/sites/pt.axn/files/spt_rebrand_overrides_header_logos/axnmovies_2015_white_magenta_rgb_endorsement_web.png",AXN Movies
+http://62.28.71.186:45678/http/192.168.150.50:7050/axnblack
+ 
+#EXTINF:-1  tvg-id="foxhd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Fox.png?raw=true",FOX
+http://62.28.71.186:45678/http/192.168.150.50:7050/fox
+ 
+#EXTINF:-1  tvg-id="foxchd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Fox-Crime.png?raw=true",FOX Crime
+http://62.28.71.186:45678/http/192.168.150.50:7050/foxcrime
+ 
+#EXTINF:-1  tvg-id="foxmhd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Fox-Movies.png?raw=true",FOX Movies
+http://62.28.71.186:45678/http/192.168.150.50:7050/foxmovies
+ 
+#EXTINF:-1  tvg-id="hollywhd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Hollywood.png?raw=true",Hollywood
+http://62.28.71.186:45678/http/192.168.150.137:7050/hollywoodhd
+ 
+#EXTINF:-1  tvg-id="cinemundohd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Cinemundo.png?raw=true",Cinemundo
+http://62.28.71.186:45678/http/192.168.150.137:7050/cinemundohd
+ 
+#EXTINF:-1  tvg-id="syfyhd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/SyFy.png?raw=true",SyFy
+http://62.28.71.186:45678/http/192.168.150.50:7050/syfy
+ 
+#EXTINF:-1  tvg-id="ngwhd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/National-Geographic.png?raw=true",National Geographic
+http://62.28.71.186:45678/http/192.168.150.50:7050/nationalgeographic
