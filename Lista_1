@@ -3,6 +3,29 @@
 <channel>
   
 <item>
+<title>[COLORgold][B][I]Benfica_Tv_teste[/I][/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://daddyhd.com/stream/stream-380.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://daddyhd.com/embed/stream-380.php|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://daddyhd.com/stream/stream-380.php-</referer>
+</regex>
+<thumbnail>https://i.imgur.com/r64HZFm.jpg</thumbnail>
+<fanart> </fanart>
+</item>
+  
+<item>
 <title>[COLORgold][B]Sporttv 1[/B][/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
 <regex>
