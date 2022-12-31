@@ -1,416 +1,415 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="Pt: RTP 1 HD" tvg-logo="http://vod-logo.net/photos/2b8569e11ab66e0fcde74717da8c4db1.png" ,Pt: RTP 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70810
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70810
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="Pt: RTP 1 4K" tvg-logo="http://vod-logo.net/photos/2b8569e11ab66e0fcde74717da8c4db1.png" ,Pt: RTP 1 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72008
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72008
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="Pt: RTP 2 HD" tvg-logo="http://vod-logo.net/photos/22d5c7ded84da36daa36b289c06ef35e.png" ,Pt: RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70811
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70811
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="Pt: RTP 2 4K" tvg-logo="http://vod-logo.net/photos/22d5c7ded84da36daa36b289c06ef35e.png" ,Pt: RTP 2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72009
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72009
 #EXTINF:-1 tvg-id="rtp3.pt" tvg-name="Pt: RTP 3" tvg-logo="http://vod-logo.net/photos/0206360af3f4b46e15479b9943d87177.png" ,Pt: RTP 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70812
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70812
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="Pt: SIC HD" tvg-logo="http://vod-logo.net/photos/35c7bf53cd4c6ef7dc9fd7eb1a6fa346.png" ,Pt: SIC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70817
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70817
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="Pt: SIC 4K" tvg-logo="http://vod-logo.net/photos/35c7bf53cd4c6ef7dc9fd7eb1a6fa346.png" ,Pt: SIC 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72012
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72012
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="Pt: TVI HD" tvg-logo="http://vod-logo.net/photos/bd69feb24634e07bd30b7996123aff49.png" ,Pt: TVI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70823
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70823
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="Pt: TVI 4K" tvg-logo="http://vod-logo.net/photos/bd69feb24634e07bd30b7996123aff49.png" ,Pt: TVI 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72038
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72038
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="Pt: SIC Noticias HD" tvg-logo="http://vod-logo.net/photos/1475db9e8f8cbd498874ee1b442624ab.png" ,Pt: SIC Noticias HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70922
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70922
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="Pt: SIC Noticias 4K" tvg-logo="http://vod-logo.net/photos/1475db9e8f8cbd498874ee1b442624ab.png" ,Pt: SIC Noticias 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72015
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72015
 #EXTINF:-1 tvg-id="cmtv.pt" tvg-name="Pt: CM TV HD" tvg-logo="http://vod-logo.net/photos/7ce4ea5707191908f285b0922904e862.png" ,Pt: CM TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70923
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70923
 #EXTINF:-1 tvg-id="cmtv.pt" tvg-name="Pt: CM TV 4K" tvg-logo="http://vod-logo.net/photos/7ce4ea5707191908f285b0922904e862.png" ,Pt: CM TV 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71978
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71978
 #EXTINF:-1 tvg-id="cnnportugal.pt" tvg-name="Pt: CNN Portugal" tvg-logo="" ,Pt: CNN Portugal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70822
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70822
 #EXTINF:-1 tvg-id="cnnportugal.pt" tvg-name="Pt: CNN Portugal 4K" tvg-logo="" ,Pt: CNN Portugal 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72036
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72036
 #EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="Pt: Bloomberg" tvg-logo="" ,Pt: Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/101810
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/101810
 #EXTINF:-1 tvg-id="recordnews.pt" tvg-name="Pt: Record News" tvg-logo="" ,Pt: Record News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70920
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70920
 #EXTINF:-1 tvg-id="" tvg-name="Pt: TCV Cabo Verde" tvg-logo="" ,Pt: TCV Cabo Verde
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71942
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71942
 #EXTINF:-1 tvg-id="" tvg-name="Pt: ARTV Direto" tvg-logo="" ,Pt: ARTV Direto
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71926
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71926
 #EXTINF:-1 tvg-id="euronews.pt" tvg-name="Pt: EuroNews" tvg-logo="http://vod-logo.net/photos/846b1e8e8fc954f45f69f444ff8320e0.jpg" ,Pt: EuroNews
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70924
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70924
 #EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="Pt: RTP MADEIRA" tvg-logo="http://vod-logo.net/photos/6c80002e899eb3b58268a7ba62af2a6e.png" ,Pt: RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298788
-#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="Pt: TVI FICCAO HD" tvg-logo="http://vod-logo.net/photos/925f3688e063eff739780e5b065292c4.png" ,Pt: TVI FICCAO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70824
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298788
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70824
 #EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="Pt: TVI FICCAO 4K" tvg-logo="http://vod-logo.net/photos/925f3688e063eff739780e5b065292c4.png" ,Pt: TVI FICCAO 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72037
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72037
 #EXTINF:-1 tvg-id="tvireality.pt" tvg-name="Pt: TVI Reality" tvg-logo="http://vod-logo.net/photos/ddea4a2f75df06d1157ce977578cf5ae.png" ,Pt: TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298637
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298637
 #EXTINF:-1 tvg-id="tvireality.pt" tvg-name="Pt: TVI Reality 4K" tvg-logo="http://vod-logo.net/photos/ddea4a2f75df06d1157ce977578cf5ae.png" ,Pt: TVI Reality 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72039
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72039
 #EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="Pt: SIC Mulher" tvg-logo="http://vod-logo.net/photos/b2bd6bdc33dd9446d4f7b0cb82961ef5.png" ,Pt: SIC Mulher
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70821
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70821
 #EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="Pt: SIC Mulher 4K" tvg-logo="http://vod-logo.net/photos/b2bd6bdc33dd9446d4f7b0cb82961ef5.png" ,Pt: SIC Mulher 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72014
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72014
 #EXTINF:-1 tvg-id="sicradical.pt" tvg-name="Pt: SIC Radical" tvg-logo="http://vod-logo.net/photos/4d7b6506b5dc79ea064375e96dd1740d.png" ,Pt: SIC Radical
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70819
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70819
 #EXTINF:-1 tvg-id="sicradical.pt" tvg-name="Pt: SIC Radical 4K" tvg-logo="http://vod-logo.net/photos/4d7b6506b5dc79ea064375e96dd1740d.png" ,Pt: SIC Radical 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72016
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72016
 #EXTINF:-1 tvg-id="globo.pt" tvg-name="Pt: TV Globo" tvg-logo="" ,Pt: TV Globo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70830
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70830
 #EXTINF:-1 tvg-id="globo.pt" tvg-name="Pt: TV Globo 4K" tvg-logo="" ,Pt: TV Globo 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71997
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71997
 #EXTINF:-1 tvg-id="canalq.pt" tvg-name="Pt: Canal Q" tvg-logo="http://vod-logo.net/photos/40792be62a77bd4bb865dbd0dcb89812.png" ,Pt: Canal Q
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71932
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71932
 #EXTINF:-1 tvg-id="canal180.pt" tvg-name="Pt: Canal 180" tvg-logo="" ,Pt: Canal 180
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298656
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298656
 #EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="Pt: Kuriakos TV" tvg-logo="http://vod-logo.net/photos/ab8979ccab5305628d9fb49eca801366.png" ,Pt: Kuriakos TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71940
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71940
 #EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="Pt: Kuriakos TV 4k" tvg-logo="http://vod-logo.net/photos/ab8979ccab5305628d9fb49eca801366.png" ,Pt: Kuriakos TV 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298661
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298661
 #EXTINF:-1 tvg-id="" tvg-name="Pt: FATIMA TV" tvg-logo="http://vod-logo.net/photos/e7034665a29df79577939596f2c9e279.png" ,Pt: FATIMA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/138021
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/138021
 #EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="Pt: RTP Africa" tvg-logo="http://vod-logo.net/photos/35fbd520ab1eafede7635ee2c75f6365.png" ,Pt: RTP Africa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70814
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70814
 #EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="Pt: RTP Acores" tvg-logo="http://vod-logo.net/photos/400f44f58f73cd8afb80b878db76a3a0.png" ,Pt: RTP Acores
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70816
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70816
 #EXTINF:-1 tvg-id="" tvg-name="Pt: TV Record HD" tvg-logo="" ,Pt: TV Record HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72029
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72029
 #EXTINF:-1 tvg-id="tveinternacional.pt" tvg-name="Pt: TVE Internacional" tvg-logo="" ,Pt: TVE Internacional
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70832
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70832
 #EXTINF:-1 tvg-id="" tvg-name="Pt: Euro Channel HD" tvg-logo="" ,Pt: Euro Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71934
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71934
 #EXTINF:-1 tvg-id="localvisaotv.pt" tvg-name="Pt: LOCALVISAO" tvg-logo="" ,Pt: LOCALVISAO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298664
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298664
 #EXTINF:-1 tvg-id="" tvg-name="Pt: SIC ADVANCE" tvg-logo="" ,Pt: SIC ADVANCE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298792
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298792
 #EXTINF:-1 tvg-id="" tvg-name="Pt: SIC OPTO" tvg-logo="http://vod-logo.net/photos/096ccca279bae011afb8dfa69c3a0521.png" ,Pt: SIC OPTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298791
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298791
 #EXTINF:-1 tvg-id="" tvg-name="Pt: Galicia HD" tvg-logo="" ,Pt: Galicia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71946
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71946
 #EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="Pt: Cancao Nova" tvg-logo="http://vod-logo.net/photos/e351891903fd43c803e0855a37fffd49.png" ,Pt: Cancao Nova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70827
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70827
 #EXTINF:-1 tvg-id="fox.pt" tvg-name="Pt: Fox HD" tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" ,Pt: Fox HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70896
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70896
 #EXTINF:-1 tvg-id="fox.pt" tvg-name="Pt: FOX 4K" tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" ,Pt: FOX 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71993
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71993
 #EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="Pt: Fox Comedy HD" tvg-logo="http://vod-logo.net/photos/488cfbc1c4fbc6e7479fa1f5063517cb.png" ,Pt: Fox Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70898
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70898
 #EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="Pt: FOX Comedy 4K" tvg-logo="http://vod-logo.net/photos/488cfbc1c4fbc6e7479fa1f5063517cb.png" ,Pt: FOX Comedy 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71991
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71991
 #EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Pt: Fox Crime HD" tvg-logo="http://www.vod-logo.net/photos/2732c519701aba74be040ad8658bf748.jpg" ,Pt: Fox Crime HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70895
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70895
 #EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Pt: FOX Crime 4K" tvg-logo="http://www.vod-logo.net/photos/2732c519701aba74be040ad8658bf748.jpg" ,Pt: FOX Crime 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71992
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71992
 #EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Pt: Fox Life HD" tvg-logo="http://www.vod-logo.net/photos/cc026f4371841cd769bd6d86b58e5c37.jpg" ,Pt: Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70897
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70897
 #EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Pt: FOX Life 4K" tvg-logo="http://www.vod-logo.net/photos/cc026f4371841cd769bd6d86b58e5c37.jpg" ,Pt: FOX Life 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71994
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71994
 #EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="Pt: FOX Movies HD" tvg-logo="http://www.vod-logo.net/photos/85d8701485c12028682bb23a08b98ff3.jpg" ,Pt: FOX Movies HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70889
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70889
 #EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="Pt: FOX Movies 4K" tvg-logo="http://www.vod-logo.net/photos/85d8701485c12028682bb23a08b98ff3.jpg" ,Pt: FOX Movies 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71995
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71995
 #EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="Pt: TV Cine Action HD" tvg-logo="http://vod-logo.net/photos/7207c605b8b0cd51f9175a30093edc50.png" ,Pt: TV Cine Action HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70886
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70886
 #EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="Pt: TV Cine Action 4K" tvg-logo="http://vod-logo.net/photos/7207c605b8b0cd51f9175a30093edc50.png" ,Pt: TV Cine Action 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72032
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72032
 #EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="Pt: TV Cine Edition HD" tvg-logo="http://vod-logo.net/photos/a284ff817defacd364303ea8f1b7b687.png" ,Pt: TV Cine Edition HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70884
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70884
 #EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="Pt: TV Cine Edition 4K" tvg-logo="http://vod-logo.net/photos/a284ff817defacd364303ea8f1b7b687.png" ,Pt: TV Cine Edition 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72033
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72033
 #EXTINF:-1 tvg-id="tvcinetophd.pt" tvg-name="Pt: TV CINE TOP HD" tvg-logo="http://vod-logo.net/photos/31e633015c88b8154edf4c97702fe3df.png" ,Pt: TV CINE TOP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70883
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70883
 #EXTINF:-1 tvg-id="tvcinetophd.pt" tvg-name="Pt: TV Cine Top 4K" tvg-logo="http://vod-logo.net/photos/31e633015c88b8154edf4c97702fe3df.png" ,Pt: TV Cine Top 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72035
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72035
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="Pt: AXN HD" tvg-logo="http://www.vod-logo.net/photos/8cbf8edfa846021f6e3191d57c867570.jpg" ,Pt: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70890
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70890
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="Pt: AXN 4K" tvg-logo="http://www.vod-logo.net/photos/8cbf8edfa846021f6e3191d57c867570.jpg" ,Pt: AXN 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71969
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71969
 #EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="Pt: AXN Movies HD" tvg-logo="http://vod-logo.net/photos/191af01ebdd8772a61d7dfdb5e754b88.png" ,Pt: AXN Movies HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71927
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71927
 #EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="Pt: AXN Movies 4K" tvg-logo="http://vod-logo.net/photos/191af01ebdd8772a61d7dfdb5e754b88.png" ,Pt: AXN Movies 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71970
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71970
 #EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="Pt: AXN White" tvg-logo="http://www.vod-logo.net/photos/3ddb2283290fbe5c797a446923dd890e.jpg" ,Pt: AXN White
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70891
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70891
 #EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="Pt: AXN White 4K" tvg-logo="http://www.vod-logo.net/photos/3ddb2283290fbe5c797a446923dd890e.jpg" ,Pt: AXN White 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71971
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71971
 #EXTINF:-1 tvg-id="amchd.pt" tvg-name="Pt: AMC" tvg-logo="http://vod-logo.net/photos/01187dabef5b8d6ec30d6ce650858af6.png" ,Pt: AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70888
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70888
 #EXTINF:-1 tvg-id="amchd.pt" tvg-name="Pt: AMC 4K" tvg-logo="http://vod-logo.net/photos/01187dabef5b8d6ec30d6ce650858af6.png" ,Pt: AMC 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71968
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71968
 #EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="Pt: Cinemundo HD" tvg-logo="http://vod-logo.net/photos/6bd3a4a68439134a915541b55476390f.png" ,Pt: Cinemundo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70894
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70894
 #EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="Pt: Cinemundo 4K" tvg-logo="http://vod-logo.net/photos/6bd3a4a68439134a915541b55476390f.png" ,Pt: Cinemundo 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71977
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71977
 #EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="Pt: NOS STUDIOS HD" tvg-logo="http://vod-logo.net/photos/1aebc824fa3b91a26f89abea6ff2c28f.png" ,Pt: NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121892
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121892
 #EXTINF:-1 tvg-id="nostudios.pt" tvg-name="Pt: NOS Studio 4K" tvg-logo="http://vod-logo.net/photos/1aebc824fa3b91a26f89abea6ff2c28f.png" ,Pt: NOS Studio 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72005
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72005
 #EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Pt: Hollywood HD" tvg-logo="http://vod-logo.net/photos/acfdb60d81d5c695ce73c23f42c0bbb2.png" ,Pt: Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72000
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72000
 #EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Pt: Hollywood 4K" tvg-logo="http://vod-logo.net/photos/acfdb60d81d5c695ce73c23f42c0bbb2.png" ,Pt: Hollywood 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70887
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70887
 #EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="Pt: Kuriakus Cine" tvg-logo="" ,Pt: Kuriakus Cine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298663
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298663
 #EXTINF:-1 tvg-id="" tvg-name="Pt: GLOBO PREMIUM" tvg-logo="http://vod-logo.net/photos/35a5a012b2915b386b45cf4545060d58.png" ,Pt: GLOBO PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71937
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71937
 #EXTINF:-1 tvg-id="syfy.pt" tvg-name="Pt: SyFy HD" tvg-logo="http://www.vod-logo.net/photos/ab8409742e520ccde7dc2f2770eee888.jpg" ,Pt: SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70901
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70901
 #EXTINF:-1 tvg-id="syfy.pt" tvg-name="Pt: SYFY 4K" tvg-logo="http://www.vod-logo.net/photos/ab8409742e520ccde7dc2f2770eee888.jpg" ,Pt: SYFY 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72028
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72028
 #EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="Pt: Nat Geo HD" tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" ,Pt: Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70863
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70863
 #EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="Pt: Nat Geo 4K" tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" ,Pt: Nat Geo 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72004
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72004
 #EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="Pt: Nat Geo Wild HD" tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" ,Pt: Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70864
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70864
 #EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="Pt: Nat Geo Wild 4K" tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" ,Pt: Nat Geo Wild 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72003
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72003
 #EXTINF:-1 tvg-id="discoverychannelhd.pt" tvg-name="Pt: Discovery Channel HD" tvg-logo="http://www.vod-logo.net/photos/1893a037baccadce6d502c6d1dc1f49d.png" ,Pt: Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70865
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70865
 #EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Pt: Discovery Channel 4K" tvg-logo="http://www.vod-logo.net/photos/1893a037baccadce6d502c6d1dc1f49d.png" ,Pt: Discovery Channel 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71979
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71979
 #EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="Pt: Investigation Discovery ID HD" tvg-logo="http://www.vod-logo.net/photos/4147f4662da018ccaa41e9e0827f1af0.jpg" ,Pt: Investigation Discovery ID HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71935
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71935
 #EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="Pt: Investigation Discovery ID 4K" tvg-logo="http://www.vod-logo.net/photos/4147f4662da018ccaa41e9e0827f1af0.jpg" ,Pt: Investigation Discovery ID 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72001
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72001
 #EXTINF:-1 tvg-id="historia.pt" tvg-name="Pt: Historia" tvg-logo="http://vod-logo.net/photos/d450708f5649a52ea8577af83d4de6d7.png" ,Pt: Historia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70868
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70868
 #EXTINF:-1 tvg-id="historia.pt" tvg-name="Pt: Historia HD" tvg-logo="http://vod-logo.net/photos/d450708f5649a52ea8577af83d4de6d7.png" ,Pt: Historia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298638
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298638
 #EXTINF:-1 tvg-id="cacavisionhd.pt" tvg-name="Pt: CACAVISION" tvg-logo="" ,Pt: CACAVISION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/138019
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/138019
 #EXTINF:-1 tvg-id="siccaras.pt" tvg-name="Pt: SIC Caras HD" tvg-logo="http://vod-logo.net/photos/5b31cacdef25e2e147c7d516bd4b7975.png" ,Pt: SIC Caras HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70820
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70820
 #EXTINF:-1 tvg-id="siccaras.pt" tvg-name="Pt: SIC Caras 4K" tvg-logo="http://vod-logo.net/photos/5b31cacdef25e2e147c7d516bd4b7975.png" ,Pt: SIC Caras 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72011
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72011
 #EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Pt: Odisseia HD" tvg-logo="http://vod-logo.net/photos/2226bd60188179299aabfe44313191f1.png" ,Pt: Odisseia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70866
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70866
 #EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Pt: Odisseia 4K" tvg-logo="http://vod-logo.net/photos/2226bd60188179299aabfe44313191f1.png" ,Pt: Odisseia 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72006
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72006
 #EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="Pt: Crime & Investigation HD" tvg-logo="http://www.vod-logo.net/photos/95f42baff4179badc9d62d4cffaeb8e4.png" ,Pt: Crime & Investigation HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70908
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70908
 #EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="Pt: RTP Memoria" tvg-logo="http://vod-logo.net/photos/8923183a89fed9e5ae6f832654f44d82.png" ,Pt: RTP Memoria
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70813
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70813
 #EXTINF:-1 tvg-id="tlc.pt" tvg-name="Pt: TLC" tvg-logo="http://www.vod-logo.net/photos/6a2fd28bbb9a5720e61348235d05cd53.jpg" ,Pt: TLC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70906
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70906
 #EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="Pt: CBS Reality" tvg-logo="http://www.vod-logo.net/photos/05f3bbbbcb6ccbdd0ffbd10dd0cfef7e.jpg" ,Pt: CBS Reality
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70907
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70907
 #EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="Pt: Travel Channel HD" tvg-logo="" ,Pt: Travel Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70867
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70867
 #EXTINF:-1 tvg-id="" tvg-name="Pt: Blaze HD" tvg-logo="" ,Pt: Blaze HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71929
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71929
 #EXTINF:-1 tvg-id="blaze.pt" tvg-name="Pt: Blaze TV 4K" tvg-logo="" ,Pt: Blaze TV 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71974
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71974
 #EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="Pt: Casa E Cozinha HD" tvg-logo="http://vod-logo.net/photos/319d45b8df0f3ca765477946f4388b25.png" ,Pt: Casa E Cozinha HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71933
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71933
 #EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="Pt: Casa E Cozinha 4K" tvg-logo="http://vod-logo.net/photos/319d45b8df0f3ca765477946f4388b25.png" ,Pt: Casa E Cozinha 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71976
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71976
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="Pt: 24 Kitchen HD" tvg-logo="" ,Pt: 24 Kitchen HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70918
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70918
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="Pt: 24 Kitchen 4K" tvg-logo="" ,Pt: 24 Kitchen 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71966
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71966
 #EXTINF:-1 tvg-id="foodnetwork.pt" tvg-name="Pt: Food Network HD" tvg-logo="http://www.vod-logo.net/photos/037d9cff19cf69d6cbd8ab85f45c5825.jpg" ,Pt: Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70911
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70911
 #EXTINF:-1 tvg-id="splus.pt" tvg-name="Pt: S+ 4K" tvg-logo="" ,Pt: S+ 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298665
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298665
 #EXTINF:-1 tvg-id="zapviva.pt" tvg-name="Pt: Zap Viva HD" tvg-logo="" ,Pt: Zap Viva HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71948
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71948
 #EXTINF:-1 tvg-id="zapviva.pt" tvg-name="Pt: ZAP Viva 4K" tvg-logo="" ,Pt: ZAP Viva 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72040
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72040
 #EXTINF:-1 tvg-id="tpainternational.pt" tvg-name="Pt: TPA INTERNACIONAL" tvg-logo="" ,Pt: TPA INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/138023
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/138023
 #EXTINF:-1 tvg-id="" tvg-name="Pt: FTV" tvg-logo="" ,Pt: FTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70828
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70828
 #EXTINF:-1 tvg-id="fashiontv.pt" tvg-name="Pt: FASHION TV" tvg-logo="" ,Pt: FASHION TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121928
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121928
 #EXTINF:-1 tvg-id="dogtv.pt" tvg-name="Pt: DOG TV" tvg-logo="" ,Pt: DOG TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121930
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121930
 #EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="Pt: E! Entertainment HD" tvg-logo="http://www.vod-logo.net/photos/6aa7dc9c2e3aac3fafd36027cd8a8046.jpg" ,Pt: E! Entertainment HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70904
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70904
 #EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="Pt: E! Entertainment 4K" tvg-logo="http://www.vod-logo.net/photos/6aa7dc9c2e3aac3fafd36027cd8a8046.jpg" ,Pt: E! Entertainment 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71980
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71980
 #EXTINF:-1 tvg-id="sick.pt" tvg-name="Pt: SIC K HD" tvg-logo="http://vod-logo.net/photos/68aad252cdb1aee3e5e5a69752e0526c.png" ,Pt: SIC K HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70877
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70877
 #EXTINF:-1 tvg-id="sick.pt" tvg-name="Pt: SIC K 4K" tvg-logo="http://vod-logo.net/photos/68aad252cdb1aee3e5e5a69752e0526c.png" ,Pt: SIC K 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72013
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72013
 #EXTINF:-1 tvg-id="panda.pt" tvg-name="Pt: CANAL PANDA" tvg-logo="" ,Pt: CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121922
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121922
 #EXTINF:-1 tvg-id="panda.pt" tvg-name="Pt: PANDA KIDS" tvg-logo="http://vod-logo.net/photos/ec85aebcc3cd0ba00ddf288890e94311.png" ,Pt: PANDA KIDS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/174069
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/174069
 #EXTINF:-1 tvg-id="biggs.pt" tvg-name="Pt: Biggs" tvg-logo="http://vod-logo.net/photos/776ac76c6677e2de6ae2ac43f5df9b87.png" ,Pt: Biggs
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70875
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70875
 #EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="Pt: Nickelodeon" tvg-logo="http://www.vod-logo.net/photos/9fc794edf45f82c0efcc0f794f62b1e9.jpg" ,Pt: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70872
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70872
 #EXTINF:-1 tvg-id="nickjr.pt" tvg-name="Pt: Nick Junior" tvg-logo="http://www.vod-logo.net/photos/74e72cc046c8272bd32d874dc1721264.jpg" ,Pt: Nick Junior
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121923
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121923
 #EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Pt: Disney Channel" tvg-logo="http://www.vod-logo.net/photos/c9c6afef702accfdae08d7239bd8d080.JPG" ,Pt: Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70880
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70880
 #EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="Pt: Disney Junior HD" tvg-logo="http://vod-logo.net/photos/0e2f704d935f99f8a76ee1dfeaf94f57.jpg" ,Pt: Disney Junior HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70881
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70881
 #EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Pt: Disney+" tvg-logo="http://vod-logo.net/photos/1762e6124d431220b8cc47a00bab6d8d.png" ,Pt: Disney+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/101815
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/101815
 #EXTINF:-1 tvg-id="" tvg-name="Pt: Disney Star Wars" tvg-logo="http://vod-logo.net/photos/2eceed28b8ccb8a00e0cc3138d9f2bf1.png" ,Pt: Disney Star Wars
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/101817
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/101817
 #EXTINF:-1 tvg-id="babytv.pt" tvg-name="Pt: Baby TV" tvg-logo="http://www.vod-logo.net/photos/704519ca93198af27fd8839eb729ad66.png" ,Pt: Baby TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70874
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70874
 #EXTINF:-1 tvg-id="" tvg-name="Pt: LOLLY KIDS HD" tvg-logo="" ,Pt: LOLLY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121907
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121907
 #EXTINF:-1 tvg-id="" tvg-name="Pt: Kuriakos Kids" tvg-logo="" ,Pt: Kuriakos Kids
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298662
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298662
 #EXTINF:-1 tvg-id="jimjam.pt" tvg-name="Pt: Jim Jam" tvg-logo="" ,Pt: Jim Jam
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71939
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71939
 #EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="Pt: Cartoon Network" tvg-logo="" ,Pt: Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70879
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70879
 #EXTINF:-1 tvg-id="boomerang.pt" tvg-name="Pt: Boomerang HD" tvg-logo="" ,Pt: Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/101809
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/101809
 #EXTINF:-1 tvg-id="canal11.pt" tvg-name="Pt: Canal 11 HD" tvg-logo="http://vod-logo.net/photos/34930a82a4c031443aa3f84ca5c3ac03.png" ,Pt: Canal 11 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71931
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71931
 #EXTINF:-1 tvg-id="canal11.pt" tvg-name="Pt: Canal 11 4K" tvg-logo="http://vod-logo.net/photos/34930a82a4c031443aa3f84ca5c3ac03.png" ,Pt: Canal 11 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71975
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71975
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="Pt: Sport TV +" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" ,Pt: Sport TV +
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70841
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70841
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="Pt: Sport TV + HD" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" ,Pt: Sport TV + HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70842
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70842
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="Pt: Sport TV + 4K" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" ,Pt: Sport TV + 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72017
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72017
 #EXTINF:-1 tvg-id="sporttv4k.pt" tvg-name="Pt: Sport TV 8K" tvg-logo="" ,Pt: Sport TV 8K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72026
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72026
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Pt: Sport TV 1 HD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" ,Pt: Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70843
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70843
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Pt: Sport TV 1 SD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" ,Pt: Sport TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70844
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70844
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Pt: Sport TV 1 4K" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" ,Pt: Sport TV 1 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72018
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72018
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Pt: Sport TV 1 8K" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" ,Pt: Sport TV 1 8K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72019
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72019
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Pt: Sport TV 2 HD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" ,Pt: Sport TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70845
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70845
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Pt: Sport  TV 2 SD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" ,Pt: Sport  TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70846
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70846
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Pt: Sport TV 2 4K" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" ,Pt: Sport TV 2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72020
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72020
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Pt: Sport TV 3 HD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" ,Pt: Sport TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70847
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70847
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Pt: Sport TV 3 SD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" ,Pt: Sport TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70848
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70848
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Pt: Sport TV 3 4K" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" ,Pt: Sport TV 3 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72022
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72022
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Pt: Sport TV 4 HD" tvg-logo="http://vod-logo.net/photos/271f5410b895bc09d25919af45f236fd.png" ,Pt: Sport TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70849
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70849
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Pt: Sport TV 4 4K" tvg-logo="http://vod-logo.net/photos/271f5410b895bc09d25919af45f236fd.png" ,Pt: Sport TV 4 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72023
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72023
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Pt: Sport TV 5 HD" tvg-logo="" ,Pt: Sport TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70850
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70850
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Pt: Sport TV 5 4K" tvg-logo="" ,Pt: Sport TV 5 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72024
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72024
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Pt: Eleven Sport 1 HD" tvg-logo="http://vod-logo.net/photos/9a72ecc66d8220deb0587d3273d0248d.png" ,Pt: Eleven Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70835
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70835
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Pt: Eleven Sports 1 4K" tvg-logo="http://vod-logo.net/photos/9a72ecc66d8220deb0587d3273d0248d.png" ,Pt: Eleven Sports 1 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71981
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71981
 #EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Pt: Eleven Sport 2 HD" tvg-logo="http://vod-logo.net/photos/6c3d72dad461d373e5c6fec0ff2bde2a.png" ,Pt: Eleven Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70836
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70836
 #EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Pt: Eleven Sports 2 4K" tvg-logo="http://vod-logo.net/photos/6c3d72dad461d373e5c6fec0ff2bde2a.png" ,Pt: Eleven Sports 2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71983
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71983
 #EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Pt: Eleven Sport 3 HD" tvg-logo="http://vod-logo.net/photos/3b94182a3106fe5d3f1de1263c609ea8.png" ,Pt: Eleven Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70837
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70837
 #EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Pt: Eleven Sports 3 4K" tvg-logo="http://vod-logo.net/photos/3b94182a3106fe5d3f1de1263c609ea8.png" ,Pt: Eleven Sports 3 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71985
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71985
 #EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="Pt: Eleven Sport 4 HD" tvg-logo="http://vod-logo.net/photos/f9cfd61484f039b87dd9070ecb6ec0b9.png" ,Pt: Eleven Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70838
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70838
 #EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="Pt: Eleven Sports 4 4K" tvg-logo="http://vod-logo.net/photos/f9cfd61484f039b87dd9070ecb6ec0b9.png" ,Pt: Eleven Sports 4 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71986
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71986
 #EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="Pt: Eleven Sport 5 HD" tvg-logo="" ,Pt: Eleven Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70839
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70839
 #EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="Pt: Eleven Sports 5 4K" tvg-logo="" ,Pt: Eleven Sports 5 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71987
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71987
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="Pt: Eleven Sport 6 HD" tvg-logo="" ,Pt: Eleven Sport 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121896
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121896
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="Pt: Eleven Sports 6 HD" tvg-logo="" ,Pt: Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298789
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298789
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="Pt: Eleven Sports 6 4K" tvg-logo="" ,Pt: Eleven Sports 6 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71988
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71988
 #EXTINF:-1 tvg-id="amc.pt" tvg-name="Pt: BTV 4K" tvg-logo="" ,Pt: BTV 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70854
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70854
 #EXTINF:-1 tvg-id="" tvg-name="Pt: BTV HD" tvg-logo="" ,Pt: BTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298655
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298655
 #EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="Pt: Sporting TV" tvg-logo="http://vod-logo.net/photos/c3fbdd9e99ea3d18310449c4df888f62.png" ,Pt: Sporting TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70855
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70855
 #EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="Pt: Sporting TV 4K" tvg-logo="http://vod-logo.net/photos/c3fbdd9e99ea3d18310449c4df888f62.png" ,Pt: Sporting TV 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72027
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72027
 #EXTINF:-1 tvg-id="porto.pt" tvg-name="Pt: Porto Canal HD" tvg-logo="" ,Pt: Porto Canal HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70825
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70825
 #EXTINF:-1 tvg-id="porto.pt" tvg-name="Pt: Porto Canal 4K" tvg-logo="" ,Pt: Porto Canal 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72007
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72007
 #EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="Pt: Sport TV NBA" tvg-logo="" ,Pt: Sport TV NBA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/105086
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/105086
 #EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="Pt: Sport TV NBA 4K" tvg-logo="" ,Pt: Sport TV NBA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72025
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72025
 #EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="Pt: Kombat Sport" tvg-logo="" ,Pt: Kombat Sport
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70860
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70860
 #EXTINF:-1 tvg-id="fueltv.pt" tvg-name="Pt: Fuel TV" tvg-logo="" ,Pt: Fuel TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70829
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70829
 #EXTINF:-1 tvg-id="fueltv.pt" tvg-name="Pt: FUEL TV 4K" tvg-logo="" ,Pt: FUEL TV 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71996
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71996
 #EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="Pt: EuroSport 1" tvg-logo="http://www.vod-logo.net/photos/ccf3ef964c2be9790aa396ac9c165579.jpg" ,Pt: EuroSport 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70852
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70852
 #EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="Pt: EuroSport 1 4K" tvg-logo="http://www.vod-logo.net/photos/ccf3ef964c2be9790aa396ac9c165579.jpg" ,Pt: EuroSport 1 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71989
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71989
 #EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="Pt: EuroSport 2" tvg-logo="http://www.vod-logo.net/photos/1172255e540f09f2647859b2caefa2a5.jpg" ,Pt: EuroSport 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70853
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70853
 #EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="Pt: EuroSport 2 4K" tvg-logo="http://www.vod-logo.net/photos/1172255e540f09f2647859b2caefa2a5.jpg" ,Pt: EuroSport 2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71990
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71990
 #EXTINF:-1 tvg-id="abolatv.pt" tvg-name="Pt: A Bola TV" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" ,Pt: A Bola TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70859
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70859
 #EXTINF:-1 tvg-id="abolatv.pt" tvg-name="Pt: A Bola 4K" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" ,Pt: A Bola 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71967
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71967
 #EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="Pt: CACA & PESCA HD" tvg-logo="" ,Pt: CACA & PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121885
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121885
 #EXTINF:-1 tvg-id="pfc.pt" tvg-name="Pt: PFC" tvg-logo="" ,Pt: PFC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70857
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70857
 #EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="Pt: Benfica HD" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png" ,Pt: Benfica HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71928
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71928
 #EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="Pt: Benfica 4K" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png" ,Pt: Benfica 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71972
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71972
 #EXTINF:-1 tvg-id="" tvg-name="Pt: FightBox FHD" tvg-logo="" ,Pt: FightBox FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121898
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121898
 #EXTINF:-1 tvg-id="fightnetworkhd.pt" tvg-name="Pt: FIGHT NETWORK 4K" tvg-logo="" ,Pt: FIGHT NETWORK 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298659
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298659
 #EXTINF:-1 tvg-id="" tvg-name="Pt: Combate HD" tvg-logo="" ,Pt: Combate HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298658
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298658
 #EXTINF:-1 tvg-id="" tvg-name="Pt: RTP ARENA 4K" tvg-logo="http://vod-logo.net/photos/c8c3bb2efcc10af95165bd30f1365732.png" ,Pt: RTP ARENA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/174063
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/174063
 #EXTINF:-1 tvg-id="motorvision.pt" tvg-name="Pt: Motorvision" tvg-logo="" ,Pt: Motorvision
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70914
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70914
 #EXTINF:-1 tvg-id="toros.pt" tvg-name="Pt: Toros TV" tvg-logo="http://vod-logo.net/photos/34ff5f35d92ee9972a88b1e2f20b37c6.png" ,Pt: Toros TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71943
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71943
 #EXTINF:-1 tvg-id="toros.pt" tvg-name="Pt: Toros FHD" tvg-logo="http://vod-logo.net/photos/34ff5f35d92ee9972a88b1e2f20b37c6.png" ,Pt: Toros FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298603
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298603
 #EXTINF:-1 tvg-id="" tvg-name="Pt: WWE" tvg-logo="" ,Pt: WWE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/101813
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/101813
 #EXTINF:-1 tvg-id="mezzo.pt" tvg-name="Pt: Mezzo HD" tvg-logo="" ,Pt: Mezzo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71941
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71941
 #EXTINF:-1 tvg-id="vh1.pt" tvg-name="Pt: VH1" tvg-logo="" ,Pt: VH1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/101812
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/101812
 #EXTINF:-1 tvg-id="mtv.pt" tvg-name="Pt: MTV HD" tvg-logo="" ,Pt: MTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/105087
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/105087
 #EXTINF:-1 tvg-id="mtv.pt" tvg-name="Pt: MTV 4K" tvg-logo="" ,Pt: MTV 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72002
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/72002
 #EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="Pt: Afro Music" tvg-logo="http://vod-logo.net/photos/12e23a87bdcd92a8d48f4a65e163a7e6.png" ,Pt: Afro Music
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70916
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70916
 #EXTINF:-1 tvg-id="tracetoca.pt" tvg-name="Pt: Trace Toca" tvg-logo="" ,Pt: Trace Toca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71944
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71944
 #EXTINF:-1 tvg-id="traceurban.pt" tvg-name="Pt: Trace Urban" tvg-logo="" ,Pt: Trace Urban
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71945
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/71945
 #EXTINF:-1 tvg-id="mcmpop.pt" tvg-name="Pt: MCM Top" tvg-logo="" ,Pt: MCM Top
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298602
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298602
 #EXTINF:-1 tvg-id="mcmpop.pt" tvg-name="Pt: MCM Pop" tvg-logo="" ,Pt: MCM Pop
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70912
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70912
 #EXTINF:-1 tvg-id="clubbingtv.pt" tvg-name="Pt: Clubbing TV" tvg-logo="" ,Pt: Clubbing TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298657
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/298657
 #EXTINF:-1 tvg-id="meodestaques.pt" tvg-name="Pt: MEO Destaques" tvg-logo="" ,Pt: MEO Destaques
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121902
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121902
 #EXTINF:-1 tvg-id="meovideoclubehd.pt" tvg-name="Pt: MEO Videoclube" tvg-logo="" ,Pt: MEO Videoclube
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white]BlackSkull[/COLOR];&buffer=60000;url=http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121901
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/121901
