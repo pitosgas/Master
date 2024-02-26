@@ -1,30 +1,397 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV+ HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" ,SPORT TV+ HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/166
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV 1 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" ,SPORT TV 1 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/167
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORT TV 2 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" ,SPORT TV 2 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/168
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORT TV 3 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" ,SPORT TV 3 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/169
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" ,SPORT TV 4 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" ,SPORT TV 5 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/171
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" ,ELEVEN SPORTS 1 4K 
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/124
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" ,ELEVEN SPORTS 2 4K 
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/125
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN SPORTS 3 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" ,ELEVEN SPORTS 3 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/801
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN SPORTS 4 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" ,ELEVEN SPORTS 4 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/802
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN SPORTS 5 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" ,ELEVEN SPORTS 5 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/803
-#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN SPORTS 6 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" ,ELEVEN SPORTS 6 4K 
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/804
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 HD PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 1 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/137
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 HD PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 2 HD PT
-plugin://plugin.video.f4mTester/?name=[COLOR white]PORRETAS[/COLOR]&streamtype=HLSRETRY&maxbitrate=0&Buffer=20191129153332&url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/138
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RTP 1 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9706.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RTP 1 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9707.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RTP 2
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9708.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RTP 2 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9709.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RTP 2 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9710.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RTP 3
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9711.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RTP 3 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9712.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RTP INTERNATIONAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9713.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RTP MEMORIA
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9839.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RTP MADEIRA
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9840.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RTP AFRICA
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9841.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RTP AÇORES
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9842.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SIC FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9714.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SIC HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9715.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SIC CARAS
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9836.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SIC MULHER HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9837.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| GLOBO NOW
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9751.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| GLOBO TV
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9753.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TVI 24
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9720.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TVI 24 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9721.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TVI FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9722.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TVI HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9724.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TVI FICCAO HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9723.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TPA INTERNACIONAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9719.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| PORTO CANAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9790.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]               •●★DESPORTO+★●•
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9857.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| CAMPO PEQUENO FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9655.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV +
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9717.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| SPORT TV + LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36978.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9718.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16809.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV1 SD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9728.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV 1  LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36979.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV 1 4k
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/37016.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV2 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9731.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| SPORT TV 2 LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36980.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| SPORT TV 2  4K
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/37017.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV 3 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9733.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV3 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9734.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV3 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9735.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV3 SD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9736.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| SPORT TV 3 LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36981.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV4 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9737.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| SPORT TV 4 LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36982.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORTV 4 FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16811.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV5 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9739.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV5 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9740.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV5 SD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9741.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| SPORT TV 5 LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36983.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORTV 5 FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16812.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV 6 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/66792.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORT TV 6 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/66793.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| SPORT TV NBA LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36984.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 1 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9742.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 1 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9743.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 2 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9744.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 2 SD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9745.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 2 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9746.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 3 SD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9748.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 3 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9749.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 3 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9750.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 4 SD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9798.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVENS SPORTS 4 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9799.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVENS SPORTS 4 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9800.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 5 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9796.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 5 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9797.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 6 SD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9793.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 6 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9794.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ELEVEN SPORTS 6 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9795.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| EUROSPORT 1 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9787.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| EUROSPORT 1 FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9788.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| EUROSPORT 2 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9786.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| BENFICA TV HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9791.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| BENFICA TV FHD (NOS)
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9792.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SPORTING TV HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9789.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| MOTORVISION HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9784.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| KOMBAT SPORT
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9783.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| NBA TV
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9782.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| A BOLA TV
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9785.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]               •●★FILMES E SERIES+★●•
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9860.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| HOLLYWOOD HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9852.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| CINEMUNDO FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9820.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| CINEMUNDO HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9821.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TV CINE ACTION SD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9822.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TV CINE ACTION HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9823.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TV CINE EMOTION HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9826.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TV CINE EDITION SD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9828.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TV CINE EDITION HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9829.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TV CINE EDITION FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9830.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TV CINE TOP SD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9831.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TV CINE TOP HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9832.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| FOX FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9801.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| FOX COMEDY HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9803.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| FOX LIFE HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9805.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| FOX CRIME HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9807.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| FOX CRIME FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9808.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| AXN WHITE
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9809.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| AXN WHITE HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9810.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| AXN WHITE FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9811.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| AXN BLACK HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9813.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| AXN BLACK FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9814.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| AXN
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9815.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| AXN FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9816.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SYFY HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9817.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| AMC HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9819.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]               •●★ENTRENIMENTO+★●•
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9861.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| KURIAKOS TV FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9702.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| NOS STUDIOS HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9704.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| PFC
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9705.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| CANCAO NOVA
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9756.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| FTV HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9757.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TLC
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9833.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| CANAL Q
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9834.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SIC KIDS
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9838.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| FOX HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9850.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| CACAVISION
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9695.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TVI REALITY
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9725.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ZAP VIVA FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9726.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| 24 KITCHEN FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9693.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| CBS REALITY
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9697.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| MEZZO HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9843.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| MCM POP
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9844.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| VH1 HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9845.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TRACE URBAN
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9846.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| AFRO MUSIC
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9847.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| MTV
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9848.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| MTV PORTUGAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9849.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]               •●★INFORMACAO+★●•
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9862.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RECORD TV FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9754.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| RECORD TV SD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9755.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SIC NOTICIAS HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9716.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SIC RADICAL HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9835.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| CMTV HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9698.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| EURONEWS
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9700.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]               •●★DOCUMENTARIOS+★●•
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9858.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| FUEL TV HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9758.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TRAVEL CHANNEL HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9760.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TRAVEL CHANNEL FHD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9761.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| HISTORIA HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9762.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ODISSEIA HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9764.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| E! ENTERTAINMENT
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9766.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ID INVESTIGATION DISCOVERY
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9768.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| NAT GEO WILD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9769.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| DISCOVERY CHANNEL HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9770.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| NATIONAL GEOGRAPHIC HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9771.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]               •●★INFANTI+★●•
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9859.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| BABY TV
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9772.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| JIMJAM
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9774.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| CARTOON NETWORK
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9775.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| PANDA BIGGS
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9776.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| NICKELODEON
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9778.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| DISNEY JUNIOR
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9779.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| DISNEY CHANNEL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/9780.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TVI FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16803.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SIC NOTICIAS FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16804.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TVI 24 FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16805.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SIC MULHER FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16807.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| TVCINE EMOTION FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16820.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| AMC FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16822.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| FOX MOVIES FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16824.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| AXN MOVIES FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16826.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| AXN WHITE FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16827.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| FOX COMEDY FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16829.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| FOX LIFE FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16831.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| SYFY FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16832.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| ID INVESTIGATION DISCOVERY FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16834.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| CANAL 11 FHD+
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/16837.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| BTV 4k
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36968.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| RTP 1 LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36970.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| TVI 24 LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36974.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| CMTV LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36975.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| CASA E COZINHA LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36976.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| ELEVEN SPORTS 2 LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36986.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| ELEVEN SPORTS 3 LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36987.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| ELEVEN SPORTS 4 LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36988.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| ELEVEN SPORTS 5 LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36989.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| CANAL 11 LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36990.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| A BOLA TV LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36991.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| BTV   LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36992.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| EUROSPORT 2 LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36996.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| REDBULL TV LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36997.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| FIGHT NETWORK LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36998.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| NOS STUDIOS LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/36999.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| TVCINE TOP LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/37000.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| TVCINE EDITION LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/37001.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| TVCINE EMOTION LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/37002.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| HOLLYWOOD LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/37004.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| AXN MOVIES LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/37005.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| FOX MOVIES LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/37006.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| FOX LIFE LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/37011.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| FOX COMEDY LOCAL
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/37013.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| ELEVEN SPORTS 1 4K
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/37018.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||pt|| ELEVEN SPORTS 2  4K
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/37019.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| FATIMA TV
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/47243.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| DISNEY+ MARVEL HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/51523.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| OPTO SIC HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/74277.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| HBO HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/88558.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,[COLOR gold]M@aster[/COLOR]||PT|| Canal panda HD
+http://goldiptvofficiel.tv:25461/live/armindo.cardoso68/eNBPazLPEnr8/91720.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
